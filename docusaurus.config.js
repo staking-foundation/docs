@@ -39,23 +39,18 @@ const config = {
 
   presets: [
     [
-      '@docusaurus/preset-classic',
-      {
-        gtag: {
-          trackingID: 'G-X8QXVBR3VV',
-        },
+      'classic',
+      /** @type {import('@docusaurus/preset-classic').Options} */
+      ({
         sitemap: {
           changefreq: 'weekly',
           priority: 0.5,
           ignorePatterns: ['/tags/**'],
           filename: 'sitemap.xml',
         },
-      },
-    ],
-    [
-      'classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
+        gtag: {
+          trackingID: 'G-X8QXVBR3VV',
+        },
         docs: {
           remarkPlugins: [math],
           rehypePlugins: [katex],
