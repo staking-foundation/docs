@@ -13,21 +13,6 @@ module.exports = {
   },
 };
 
-module.exports = {
-  presets: [
-    [
-      '@docusaurus/preset-classic',
-      {
-        gtag: {
-          trackingID: 'G-X8QXVBR3VV',
-          anonymizeIP: true,
-        },
-      },
-    ],
-  ],
-};
-
-
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -57,6 +42,15 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+          ignorePatterns: ['/tags/**'],
+          filename: 'sitemap.xml',
+        },
+        gtag: {
+          trackingID: 'G-X8QXVBR3VV',
+        },
         docs: {
           remarkPlugins: [math],
           rehypePlugins: [katex],
