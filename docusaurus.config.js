@@ -13,17 +13,6 @@ module.exports = {
   },
 };
 
-module.exports = {
-  plugins: [
-    [
-      '@docusaurus/plugin-google-gtag',
-      {
-        trackingID: 'G-X8QXVBR3VV',
-      },
-    ],
-  ],
-};
-
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -49,6 +38,20 @@ const config = {
   },
 
   presets: [
+    [
+      '@docusaurus/preset-classic',
+      {
+        gtag: {
+          trackingID: 'G-X8QXVBR3VV',
+        },
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+          ignorePatterns: ['/tags/**'],
+          filename: 'sitemap.xml',
+        },
+      },
+    ],
     [
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
