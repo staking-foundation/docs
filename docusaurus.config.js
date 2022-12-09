@@ -14,19 +14,15 @@ module.exports = {
 };
 
 module.exports = {
-  presets: [
+  plugins: [
     [
-      '@docusaurus/preset-classic',
+      '@docusaurus/plugin-google-gtag',
       {
-        gtag: {
-          trackingID: 'G-X8QXVBR3VV',
-          anonymizeIP: true,
-        },
+        trackingID: 'G-X8QXVBR3VV',
       },
     ],
   ],
 };
-
 
 
 /** @type {import('@docusaurus/types').Config} */
