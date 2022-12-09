@@ -13,17 +13,21 @@ module.exports = {
   },
 };
 
-// docusaurus.config.js
 module.exports = {
-  plugins: ['@docusaurus/plugin-google-analytics'],
-  themeConfig: {
-    googleAnalytics: {
-      trackingID: 'G-X8QXVBR3VV',
-      // Optional fields.
-      anonymizeIP: false, // Should IPs be anonymized?
-    },
-  },
+  presets: [
+    [
+      '@docusaurus/preset-classic',
+      {
+        googleAnalytics: {
+          trackingID: 'G-X8QXVBR3VV',
+          anonymizeIP: false,
+        },
+      },
+    ],
+  ],
 };
+
+
 
 
 /** @type {import('@docusaurus/types').Config} */
