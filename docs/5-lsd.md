@@ -1,4 +1,4 @@
-# Liquid staking
+# divETH
 
 ## How divETH works for users
 

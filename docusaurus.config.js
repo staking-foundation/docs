@@ -118,7 +118,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Welcome',
+                label: 'Home',
                 to: '/',
               },
             ],
@@ -154,7 +154,7 @@ const config = {
           //   ],
           // },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Diva VBI, Inc.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Diva BVI, Inc.`,        
       },
       prism: {
         theme: lightCodeTheme,
