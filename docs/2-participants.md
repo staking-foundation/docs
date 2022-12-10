@@ -12,9 +12,9 @@ An Operator is anyone maintaining the infrastructure for Diva protocol by runnin
 
 When an Operator has enough collateral, their node can be selected to be part of a validator and receive validation duties. If fulfilled correctly, the Operator will gain a % of rewards, and if not fulfilled, they might lose part of their collateral.
 
-While Stakers receive 90-100% of the staking yield, **an Operator can expect to earn higher APYs on their ETH**, because their bond is staked generating 100% yield, plus a potential allocation from the 0-10% collected from passive stakers.
+While Stakers receive the staking yield, Operators receive the same plus a potential allocation from passive stakers.
 
-This can result in an effective staking APY that's also higher to running a solo validator on Ethereum with 32 ETH.
+This would be more competitive than running a solo validator on Ethereum with 32 ETH.
 
 With Diva, operators can run their DVTs with no technical complexity, more resiliency and from only 1 ETH.
 
