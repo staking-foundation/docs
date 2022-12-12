@@ -91,8 +91,6 @@ const config = {
     ({
       metadata: [
         { name: 'og:image', content: 'https://divalabs.org/metalogo.png' },
-        { name: 'test', content: 'https://divalabs.org/metalogo.png' },
-        { name: 'test', content: 'test' },
         { name: 'twitter:image', content: 'https://divalabs.org/metalogo.png' },
         {name: 'og:title', content: 'Ethereum liquid staking using distributed validators'},
         {name: 'og:description', content: 'Diva is a ETH Liquid Staking protocol powered by Distributed Validators that anyone can run with a low number of ETHs.'},
