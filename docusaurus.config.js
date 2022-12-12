@@ -9,16 +9,17 @@ const katex = require('rehype-katex');
 
 module.exports = {
   themeConfig: {
-    image: 'https://divalabs.org/metalogo.png',
     metadata: [
+      { name: 'og:image', content: 'https://divalabs.org/metalogo.png' },
+      { name: 'test', content: 'https://divalabs.org/metalogo.png' },
+      { name: 'test', content: 'test' },
+      { name: 'twitter:image', content: 'https://divalabs.org/metalogo.png' },
       {name: 'og:title', content: 'Ethereum liquid staking using distributed validators'},
-      {name: 'og:description', content: 'Diva is a ETH Liquid Staking protocol powered by Distributed Validators that anyone can run with a low number of ETHs."><meta property=og:image content=https://divalabs.org/metalogo.png><meta property=twitter:card content=summary_large_image><meta property=twitter:url content=https://divalabs.org/ ><meta property=twitter:title content="Ethereum liquid staking using distributed validators"><meta property=twitter:description content="Diva is a ETH Liquid Staking protocol powered by Distributed Validators that anyone can run with a low number of ETHs.'},
-      {name: 'og:image', content: 'https://divalabs.org/metalogo.png'},
+      {name: 'og:description', content: 'Diva is a ETH Liquid Staking protocol powered by Distributed Validators that anyone can run with a low number of ETHs.'},
       {name: 'twitter:card', content: 'summary_large_image'},
       {name: 'twitter:url', content: 'https://divalabs.org/'},
       {name: 'twitter:title', content: 'Ethereum liquid staking using distributed validators'},
       {name: 'twitter:description', content: 'Diva is a ETH Liquid Staking protocol powered by Distributed Validators that anyone can run with a low number of ETHs.'},
-      {name: 'twitter:image', content: 'https://divalabs.org/metalogo.png'}
     ],
   },
 };
