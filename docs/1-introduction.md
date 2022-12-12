@@ -2,7 +2,7 @@
 slug: /
 sidebar_position: 1
 title: Introduction
-description: Diva is a non-custodial Ethereum Liquid Staking Derivative (LSD) protocol powered by Distributed Validator Technology (DVT)
+description: Diva is a non-custodial Ethereum Liquid Staking Derivative (LSD) protocol powered by Distributed Validator Technology (DVT).
 ---
 
 # Introduction
