@@ -9,7 +9,7 @@
 Stakers obtain a liquid token, divETH, representing their ETH and the accrued value of their ETH rewards. divETH is a rebasing token. Balances can be used like regular ETH, and are updated on a daily basis to reflect your ETH's staking rewards. There are no lock-ups or minimum deposits. However it is also possible to convert divEth to a non-rebasing token, wdivETH (wrapped divETH), which is an alternative where the balance is not updated daily. As such, wdivETH appreciates versus ETH over time and its value accrual consolidates once “unwrapped” back into divETH.
 
 ### **Distributed Validation** 
-Distributed Key Generation (DKG) is being used among several nodes to generate the secret keys allocated to each single validator. Upon generationThe the nodes sign and combine the validator's signatures thanks to the properties of Boneh–Lynn–Shacham (BLS) Threshold Signatures.
+Distributed Key Generation (DKG) is being used among several nodes to generate the secret keys allocated to each single validator. Upon generation the nodes sign and combine the validator's signatures thanks to the properties of Boneh–Lynn–Shacham (BLS) Threshold Signatures.
 
 ### **Non-custodial**
 There’s no custodianship within the Diva protocol, being the ETH provided by the participants automatically staked within the Ethereum network. Further, all Diva’s smart contracts are non upgradable, minimizing any prospective attack vector.
