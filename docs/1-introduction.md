@@ -8,9 +8,9 @@ description: Diva is a non-custodial Ethereum Liquid Staking Derivative (LSD) pr
 # Introduction
 
 
-Diva is a non-custodial Ethereum Liquid Staking Derivative (LSD) protocol powered by Distributed Validator Technology (DVT). It is a vertically integrated protocol that offers depositors a liquid staking token that accrues value with staking rewards automatically without the need of running any infrastructure or trusting any central party. The network performs Distributed Validation with a group of bonded node operators that fulfill staking duties with a non-custodial model. Besides, it distributes staking rewards among the participants of this cooperative: Stakers, Operators, and the Diva DAO to balance the interests of the network.
+Diva is a non-custodial Ethereum Liquid Staking Derivative (LSD) protocol powered by Distributed Validator Technology (DVT). It is a vertically integrated protocol that offers depositors a liquid staking token that accrues value with Ethereum’s staking rewards automatically without the need of running any infrastructure or trusting any central party. The network leverages Distributed Validation technology through groups of bonded node operators that fulfill staking duties within a non-custodial model. Besides, Ethereum’s staking rewards are distributed among the  diva protocol participants to balance the interests of the network.
 
-While other solutions have features like liquid staking or DVT as tools, Diva is the only non-custodial solution that fully addresses the financial and technical barriers that Ethereum has.
+While other solutions have features like liquid staking or DVT as tools, Diva is the only end to end non-custodial solution that fully addresses the current financial and technical challenges that Ethereum's staking mechanism poses.
 
 
 <div style={{textAlign: 'center'}}>
