@@ -1,4 +1,4 @@
-# Components
+# Protocol components
 
 
 ## Node
