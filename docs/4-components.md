@@ -34,7 +34,7 @@ The Diva Smart Contract (DSC) allows:
 - Operators to register their key-shares for new Distributed Validators.
 - Operators to trustlessly coordinate the creation of a new Ethereum validator in batches of 32 ETH.
 
-Diva SCs are non-upgradeable. This is one of the features that allow the protocol to remain predictable. If an issue manifests within a smart contract, a protection mechanism is in place to minimize any prospective impact to all parties.
+Diva SCs will be non-upgradeable. This is one of the features that allow the protocol to remain predictable. If an issue manifests within a smart contract, a protection mechanism is in place to minimize any prospective impact to all parties.
 
 Distributed Validators are subject to regular Ethereum Validator duties. The Diva SC handles staking reward distributions to the network participants on a rules-based basis, updating all balances daily.
 
