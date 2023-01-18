@@ -108,11 +108,11 @@ const config = {
           //   label: 'Tutorial',
           // },
           // {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/divalabs/docs',
-            label: 'GitHub',
-            position: 'right',
-          },
+    //      {
+    //        href: 'https://github.com/divalabs/docs',
+    //        label: 'GitHub',
+    //        position: 'right',
+    //      },
         ],
       },
       footer: {
