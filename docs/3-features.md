@@ -14,7 +14,7 @@ divETH is a rebasing token, increasing its balance daily in your wallet as it ac
 
 It is also possible to convert divETH to a non-rebasing token, wdivETH (wrapped divETH), which is an alternative where the balance is not updated daily. As such, wdivETH appreciates versus ETH over time and its value accrual consolidates once “unwrapped” back into divETH.
 
-[Learn more about the divETH and wdivETH liquid staking tokens](5-lsd.md)
+[Learn more about the divETH and wdivETH liquid staking tokens](4-lsd.md)
 
 ### **Non-custodial**
 
