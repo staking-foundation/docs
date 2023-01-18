@@ -1,41 +1,51 @@
 # Components
 
 
-
 ## Node
 
- The node works along Ethereum Execution and Consensus clients to support the Diva infrastructure for the distributed validator to work. The nodes can maintain different key-shares that represent a share in different distributed validator. Thanks to nodes, Diva creates a network that supports distributed validation. Node's Client, as all Diva software, is being released open sourced, in the most convenient formats such as code, as docker image and as Dappnode package. A Diva Client enables operators to seamlessly:
+A node is a hardware machine running all of these:
 
-- Register as operator in Diva smart contracts.
-- Sync the Consensus and execution clients and get them ready.
-- Add key-shares by depositing 1 ETH each to be part of many distributed-validators.
-- Perform the different duties through Diva for Ethereum.
+1. An Ethereum Execution client
+2. An Ethereum Consensus client
+3. The Diva client.
 
-## Diva's P2P Network
+Nodes run the required infrastructure to power a Distributed Validator.
 
-Diva creates a P2P network between nodes for discovering purposes. This way Diva is decentralized and censorship-resistant. Also, the P2P network allows the DKG to be performed fully decentralized.
+Nodes will own different key-shares, allowing them to operate Distributed Validators in coordination with other nodes.
+
+The Diva client is open source and available in several formats such as source code, as Docker image and a Dappnode package. It allows nodes to:
+
+- Register as an Operator in the Diva smart contracts.
+- Sync the Consensus and Execution clients.
+- Receive Distributed Validator key-shares when maintaining the required ETH bond.
+- Perform validation duties for the Distributed Validators they're part of.
+
+## The Diva P2P Network
+
+Diva creates a P2P network between nodes for discovery purposes. This way Diva remains decentralized and censorship-resistant. Also, the P2P network allows the DKG to be performed in fully decentralized manner that preserves privacy and security of all data transmissions.
 
 
 ## Smart Contracts
 
+The Diva Smart Contract (DSC) allows:
 
-The Diva Smart Contract allows Stakers to deposit ETH and receive yield-accruing divETH 1:1. They also enable operators to register and deposit ETH for their new key-shares allowing them to take their role at different distributed validators.
+- Stakers to deposit ETH and receive yield-generating divETH 1:1.
+- Stakers to un-stake their divETH and receive ETH 1:1 by requesting a validator withdrawal.
+- Operators to register their key-shares for new Distributed Validators.
+- Operators to trustlessly coordinate the creation of a new Ethereum validator in batches of 32 ETH.
 
- Diva Smart Contract (SC) coordinates with registered Nodes to generate a new Ethereum validator on 32ETH batches. Besides, the Diva SC is able to request validator withdrawals.
+Diva SCs are non-upgradeable. This is one of the features that allow the protocol to remain predictable. If an issue manifests within a smart contract, a protection mechanism is in place to minimize any prospective impact to all parties.
 
-Diva SCs are non-upgradeable. This is one of the features that allow the protocol to be more predictable. If an issue manifests within a smart contract, a protection mechanism is in place to minimize any prospective impact.
+Distributed Validators are subject to regular Ethereum Validator duties. The Diva SC handles staking reward distributions to the network participants on a rules-based basis, updating all balances daily.
 
-As any other validator, distributed validators need to perform Ethereum's set duties. The Diva SC handles staking reward distributions to the network participants o a daily basis.
-
-The Diva protocol is born to become a public good and therefore, all the infrastructure along with the smart contracts are released under the most permissive open-source license.
-
+The Diva protocol has been conceived as a public good and therefore, all the infrastructure along with the smart contracts are released under permissive open-source licenses.
 
 ## Oracle
 
-The Ethereum blockchain is running in two separate chains: the execution layer and the consensus layer. The execution layer is where the blocks and transaction and smart contracts sit, while consensus layer is where the validation and consensus information takes place.
+The Ethereum blockchain is running on two separate chains: the Execution Layer (EL) and the Consensus Layer (CL). The Execution Layer is where the blocks and transaction and smart contracts sit, while Consensus Layer is where the validation and consensus mechanisms take place.
 
-At the time of this writing, this two-layer separation makes it impossible for the Diva SC to access to the state of a validator. The Diva SC has no direct way to check how one of its validators has been performing without checking the consensus layer.
+At the time of this writing, this two-layer separation makes it technically impossible for the Diva SC (EL) to access to the state of a validator (CL). The Diva SC has no direct way to check how one of its validators has been performing without receiving information from the consensus layer.
 
-The proposed EIP-4788 will solve this problem, by making it possible to communicate with both layers.
+The proposed [EIP-4788](https://eips.ethereum.org/EIPS/eip-4788) will solve this problem, by making it possible to communicate with both layers.
 
-However, until EIP-4788 is available Diva’s SC uses oracle’s as the best available solution to obtain the data required.
+However, until EIP-4788 is available, Diva’s SC will use oracles as the best available solution to obtain the data required. Oracles will be operated by distributed network operators.
