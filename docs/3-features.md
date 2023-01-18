@@ -22,7 +22,7 @@ Operators never have access to user funds. Diva automatically stakes the ETH pro
 
 ### **Immutable, non-upgradable contracts**
 
-All of Diva’s smart contracts are immutable and non-upgradable, minimizing the potential vectors of attack.
+All of Diva’s smart contracts will be immutable and non-upgradable, minimizing the potential vectors of attack.
 
 ### **Distributed Validation** 
 
