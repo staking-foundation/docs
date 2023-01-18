@@ -158,7 +158,6 @@ const config = {
           //   ],
           // },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Diva BVI, Inc.`,        
       },
       prism: {
         theme: lightCodeTheme,
