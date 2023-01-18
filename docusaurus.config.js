@@ -100,7 +100,7 @@ const config = {
         title: 'diva',
         logo: {
           alt: '💄',
-          src: 'img/divalabs.jpg',
+          src: 'img/diva.svg',
         },
         items: [
           // {
