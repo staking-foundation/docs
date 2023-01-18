@@ -122,18 +122,18 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Home',
-                to: '/',
+                label: 'Homepage',
+                to: 'https://divalabs.org',
+              },
+              {
+                label: 'Stake with Diva',
+                to: 'https://stake.divalabs.org',
               },
             ],
           },
           {
             title: 'Community',
             items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/divalabs',
-              },
               {
                 label: 'Discord',
                 href: 'https://discord.gg/diva',
