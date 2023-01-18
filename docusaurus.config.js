@@ -119,7 +119,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Diva',
             items: [
               {
                 label: 'Homepage',
