@@ -22,7 +22,7 @@ It is a vertically integrated protocol that connects Stakers and Operators:
 ![stake](img/stake.png)
 </div>
 
-Ethereum’s staking rewards are distributed among the  diva protocol participants to balance the interests of the network.
+Ethereum’s staking rewards are distributed to the Diva protocol participants to balance the interests of the network.
 
 While other solutions have features like liquid staking or DVT as tools, Diva is the first end-to-end solution that fully addresses the current economical and technical challenges that Ethereum's staking mechanism poses.
 
