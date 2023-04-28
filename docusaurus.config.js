@@ -46,12 +46,12 @@ const config = {
           trackingID: 'G-X8QXVBR3VV',
         },
         docs: {
+          breadcrumbs: false,
           remarkPlugins: [math],
           rehypePlugins: [katex],
           sidebarPath: require.resolve('./sidebars.js'),
           // path: "docs",
           routeBasePath: "/",
-          exclude: ['litepaper/0-Title.md'],
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
         },
@@ -81,7 +81,12 @@ const config = {
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
+    ({    colorMode: {
+      defaultMode: 'light',
+      disableSwitch: true,
+      respectPrefersColorScheme: false,
+    },
+
       metadata: [
         { name: 'og:image', content: 'https://divalabs.org/metalogo.png' },
         { name: 'twitter:image', content: 'https://divalabs.org/metalogo.png' },
