@@ -2,19 +2,25 @@
 pagination_next: null
 pagination_prev: null
 ---
-# Participants
+# Stakers & Operators
 
 Diva stakes all ETH from Stakers and Operators to generate staking rewards, which are distributed according to the contributions of each party.
 
 ## Stakers
 
-Stakers deposit ETH and get divETH, which automatically accrues staking rewards.
+Stakers deposit ETH to obtain divETH, which automatically accrues staking rewards.
 
-Anyone can be a Staker with no minimum ETH requirement. Stakers depositing ETH to the Diva smart contract will instantly receive tradable divETH 1:1 representing their reward-accruing deposit.
+Anyone can become a Staker with no minimum ETH requirement. Stakers depositing ETH to the Diva smart contract will instantly receive tradable recpeit token called divETH 1:1 representing their reward-accruing deposit.
 
-Stakers will usually see their divETH balance increase daily as it generates staking rewards. divETH uses a [rebasing mechanism](04-lst.md) that updates its balance in the user wallet automatically to reflect the accrued rewards. 1 divETH can be redeemed for 1 ETH at any time by requesting a withdrawal from the Diva Smart Contract.
+Stakers will usually see their divETH balance increase daily as it generates staking rewards. divETH uses a [rebasing mechanism](04-lsd.md) that updates its balance in the user wallet automatically to reflect the accrued rewards. 1 divETH can be redeemed for 1 ETH at any time by requesting a withdrawal from the Diva Smart Contract.
 
-Stakers earn rewards passively and have no duties towards the Diva protocol. They can use their divETH in the DeFi ecosystem as a liquid staking token. divETH accrues staking rewards daily.
+Stakers can use their divETH in the DeFi ecosystem as a liquid staking token. divETH accrues staking rewards daily.
+
+
+<div style={{textAlign: 'center'}}>
+
+![stake](img/stakers-and-operators.png)
+</div>
 
 
 ## Operators
@@ -25,7 +31,7 @@ Unlike other solutions, Operators are completely non-custodial. They never have 
 
 Instead, 2/3rds of Operators need to come to consensus on what to sign in order to approve any action affecting a Diva validator.
 
-This is done by giving each signer one key-share out of many, making system more reliable and safe. This uses Diva's unique DVT, which creates validators through Distributed Key Generation (DKG) to sign duties using BLS threshold signatures.
+This is done by giving each signer one key-share out of many, making the system more reliable and safe. This uses Diva's unique DVT, which creates validators through Distributed Key Generation (DKG) to sign duties using BLS threshold signatures.
 
 Operators can only be assigned to operate validators if they are providing sufficient ETH as a bond. This bond serves as a guarantee to align incentives with Stakers. Should an Operator miss any validation duties, this bond can be transferred to Stakers as compensation for any potential losses.
 

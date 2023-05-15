@@ -22,11 +22,12 @@ const sidebars = {
       type: 'category',
       label: 'General',
       collapsible: true,
-      items: [    'introduction',
+      items: ['introduction',
       'participants',
       'features',
-      'lst',
-      'roadmap'
+      'lsd', /* this is linked from the homepage. change to lsd later. check for inside links */
+      'roadmap',
+      'dvt'
       ],
     },
     {
@@ -39,6 +40,7 @@ const sidebars = {
       'comp_rp',
       'comp_cex',
       'comp_solo',
+      'comp_obol_ssv'
       ],
     },
     /*
@@ -73,14 +75,14 @@ const sidebars = {
       type: 'category',
       label: 'Coming soon...',
       collapsible: true,
-      items:  [ 'sec_bug','sec_audit','deployed' ]
+      items:  [ 'analytics', 'sec_bug','sec_audit','deployed' ]
       ,
     },
     {
       type: 'category',
       label: 'Reference',
       collapsible: true,
-      items: [ 'tech-components','glossary'/*,'tech-ent','dkg'*/],
+      items: [ 'components','glossary'/*,'tech-ent','dkg'*/],
     },
   ],
   developerSidebar: [
