@@ -1,7 +1,4 @@
----
-pagination_next: null
-pagination_prev: null
----
+
 # Diva vs Obol vs SSV
 
 Obol, SSV and Diva are the main projects developing Distributed Validator Technology (DVT).

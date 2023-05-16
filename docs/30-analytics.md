@@ -1,7 +1,4 @@
----
-pagination_next: null
-pagination_prev: null
----
+
 # Analytics
 
 #### Dune Analytics Dashboard (Goerli Testnet)

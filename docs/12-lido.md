@@ -1,7 +1,4 @@
----
-pagination_next: null
-pagination_prev: null
----
+
 # Diva vs Lido
 
 Both Diva and Lido are Liquid Staking protocols, allowing stakers to easily stake their ETH and use it in Defi.

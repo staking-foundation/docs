@@ -1,7 +1,4 @@
----
-pagination_next: null
-pagination_prev: null
----
+
 # Diva comparison
 
 <div style={{textAlign: 'center'}}>
@@ -9,14 +6,16 @@ pagination_prev: null
 ![Diva balances convenience and decentralization](img/comparison_table.png)
 </div>
 
-Diva is designed to be compatible with existing Liquid Staking protocols:
+## Designed for full compatibility
+
+Diva's Liquid Staking is design to work just like popular staking protocols:
 
 - Anyone can stake with Diva with no minumum ETH requirement
 - divETH allows for easy integration in Defi
 
 Diva rewards are expected to be better than for other protocols, by using a dynamic balance between Stakers and Operators
 
-The unique advantage of Diva's DVT is that it offers:
+## Diva's unique advantage is its DVT
 
 - Node redundancy and significantly better uptime (*~500x better!*)
 - Protection against single nodes failing or acting maliciously

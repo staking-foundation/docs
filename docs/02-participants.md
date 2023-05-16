@@ -1,7 +1,9 @@
 ---
-pagination_next: null
-pagination_prev: null
+title: Stakers & Operators
+description: Diva connects Stakers & Operators in a network that aligns their incentives.
 ---
+
+
 # Stakers & Operators
 
 Diva stakes all ETH from Stakers and Operators to generate staking rewards, which are distributed according to the contributions of each party.
@@ -10,7 +12,7 @@ Diva stakes all ETH from Stakers and Operators to generate staking rewards, whic
 
 Stakers deposit ETH to obtain divETH, which automatically accrues staking rewards.
 
-Anyone can become a Staker with no minimum ETH requirement. Stakers depositing ETH to the Diva smart contract will instantly receive tradable recpeit token called divETH 1:1 representing their reward-accruing deposit.
+Anyone can become a Staker with no minimum ETH requirement. Stakers depositing ETH to the Diva smart contract will instantly receive tradable receipt token called divETH 1:1 representing their reward-accruing deposit.
 
 Stakers will usually see their divETH balance increase daily as it generates staking rewards. divETH uses a [rebasing mechanism](04-lsd.md) that updates its balance in the user wallet automatically to reflect the accrued rewards. 1 divETH can be redeemed for 1 ETH at any time by requesting a withdrawal from the Diva Smart Contract.
 

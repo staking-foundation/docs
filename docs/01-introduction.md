@@ -1,16 +1,12 @@
 ---
 slug: /
 sidebar_position: 1
-title: Introduction
+title: Diva's Liquid Staking
 description: Diva is a non-custodial Ethereum Liquid Staking protocol powered by Distributed Validator Technology (DVT).
 hide_table_of_contents: false
-displayed_sidebar: mainSidebar
-pagination_next: null
-pagination_prev: null
 ---
 
-# Introduction
-
+# Diva's Liquid Staking
 
 Diva is an Ethereum Liquid Staking protocol powered by Distributed Validator Technology (DVT).
 
@@ -29,15 +25,17 @@ Ethereum’s staking rewards are distributed among the diva protocol participant
 While other solutions have features like Liquid Staking or DVT as tools, Diva is the first protocol that fully integrates them, offering Stakers and Operators the best security and economic model.
 
 ## Diva Rewrites the Rules
-**Validator Design**
-- Make nodes fully disposable 
-- Ability to recover full network liveliness by resharing keys
-- Reduce missed attestations by 500x
+
+### Validator Design
+
+- 🌳 Resilient: nodes are fully disposable 
+- ❤️‍🔥 Self-healing: Ability to recover full network liveliness by resharing keys
+- 💠 Redundancy: Up to 500x better uptime thanks to DVT fallbacks
 
 **Incentives and Penalties**
-- Socialized smooth rewards
-- Quick ejection of bad actors
+- 📈 Socialized smooth rewards
+- ⛔️ Quick ejection of bad actors
 
 **Trust-minimized Architecture**
-- "Can't be evil" cryptoeconomic system
-- Economic guarantees
+- 🔐 "Can't be evil" cryptoeconomic system
+- 🛡️ Economic guarantees

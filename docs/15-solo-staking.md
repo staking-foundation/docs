@@ -1,7 +1,4 @@
----
-pagination_next: null
-pagination_prev: null
----
+
 # Diva vs Solo Staking
 
 Both Diva and Solo Staking are highly decentralized ways to secure Ethereum while getting staking rewards.

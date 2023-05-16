@@ -1,20 +1,17 @@
----
-pagination_next: null
-pagination_prev: null
----
-# Distributed Validation Tech
 
-**How does Diva's DVT work?**
+# Distributed Validation
+
+## How does Diva's DVT work?
 
 Diva uses Distributed Key Generation (DKG) to split private validator keys into key-shares operated by separate nodes using BLS threshold signatures. Key shares are generated with state-of-the-art Multi-Party Computation (MPC) so private keys never come together.
 
 
-**How are new keys distributed between operators?**
+### How are new keys distributed between operators?
 
 Operators are assigned to new validators in a stochastic but fair process which ensures a uniform distribution of duties across the network. 
 
 
-**How does Diva's DVT compare to SSV and Obol?**
+### How does Diva's DVT compare to SSV and Obol?
 
 Diva's DVT is deeply integrated with its Liquid Staking economic system. It has built-in mechanisms to reward good actors while ejecting bad actors. Its rotational nondeterministic consensus has 2x lower latency than classic DVT. 
 
@@ -24,7 +21,7 @@ With its fault tolerance and consensus mechanisms, Diva’s DVT system prevents 
 
 ![DVT splitting keys](img/dvt-1.png)
 
-**Key Features**
+## Key Features
 
 1. **Node Fault Tolerance**: Diva's DVT uses innovative risk mitigation methods to prevent single Operators from causing damage. By employing robust fault tolerance and consensus mechanisms, DVT ensures that the network remains secure and operational.
 2. **Threshold Signature Consensus**: To maintain security and efficiency, the DVT system requires 11 out of 16 key shares in order to sign validation duties. This ensures that the network remains resilient even if a few nodes are offline.

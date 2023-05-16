@@ -1,6 +1,5 @@
 ---
-pagination_next: null
-pagination_prev: null
+description: Diva combines the best features from Liquid Staking, connecting them to economic guarantees and decentralization features focused on resiliency.
 ---
 
 # Features

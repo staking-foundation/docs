@@ -1,7 +1,4 @@
----
-pagination_next: null
-pagination_prev: null
----
+
 # Diva vs Exchanges
 
 Both Diva and exchanges such as Coinbase, Kraken or Binance offer convenient ways to stake your ETH.

@@ -1,12 +1,13 @@
 ---
 title: divETH & wdivETH
-pagination_next: null
-pagination_prev: null
+description: Diva offers Liquid Staking Tokens in rebasing (divETH) and non-rebasing (wdivETH) flavors.
+hide_table_of_contents: false
+displayed_sidebar: mainSidebar
 ---
 
 # divETH & wdivETH
 
-## How divETH works for users
+## How divETH works for stakers
 
 When a Staker deposits 1 ETH, 1 divETH is minted and returned to the Staker.
 
@@ -24,7 +25,7 @@ Example:
 divETH can be unstaked through the Diva protocol at any time by requesting a withdrawal and obtaining the underlying ETH after the withdrawal completes.
 
 
-## The divETH liquid staking model
+### 1 divETH = 1 staked ETH
 
 divETH is a rebasing token, meaning that its balance is updated on a daily basis to reflect its exact underlying ETH value. There are no lock-ups or minimum deposits.
 
@@ -52,7 +53,7 @@ Example:
 - The Staker decides to unwrap the 1 wdivETH, and obtains 1.1025 divETH.
 - The 1.1025 divETH is un-staked with the Diva Smart Contract and becomes 1.1025 ETH.
 
-## divETH vs wdivETH
+### divETH vs wdivETH
 
 1 divETH = 1 ETH at any moment. The ratio is always 1:1, increasing or decreasing to reflect the exact amount of underlying ETH.
 

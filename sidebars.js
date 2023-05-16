@@ -35,12 +35,12 @@ const sidebars = {
       label: 'Comparisons',
       collapsible: true,
       items: [
-      'comp_all',
-      'comp_lido',
-      'comp_rp',
-      'comp_cex',
-      'comp_solo',
-      'comp_obol_ssv'
+      'comparison',
+      'lido',
+      'rocketpool',
+      'exchanges',
+      'solo-staking',
+      'obol-ssv'
       ],
     },
     /*
@@ -60,7 +60,7 @@ const sidebars = {
       type: 'category',
       label: 'Operator Guide',
       collapsible: true,
-      items: [ 'operator_guide' ]
+      items: [ 'operators' ]
 
     },
     /*
@@ -75,7 +75,7 @@ const sidebars = {
       type: 'category',
       label: 'Coming soon...',
       collapsible: true,
-      items:  [ 'analytics', 'sec_bug','sec_audit','deployed' ]
+      items:  [ 'analytics', 'security','audits','deployed' ]
       ,
     },
     {
