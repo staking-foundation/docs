@@ -70,7 +70,6 @@ const sidebars = {
       items: [
         'dao',
         'distribution',
-        'airdrop',
         'tokenomics',
         'programs',
       ]
