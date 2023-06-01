@@ -5,7 +5,7 @@
 
 **🌳 Diva has been conceived as a public good, for the benefit of Ethereum Stakers and the ecosystem at large.**
 
-The protocol acts as a balancing system between Stakers and Operators, allowing them to coordinate using cryptoeconomic incentives. 
+The protocol acts as a tool to allow Stakers and Operators to perform their tasks more efficiently and trustlessly.
 
 ## The Diva DAO
 
@@ -19,3 +19,4 @@ Each DIVA token is worth 1 vote for decisions like:
 - Adjusting network settings (if any).
 - Governing the DAO treasury.
 
+In order to become a Diva DAO member, token holders must accept their role by delegating their vote to a delegate or to themselves.
