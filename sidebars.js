@@ -63,6 +63,19 @@ const sidebars = {
       items: [ 'operators' ]
 
     },
+    {
+      type: 'category',
+      label: 'DAO & Governance',
+      collapsible: true,
+      items: [
+        'dao',
+        'distribution',
+        'airdrop',
+        'tokenomics',
+        'programs',
+      ]
+
+    },
     /*
     {
       type: 'category',
