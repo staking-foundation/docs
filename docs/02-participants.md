@@ -33,7 +33,7 @@ Unlike other solutions, Operators are completely non-custodial. They never have 
 
 Instead, 2/3rds of Operators need to come to consensus on what to sign in order to approve any action affecting a Diva validator.
 
-This is done by giving each signer one key-share out of many, making the system more reliable and safe. This uses Diva's unique DVT, which creates validators through Distributed Key Generation (DKG) to sign duties using BLS threshold signatures.
+This is done by giving each signer one key-share out of many, making the system more reliable and safe. This uses Diva's unique DVT, which creates validators through Distributed Key Generation (DKG) to sign duties using “Boneh–Lynn–Shacham” BLS threshold signatures.
 
 Operators can only be assigned to operate validators if they are providing sufficient ETH as a bond. This bond serves as a guarantee to align incentives with Stakers. Should an Operator miss any validation duties, this bond can be transferred to Stakers as compensation for any potential losses.
 
@@ -48,5 +48,5 @@ Running a Diva node is also expected to be preferable to running solo validator 
 - Operator rewards are averaged from the entire network, making them smoother and more predictable.
 - Validation is performed by a consensus of diverse Operators, offering better uptime and protection against slashing events.
 
-With Diva, operators can run their DVTs without advanced server management skills, greater flexibility, and starting from only 1 ETH as a bond.
+**With Diva, operators can run their DVTs without advanced server management skills, greater flexibility, and starting from only 0.5 ETH as a bond.**
 

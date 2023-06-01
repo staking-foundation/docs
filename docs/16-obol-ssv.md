@@ -29,7 +29,7 @@ Diva’s liquid staking, non-custodial nature, advanced distributed validation, 
 7. Self-healing Network: Diva has secure resharing mechanisms to eject failing operators and recover network liveliness, while SSV does not have this feature.
 8. No Trusted Committees: Diva replaces trusted committees with Zero-Knowledge alternatives, making it more resistant to manipulation.
 
-While both SSV and Diva offer unique validating solutions, Diva emerges as a superior choice for those seeking a decentralized and resilient staking protocol integrated with Distribute.d Validators.
+While both SSV and Diva offer unique validating solutions, Diva emerges as a superior choice for those seeking a decentralized and resilient staking protocol integrated with Distributed Validators.
 
 
 ## Diva = Liquid Staking + DVT + Economic model

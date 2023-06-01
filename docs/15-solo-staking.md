@@ -38,7 +38,7 @@ Diva maintains most the decentralization advantages of solo staking on Ethereum,
 
 **Validator Design**
 - Nodes designed to be fully disposable
-- Reduce missed attestations 500x
+- [Reduce missed attestations 500x](dvt#key-features)
 
 **Incentives and penalties**
 - Socialized smooth rewards

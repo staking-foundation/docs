@@ -38,4 +38,4 @@ While other solutions have features like Liquid Staking or DVT as tools, Diva is
 
 **Trust-minimized Architecture**
 - 🔐 "Can't be evil" cryptoeconomic system
-- 🛡️ Economic guarantees
+- 🛡️ [Economic guarantees](participants#operators)

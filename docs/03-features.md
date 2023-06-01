@@ -28,7 +28,9 @@ It is also possible to convert divETH to a non-rebasing token, wdivETH (wrapped 
 
 ### Two LST flavors
 
-Diva's Liquid Staking token is available in a rebasing (divETH) and non-rebasing version (wdivETH), to fit all use cases. It's designed for full compatibility with stETH.
+Diva's Liquid Staking token is available in a rebasing (divETH) and non-rebasing version (wdivETH), to fit all use cases.
+
+It's designed to be compatible with Lido's stETH, working in very similar ways, to facilitate integrations with apps that already support stETH.
 
 ### Non-custodial
 

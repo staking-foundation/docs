@@ -1,9 +1,13 @@
+---
+title: Distributed Validation
+slug: dvt
+---
 
-# Distributed Validation
+# Distributed Validation Technology
 
 ## How does Diva's DVT work?
 
-Diva uses Distributed Key Generation (DKG) to split private validator keys into key-shares operated by separate nodes using BLS threshold signatures. Key shares are generated with state-of-the-art Multi-Party Computation (MPC) so private keys never come together.
+Diva uses Distributed Key Generation (DKG) to split private validator keys into key-shares operated by separate nodes using “Boneh–Lynn–Shacham” BLS threshold signatures. Key shares are generated with state-of-the-art Multi-Party Computation (MPC) so private keys never come together.
 
 
 ### How are new keys distributed between operators?
