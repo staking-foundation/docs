@@ -29,12 +29,16 @@ The ultimate goal is to distribute the entirety of the supply to community membe
 
 ## Non-transferrability
 
-**DIVA tokens are being launched as non-transferable and valueless.**
+**The DIVA tokens, at the time of launch, are characterized as non-transferable and valueless.**
 
-Many token launches suffer from information asymmetry, leading to unfairness between potential participants.
+Many token launches experience issues of information asymmetry, which can lead to unfair conditions for potential participants.
 
-In order to prevent this, DIVA tokens are released as non-transferable to avoid any speculative interest which might be detrimental to decentralization and fairness.
+To counteract this, DIVA tokens are introduced as non-transferable, eliminating any speculative interest that might negatively impact decentralization and fairness.
 
-It will be up to DIVA's delegated token holders to decide upon the future transferability of the token to the best interest of the community.
+The decision regarding future transferability of the token will rest with DIVA's delegated token holders, ensuring decisions are made in the best interest of the community.
 
-Ideally the token remains non-transferable until it's strictly required for operational and decentralization purposes.
+Ideally, the token will maintain its non-transferable status until transferability becomes necessary for operational functionality and the advancement of decentralization.
+
+### Restrictions for US persons
+
+Due to legal uncertainities surrounding staking operations in the United Stated of America, the initial distribution was restricted to US nationals.
