@@ -39,6 +39,8 @@ The decision regarding future transferability of the token will rest with DIVA's
 
 Ideally, the token will maintain its non-transferable status until transferability becomes necessary for operational functionality and the advancement of decentralization.
 
-### Restricted to non-US nationals
+### Early Distribution Restrictions
 
-Due to legal uncertainities surrounding staking operations in the United Stated of America, the initial distribution was restricted to non-US nationals.
+Due to legal uncertainities surrounding staking operations in the US and Canada, US and Canadian nationals are excluded from the Early Distribution.
+
+Several other sanctioned countries have been excluded as well.
