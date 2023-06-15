@@ -22,6 +22,11 @@ The Diva client will be open source and available in several formats such as sou
 - Receive Distributed Validator key-shares while maintaining the required ETH bond.
 - Perform validation duties for the Distributed Validators they are part of.
 
+<div style={{textAlign: 'center'}}>
+
+![DVT architecture](img/dvt-2.png)
+</div>
+
 ## The Diva P2P Network
 
 Diva creates a P2P network between nodes for discovery purposes. This way Diva remains decentralized and censorship-resistant. Also, the P2P network allows the DKG to be performed in fully decentralized manner that preserves privacy and security of all data transmissions.
@@ -41,6 +46,7 @@ Diva SCs will be non-upgradeable, ensuring the protocol remains predictable. Thi
 Distributed Validators are subject to regular Ethereum Validator duties. The Diva SC handles staking reward distributions to the network participants, updating all balances daily based on a set of rules.
 
 The Diva protocol has been conceived as a public good. Therefore, all infrastructure along with the smart contracts are released under permissive open-source licenses.
+
 
 ## Zero-Knowledge Proof Oracles
 

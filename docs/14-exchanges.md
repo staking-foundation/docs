@@ -11,16 +11,18 @@ Often they are less transparent than on-chain protocols, and operated by in-hous
 
 In the recent years, the failures of Celsius, FTX, Genesis and many others have been caused or accelerated by the risks described above.
 
+Further, Exchanges have recently been required by regulators of different jurisdictions to halt or modify their staking operations, creating uncertainty for their users.
+
 Diva is designed to mitigate these risks, following true values of transparency and decentralization.
 
 ## Diva's validation is purely on-chain
 
-Diva is a coordination platform where Stakers and Operators get matched with completely transparent criteria and open-source code.
+Diva is an agnostic software tool allowing Stakers and Operators to perform their staking tasks more efficiently.
 
 This offers a much higher degree of transparency and fully decentralized risk management systems:
 
 - Economic collateralization for Operators.
-- Censorship protection by decentralizing its operations.
+- Attack and censorship protection by decentralizing its operations.
 - Risk minimization by being non-custodial with funds and keys.
 
 Thanks to a superior design, it is expected that Diva can consolidate as the most liquid and widely adopted Liquid Staking Token.

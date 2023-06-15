@@ -10,9 +10,9 @@ const katex = require('rehype-katex');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Diva docs',
-  tagline: 'Diva Labs',
-  url: 'https://docs.divalabs.org',
+  title: 'Diva Staking docs – by the Staking Foundation',
+  tagline: 'Diva delivers Ethereum Liquid Staking powered by Distributed Validation. Launching soon.',
+  url: 'https://docs.staking.foundation',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

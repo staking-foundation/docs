@@ -3,7 +3,6 @@
 Diva is Ethereum’s first Liquid Staking solution powered by Distributed Validators (DVT)
 
 :::info
-
 Diva is on the road to mainnet! [Check the Roadmap](roadmap) for the latest details. ⚡️
 :::
 

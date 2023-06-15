@@ -25,7 +25,7 @@ const sidebars = {
       items: ['introduction',
       'participants',
       'features',
-      'lsd', /* this is linked from the homepage. change to lsd later. check for inside links */
+      'lst',
       'roadmap',
       'dvt'
       ],
@@ -66,18 +66,30 @@ const sidebars = {
     /*
     {
       type: 'category',
+      label: 'DAO & Governance',
+      collapsible: true,
+      items: [
+        'dao',
+        'distribution',
+        'tokenomics',
+        'programs',
+      ]
+
+    },
+    {
+      type: 'category',
       label: 'Staking Economics',
       collapsible: true,
       items: [ 'econ_rewards','econ_entities' ]
       ,
-    },*/
+    },
     {
       type: 'category',
       label: 'Coming soon...',
       collapsible: true,
       items:  [ 'analytics', 'security','audits','deployed' ]
       ,
-    },
+    },*/
     {
       type: 'category',
       label: 'Reference',
