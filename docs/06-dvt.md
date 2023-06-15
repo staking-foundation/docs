@@ -12,7 +12,7 @@ Diva uses Distributed Key Generation (DKG) to split private validator keys into 
 
 ### How are new keys distributed between operators?
 
-Operators are assigned to new validators in a stochastic but fair process which ensures a uniform distribution of duties across the network. 
+Operators received key-shares to new validators in a stochastic but fair process which ensures a uniform distribution of duties across the network. 
 
 
 ### How does Diva's DVT compare to SSV and Obol?

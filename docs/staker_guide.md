@@ -6,9 +6,9 @@ pagination_prev: null
 
 #### Before continuing: 
  - To learn about staking rewards and more please visit
-[Staking Economics](econ_rewards.md)
- - To learn about the divETH token and all its mechanisms, please visit [divETH & wdivETH](04-lsd.md)
- - To learn about the features of the divETH token, please visit [Features](03-features.md)
+[Staking Economics](econ_rewards)
+ - To learn about the divETH token and all its mechanisms, please visit [divETH & wdivETH](lst)
+ - To learn about the features of the divETH token, please visit [Features](features)
 
 
 ## How to Stake 
@@ -96,6 +96,6 @@ By holding divETH, you are automatically earning staking rewards.
 Note: Trading divETH back for ETH is only possible when the staking liquidity pool has enough ETH in it to handle your trade. Otherwise an exit needs to be performed. So the withdrawal is guaranteed but not immediately. 
 
 
-To learn more about rewards, go to [Staking Economics](docs/staker_faq.md) ⇒ Ethereum Rewards.
+To learn more about rewards, go to [Staking Economics](docs/staker_faq) ⇒ Ethereum Rewards.
 
 The source of the ETH is from both Stakers and Operators. 

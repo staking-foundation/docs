@@ -1,7 +1,7 @@
 
 # Diva vs Lido
 
-Both Diva and Lido are Liquid Staking protocols, allowing stakers to easily stake their ETH and use it in Defi.
+Both Diva and Lido are Liquid Staking solutions, allowing stakers to easily stake their ETH and use it in Defi.
 
 The main difference is in their security and trust components.
 
@@ -16,9 +16,9 @@ Lido is operated by a whitelisted set of 29 Node Operators, which are permission
 
 Each of these Node Operators is handling approximately 1% of all staked ETH, representing hundreds of millions of dollars of responsibility per Operator, without posting any ETH collateral guarantees.
 
-**This means that there is no direct guarantee that staker funds will be fully protected from staker risks**.
+**This means that there is no direct guarantee that staker funds will be fully protected from loss of funds**.
 
-While Lido has been operating safely in a completely uncollateralized way, their model is fully dependent on the performance of their operators. If their operators suffer from hacks, censorship or law enforcement actions (like the recent action against Kraken), staker funds could suffer losses.
+While Lido has been operating safely in a completely uncollateralized way, their model is fully dependent on the performance of their operators. If their operators suffer from hacks, censorship or law enforcement actions (like the recent actions against Coinbase, Kraken, and Binance), staker funds could suffer losses.
 
 ## Diva is based on cryptography and incentives
 

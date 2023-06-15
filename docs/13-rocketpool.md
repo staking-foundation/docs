@@ -1,7 +1,7 @@
 
-# Diva vs RocketPool
+# Diva vs Rocketpool
 
-Both Diva and RP are community-driven liquid staking protocols run by permissionless node operators.
+Both Diva and Rocketpool are community-driven Liquid Staking solution run by permissionless node operators.
 
 The main difference is in who performs the validation duties.
 

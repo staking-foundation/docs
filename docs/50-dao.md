@@ -5,7 +5,7 @@
 
 **🌳 Diva has been conceived as a public good, for the benefit of Ethereum Stakers and the ecosystem at large 🌳**
 
-The protocol serves as an automated and trustless tool, enabling Stakers and Operators to seamlessly perform their tasks while acting as a natural extension of the Ethereum protocol.
+The protocol serves as an automated and trustless software tool, enabling Stakers and Operators to seamlessly perform their tasks while acting as a natural extension of the Ethereum protocol.
 
 
 ## The Diva DAO
