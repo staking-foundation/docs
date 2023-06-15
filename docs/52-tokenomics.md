@@ -4,7 +4,7 @@
 
 Diva is a decentralized software tool allowing Liquid Staking and the permissionless operation of validators to secure Ethereum.
 
-The goal for its tokenomics is to find a collaborative and fee-less approach that does not involve extracting value its users. Instead, the aim is to establish a balance among all participants, being appropriately represented based on their level of engagement.
+The goal for its tokenomics is to find a collaborative and fee-less approach that does not involve extracting value its its users. Instead, the aim is to establish a balance among all participants, being appropriately represented based on their level of engagement.
 
 :::info
 **The Tokenomic model is a work-in-progress, and it is the responsibility of the Diva DAO to decide on the ideal design for the protocol.**

@@ -27,7 +27,7 @@ The ultimate goal is to distribute the entirety of the supply to community membe
     - Key Ethereum community members, including stakers, node operators, delegates, and developers.
     - Early adopters committed to staking or running nodes with Diva.
 
-## Non-transferrability
+## Non-transferability
 
 **The DIVA tokens, at the time of launch, are characterized as non-transferable and valueless.**
 
@@ -39,6 +39,6 @@ The decision regarding future transferability of the token will rest with DIVA's
 
 Ideally, the token will maintain its non-transferable status until transferability becomes necessary for operational functionality and the advancement of decentralization.
 
-### Restrictions for US persons
+### Restricted to non-US nationals
 
-Due to legal uncertainities surrounding staking operations in the United Stated of America, the initial distribution was restricted to US nationals.
+Due to legal uncertainities surrounding staking operations in the United Stated of America, the initial distribution was restricted to non-US nationals.

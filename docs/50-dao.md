@@ -18,9 +18,9 @@ There is a fixed total supply of 1 billion DIVA tokens. Each delegated DIVA toke
 
 - Deploying the Diva Smart Contracts.
 - Curating the Diva Protocol by adjusting network parameters (if any).
-- Evangelizating for the Diva Protocol.
+- Evangelizing for the Diva Protocol.
 
 To become voting DAO members, token holders must accept their role by delegating their vote to a delegate or to themselves.
 
-The Diva DAO is entrusted with deciding the final design and operation of the Diva protocol.
+The Diva DAO is entrusted with deciding on the final parameters for the launch and operation of the Diva protocol at launch.
 
