@@ -63,6 +63,7 @@ const sidebars = {
       items: [ 'operators' ]
 
     },
+    /*
     {
       type: 'category',
       label: 'DAO & Governance',
@@ -75,7 +76,6 @@ const sidebars = {
       ]
 
     },
-    /*
     {
       type: 'category',
       label: 'Staking Economics',
