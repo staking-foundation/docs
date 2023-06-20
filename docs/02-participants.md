@@ -10,6 +10,7 @@ description: Diva connects Stakers & Operators in a network that aligns their in
 Diva stakes all ETH from Stakers and Operators to generate staking rewards, which are distributed according to the contributions of each party.
 :::
 
+
 ## Stakers
 
 **Stakers deposit ETH to obtain divETH** which automatically accrues Ethereum staking rewards.
