@@ -117,11 +117,11 @@ const config = {
             items: [
               {
                 label: 'The Staking Foundation',
-                to: 'https://staking.foundation',
+                href: 'https://staking.foundation',
               },
               {
                 label: 'Stake with Diva',
-                to: 'https://stake.divalabs.org',
+                href: 'https://stake.diva.community',
               },
             ],
           },
@@ -135,6 +135,14 @@ const config = {
               {
                 label: 'Twitter',
                 href: 'https://twitter.com/divastaking',
+              },
+              {
+                label: 'Medium',
+                href: 'https://divastaking.medium.com',
+              },
+              {
+                label: 'Github',
+                href: 'https://github.com/staking-foundation',
               },
             ],
           },
