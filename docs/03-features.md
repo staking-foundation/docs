@@ -108,7 +108,7 @@ Diva is being designed to minimize the trust required from any party, providing:
 
 ### 🪨 Immutable, non-upgradable contracts
 
-Most of Diva’s smart contracts will be immutable and non-upgradable, minimizing the potential vectors of attack. This way Diva does not rely on human intervention.
+Diva’s smart contracts are aiming to be immutable and non-upgradable, minimizing the potential vectors of attack. This way Diva does not rely on human intervention.
 
 Diva is working towards a minimized-governance design and ossifying its operations.
 
