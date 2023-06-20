@@ -96,38 +96,6 @@ const sidebars = {
       collapsible: true,
       items: ['components','glossary','foundation'/*,'tech-ent','dkg'*/],
     },
-    {
-      type: 'category',
-      label: 'Links',
-      collapsible: true,
-      items: [
-        {
-          type: 'link',
-          label: 'Diva Staker testnet',
-          href: 'https://stake.diva.community',
-        },
-        {
-          type: 'link',
-          label: 'Twitter',
-          href: 'https://twitter.com/divastaking',
-        },
-        {
-          type: 'link',
-          label: 'Discord',
-          href: 'https://discord.gg/diva',
-        },
-        {
-          type: 'link',
-          label: 'Medium',
-          href: 'https://divastaking.medium.com',
-        },
-        {
-          type: 'link',
-          label: 'Github',
-          href: 'https://github.com/staking-foundation',
-        },
-      ]
-    },
   ],
   developerSidebar: [
     {
