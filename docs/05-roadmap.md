@@ -12,7 +12,7 @@ Diva is still under active development! Follow this page for updates 😊
 
 ## ✅ Staking testnet: live
 
-The [Diva Staking Goerli testnet](https://stake.divalabs.org) is already live! It allows you to:
+The [Diva Staking Goerli testnet](https://stake.diva.community) is already live! It allows you to:
 
 - ✅ Stake and withdraw your ETH.
 - ✅ Wrap and unwrap your divETH into wdivETH.

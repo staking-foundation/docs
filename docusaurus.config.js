@@ -127,8 +127,8 @@ const config = {
             title: 'Diva',
             items: [
               {
-                label: 'Homepage',
-                to: 'https://divalabs.org',
+                label: 'The Staking Foundation',
+                to: 'https://staking.foundation',
               },
               {
                 label: 'Stake with Diva',
@@ -145,23 +145,10 @@ const config = {
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/divalabs',
+                href: 'https://twitter.com/divastaking',
               },
             ],
           },
-          // {
-          //   title: 'More',
-          //   items: [
-          //     {
-          //       label: 'Blog',
-          //       to: '/blog',
-          //     },
-          //     {
-          //       label: 'GitHub',
-          //       href: 'https://github.com/facebook/docusaurus',
-          //     },
-          //   ],
-          // },
         ],
       },
       prism: {

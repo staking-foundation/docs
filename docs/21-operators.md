@@ -37,7 +37,7 @@ There are two ways to run a Diva node:
 
 ### Next step: Testnet launch
 
-It is expected that Operators will require a minimum of 1 ETH as a bond to operate a validator node.
+It is expected that Operators will require a minimum of 1 ETH per key share to operate a validator node.
 
 [Check the Roadmap](roadmap) for the latest details, and get involved!
 

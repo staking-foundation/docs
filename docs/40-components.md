@@ -19,7 +19,7 @@ The Diva client will be open source and available in several formats such as sou
 
 - Register as an Operator in the Diva smart contracts.
 - Sync the Consensus and Execution clients.
-- Receive Distributed Validator key-shares while maintaining the required ETH bond.
+- Receive Distributed Validator key-shares while maintaining the required ETH collateral.
 - Perform validation duties for the Distributed Validators they are part of.
 
 <div style={{textAlign: 'center'}}>

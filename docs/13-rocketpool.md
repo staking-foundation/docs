@@ -35,7 +35,7 @@ Diva uses a consensus of 2/3rds of 16 Operators to run every single validator, m
 
 Diva's DVT system provides novel risk mitigation mechanisms, thanks to its fault tolerance and consensus mechanisms preventing single Operators from causing damages.
 
-With Diva, Operators can bond as little as 1 ETH, allowing for higher diversity and uptime, which means better staking rewards.
+With Diva, Operators require as little as 1 ETH collateral, allowing for higher diversity and uptime, which means better staking rewards.
 
 **Diva's DVT turns a set of 16 nodes with 95% uptime into a Distributed Validator with 99.99% uptime**
 
