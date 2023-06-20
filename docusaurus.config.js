@@ -16,7 +16,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/divalabs.jpg',
+  favicon: 'img/divalogo.jpg',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -88,16 +88,16 @@ const config = {
     },
 
       metadata: [
-        { name: 'og:image', content: 'https://divalabs.org/metalogo.png' },
-        { name: 'twitter:image', content: 'https://divalabs.org/metalogo.png' },
-        {name: 'og:title', content: 'Ethereum liquid staking using distributed validators'},
-        {name: 'og:description', content: 'Diva is a ETH Liquid Staking protocol powered by Distributed Validators that anyone can run with a low number of ETHs.'},
-        {name: 'description', content: 'Diva is a ETH Liquid Staking protocol powered by Distributed Validators that anyone can run with a low number of ETHs.'},
+        { name: 'og:image', content: 'https://diva.community/metalogo.png' },
+        { name: 'twitter:image', content: 'https://diva.community/metalogo.png' },
+        {name: 'og:title', content: 'Ethereum Liquid Staking powered by Distributed Validators'},
+        {name: 'og:description', content: 'Diva is an Ethereum Liquid Staking protocol powered by Distributed Validators.'},
+        {name: 'description', content: 'Diva is an Ethereum Liquid Staking protocol powered by Distributed Validators'},
         {name: 'twitter:card', content: 'summary_large_image'},
-        {name: 'twitter:url', content: 'https://divalabs.org/'},
-        {name: 'og:url', content: 'https://divalabs.org/'},
-        {name: 'twitter:title', content: 'Ethereum liquid staking using distributed validators'},
-        {name: 'twitter:description', content: 'Diva is a ETH Liquid Staking protocol powered by Distributed Validators that anyone can run with a low number of ETHs.'}
+        {name: 'twitter:url', content: 'https://docs.staking.foundation/'},
+        {name: 'og:url', content: 'https://docs.staking.foundation/'},
+        {name: 'twitter:title', content: 'Ethereum Liquid Staking powered by Distributed Validators'},
+        {name: 'twitter:description', content: 'https://docs.staking.foundation/'}
       ],
       navbar: {
         title: 'diva',
@@ -106,18 +106,7 @@ const config = {
           src: 'img/diva.svg',
         },
         items: [
-          // {
-          //   type: 'doc',
-          //   docId: 'intro',
-          //   position: 'left',
-          //   label: 'Tutorial',
-          // },
-          // {to: '/blog', label: 'Blog', position: 'left'},
-    //      {
-    //        href: 'https://github.com/divalabs/docs',
-    //        label: 'GitHub',
-    //        position: 'right',
-    //      },
+          { href: 'https://stake.diva.community', label: 'Try Diva testnet', position: 'right' },
         ],
       },
       footer: {
