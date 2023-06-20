@@ -12,6 +12,7 @@ hide_table_of_contents: false
 This is an independent guide to Diva Staking, maintained by the [Staking Foundation](foundation).
 :::
 
+## Quick intro 
 Diva is an Ethereum Liquid Staking protocol powered by Distributed Validator Technology (DVT).
 
 <div style={{textAlign: 'center'}}>
