@@ -27,7 +27,7 @@ Operators are essential to the effective functioning of the Ethereum and Diva ne
 
 There are two ways to run a Diva node:
 
-1. **A full Diva node**. This requires a server with the capacity to run a full Ethereum node (including EL/CL clients).
+1. **A full Diva node**. This requires a server with the [requirements to run a full Ethereum node](https://ethereum.org/en/run-a-node/) (including EL/CL clients):
   - 🤖 CPU: 4 cores minimum, 8 cores recommended.
   - 🧠 RAM: 4 GB minimum 8 GB recommended.
   - 🍱 Hard drive: 2 TB SSD drive.
