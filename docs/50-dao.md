@@ -12,11 +12,11 @@ The protocol serves as an automated and trustless software tool, enabling Staker
 
 ## The Diva DAO
 
-The Diva DAO represents its users via the delegated DIVA token holders, who can exercise voting power.
+The Diva DAO represents its users via the Delegated DIVA token holders, who can exercise voting power.
 
-The Diva protocol doesn't extract any fees, and its participants are entrusted to govern it as a public good.
+The Diva protocol doesn't extract any fees, and Delegated Diva Token holders are entrusted to govern it as a public good.
 
-There is a fixed total supply of 1,000,000,000 DIVA tokens. Each delegated DIVA token is worth 1 vote on decisions such as:
+There is a fixed total supply of 1,000,000,000 DIVA tokens. Each Delegated DIVA token is worth 1 vote on decisions such as:
 
 - Deploying the Diva Smart Contracts.
 - Curating the Diva Protocol by adjusting network parameters (if any).
@@ -24,7 +24,7 @@ There is a fixed total supply of 1,000,000,000 DIVA tokens. Each delegated DIVA 
 
 ### Vote delegation
 
-Participating in Diva governance can be time consuming. For this reason, DIVA token holders are offered to either:
+Participating in Diva governance can be demanding. For this reason, DIVA token holders are offered to either:
 
 - Select a delegate who will vote on their behalf, or
 - Self-delegate their tokens to vote directly.
