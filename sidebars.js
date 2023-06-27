@@ -70,8 +70,8 @@ const sidebars = {
       items: [
         'dao',
         'distribution',
-        'tokenomics',
-        'programs',
+        /*'tokenomics',
+        'programs',*/
       ]
 
     },
