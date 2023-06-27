@@ -29,6 +29,11 @@ The nodes which can be used to initiate the discovery process when running a nod
 
 A "node" is any instance of Diva client software that is connected to other computers also running Diva software, forming a network. A Diva client is an implementation of Diva that verifies data against the protocol rules and keeps the network secure. Currently, only one implementation exists, which is the "official" Diva implementation written in Go.
 
+### Collateral or Bond
+
+Diva Operators post some amount of ETH as collateral (also called Bond) to guarantee that they will operate correctly. The required ETH collateral scales with the number of key shares an Operator is running.
+
+
 ### Consensus client
 
 Consensus clients (such as Prysm, Teku, Nimbus, Lighthouse, Lodestar) run Ethereum's [proof-of-stake](https://ethereum.org/en/glossary/#pos) consensus algorithm allowing the network to reach agreement about the head of the chain. Consensus clients do not participate in validating/broadcasting transactions or executing state transitions. This is done by [execution clients](https://ethereum.org/en/glossary/#execution-client).
@@ -45,4 +50,6 @@ Execution clients (formerly known as "Eth1 clients"), such as Besu, Erigon, Go-E
 
 Ethereum's execution layer is the network of [execution clients](https://ethereum.org/en/glossary/#execution-client).
 
-## 
+### Liquit Staking Token (LST)
+
+divETH is a Liquid Staking Token, because it allows users to deposit ETH to stake it with Diva while receiving an equal amount of divETH tokens which are liquid and tradable immediately. 

@@ -27,7 +27,11 @@ Operators are essential to the effective functioning of the Ethereum and Diva ne
 
 There are two ways to run a Diva node:
 
-1. **A full Diva node**. This requires a server with the capacity to run a full Ethereum node (including EL/CL clients). The minimum requirements are: 4 core CPU, 16 GB of RAM, 1 TB SSD drive
+1. **A full Diva node**. This requires a server with the [requirements to run a full Ethereum node](https://ethereum.org/en/run-a-node/) (including EL/CL clients):
+  - 🤖 CPU: 4 cores minimum, 8 cores recommended.
+  - 🧠 RAM: 4 GB minimum 8 GB recommended.
+  - 🍱 Hard drive: 2 TB SSD drive.
+  - Recommended: Wired internet connection
 2. **Connecting Diva to an existing Ethereum node**. In this case the requirements are much lower, as the Ethereum node does all the heavy lifting. It is recommended to use a dedicated Ethereum node that's isolated from other services to avoid accidental failures.
 
 <div style={{textAlign: 'center'}}>
@@ -37,7 +41,7 @@ There are two ways to run a Diva node:
 
 ### Next step: Testnet launch
 
-It is expected that Operators will require a minimum of 1 ETH as a bond to operate a validator node.
+It is expected that Operators will require a minimum of 1 ETH per key share to operate a validator node.
 
 [Check the Roadmap](roadmap) for the latest details, and get involved!
 

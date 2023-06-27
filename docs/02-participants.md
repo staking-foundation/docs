@@ -6,15 +6,18 @@ description: Diva connects Stakers & Operators in a network that aligns their in
 
 # Stakers & Operators
 
-:::important
+:::tip
 Diva stakes all ETH from Stakers and Operators to generate staking rewards, which are distributed according to the contributions of each party.
 :::
 
-## Stakers
+
+## Liquid Stakers
 
 **Stakers deposit ETH to obtain divETH** which automatically accrues Ethereum staking rewards.
 
 Anyone can become a Staker with no minimum ETH requirement. Stakers depositing ETH to the Diva smart contract will instantly receive a tradable receipt token called divETH 1:1 representing their reward-accruing deposit.
+
+Diva's staking is "liquid" because Stakers receive liquid divETH, meaning it is immediately transferable or tradable, as opposed to being locked.
 
 Stakers will usually see their divETH balance increase daily as it generates staking rewards. divETH uses a [rebasing mechanism](lst) that updates its balance in the user wallet automatically to reflect the accrued rewards. 1 divETH can be redeemed for 1 ETH at any time by requesting a withdrawal from the Diva Smart Contract.
 
@@ -54,7 +57,7 @@ This is done by giving different Operators 1 key-share out of 16, making the sys
 
 Running a Diva node is [generally preferable to running solo validator](solo-staking) on Ethereum with 32Ξ, thanks to:
 
-- 🌳 **Better uptime**: Multiple nodes can go offline without bringing the network down. Uptime is ~500x better.
+- 🌳 **Up to 500x better uptime**: Multiple nodes can go offline without bringing the network down.
 - 👍 **Simpler operations**: The Diva client manages keys automatically, reducing the workload.
 - 👨‍👩‍👧‍👦 **More accessible**: Operators can participate in validation from only 1Ξ, vs Ethereum's 32Ξ requirement.
 

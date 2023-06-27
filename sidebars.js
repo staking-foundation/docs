@@ -63,7 +63,6 @@ const sidebars = {
       items: [ 'operators' ]
 
     },
-    /*
     {
       type: 'category',
       label: 'DAO & Governance',
@@ -71,11 +70,12 @@ const sidebars = {
       items: [
         'dao',
         'distribution',
-        'tokenomics',
-        'programs',
+        /*'tokenomics',
+        'programs',*/
       ]
 
     },
+    /*
     {
       type: 'category',
       label: 'Staking Economics',
@@ -94,7 +94,7 @@ const sidebars = {
       type: 'category',
       label: 'Reference',
       collapsible: true,
-      items: [ 'components','glossary'/*,'tech-ent','dkg'*/],
+      items: ['components','glossary','foundation'/*,'tech-ent','dkg'*/],
     },
   ],
   developerSidebar: [
