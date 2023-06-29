@@ -19,10 +19,14 @@ The [Diva Staking Goerli testnet](https://stake.diva.community) is already live!
 
 There is also a [Dune Analytics dashboard for Diva testnet](https://dune.com/anchor/diva-goerli-network-dashboard) to visualize network data.
 
-Different developers are working on:
+Other features in the roadmap are:
 
 - 🔢 Rewards reporting UI.
 - 🔌 DeFi integrations like stablecoins, lending, layer 2s, etc.
+
+## ✅ Diva DAO: live
+
+The [Diva DAO](dao) is entrusted to curate the Diva protocol, and is currently [available to eligible participants!](https://claim.diva.community/)
 
 
 ## 🔜 Operator testnet
@@ -31,7 +35,7 @@ Diva's goal is that *anyone* can run a node to secure the network and generate s
 
 Developers are working towards the following major releases:
 
-1. **Amy Release**: Core validation functionality.
+1. **Amy Release**: Core validation functionality. 📅 *Expected in early July 2023!*
 2. **Britney Release**: Improved consensus protocol, ZKP reward calculations.
 3. **Cher Release**: MEV, tokenomics, governance, withdrawals.
 

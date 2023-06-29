@@ -22,6 +22,8 @@ There is a fixed total supply of 1,000,000,000 DIVA tokens. Each Delegated DIVA 
 - Curating the Diva Protocol by adjusting network parameters (if any).
 - Evangelizing for the Diva Protocol.
 
+The DIVA contract is [0xbfabde619ed5c4311811cf422562709710db587d](https://etherscan.io/token/0xbfabde619ed5c4311811cf422562709710db587d), and is currently available for [Token Claim](https://claim.diva.community/).
+
 ### Vote delegation
 
 Participating in Diva governance can be demanding. For this reason, DIVA token holders are offered to either:

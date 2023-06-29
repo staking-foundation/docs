@@ -50,6 +50,6 @@ Execution clients (formerly known as "Eth1 clients"), such as Besu, Erigon, Go-E
 
 Ethereum's execution layer is the network of [execution clients](https://ethereum.org/en/glossary/#execution-client).
 
-### Liquit Staking Token (LST)
+### Liquid Staking Token (LST)
 
 divETH is a Liquid Staking Token, because it allows users to deposit ETH to stake it with Diva while receiving an equal amount of divETH tokens which are liquid and tradable immediately. 
