@@ -120,8 +120,16 @@ const config = {
                 href: 'https://staking.foundation',
               },
               {
-                label: 'Stake with Diva',
+                label: 'Diva Staking testnet',
                 href: 'https://stake.diva.community',
+              },
+              {
+                label: 'DIVA Token: 0xbfabde619ed5c4311811cf422562709710db587d',
+                href: 'https://etherscan.io/token/0xbfabde619ed5c4311811cf422562709710db587d',
+              },
+              {
+                label: 'DIVA Allocation Claim',
+                href: 'https://claim.diva.community/',
               },
             ],
           },

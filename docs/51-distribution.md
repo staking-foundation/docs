@@ -1,6 +1,12 @@
 # Initial Distribution
 
-Approximately **15,000 addresses from Ethereum community members** have being offered the chance to become initial Diva DAO participants.
+:::info
+The DIVA governance token is now available to claim from 15,000 Ethereum wallets. [Check your eligibility to claim!](https://claim.diva.community/).
+
+The token contract is [0xbfabde619ed5c4311811cf422562709710db587d](https://etherscan.io/token/0xbfabde619ed5c4311811cf422562709710db587d), watch out for scams!
+:::
+
+Approximately **15,000 addresses from Ethereum community members** have been offered the chance to become initial Diva DAO participants.
 
 The recipients of the DIVA Initial Distribution include:
 
@@ -15,7 +21,7 @@ The purpose of this *initial* distribution is to involve potential Diva users in
 
 Delegated token holders are tasked with the goal of shaping the protocol and increasing its utility, resiliency, and decentralization.
 
-## Further distribution
+## Supply distribution
 
 The DIVA token has a fixed supply of 1,000,000,000 DIVA.
 
