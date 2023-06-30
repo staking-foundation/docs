@@ -152,6 +152,14 @@ const config = {
                 label: 'Github',
                 href: 'https://github.com/staking-foundation',
               },
+              {
+                label: 'Tally Governance',
+                href: 'https://www.tally.xyz/gov/diva',
+              },
+              {
+                label: 'DAO Forum',
+                href: 'https://commonwealth.im/divastaking/discussions',
+              },
             ],
           },
         ],

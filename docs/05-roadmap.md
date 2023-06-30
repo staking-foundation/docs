@@ -1,13 +1,14 @@
 ---
 title: Roadmap
 slug: roadmap
-tags: [roadmap]
 ---
 
 # Roadmap
 
 :::info
 Diva is still under active development! Follow this page for updates 😊
+
+**Next up: Operator Testnet coming early July 2023**
 :::
 
 ## ✅ Staking testnet: live
@@ -26,24 +27,30 @@ Other features in the roadmap are:
 
 ## ✅ Diva DAO: live
 
-The [Diva DAO](dao) is entrusted to curate the Diva protocol, and is currently [available to eligible participants!](https://claim.diva.community/)
+The [Diva DAO](dao) is entrusted to curate the Diva protocol, and the [Initial Distribution](distribution) is currently [available to eligible participants!](https://claim.diva.community/)
 
 
-## 🔜 Operator testnet
 
-Diva's goal is that *anyone* can run a node to secure the network and generate staking rewards.
 
-Developers are working towards the following major releases:
+## 🛣️  Operator testnet
 
-1. **Amy Release**: Core validation functionality. 📅 *Expected in early July 2023!*
-2. **Britney Release**: Improved consensus protocol, ZKP reward calculations.
-3. **Cher Release**: MEV, tokenomics, governance, withdrawals.
+Diva's goal is that *anyone* can run a node to operate the network and generate staking rewards.
+
+The community is working towards the following major releases:
+
+1. **July: Amy Release**: Core validation functionality.
+2. **Q3: Britney Release**: Improved consensus protocol, ZKP reward calculations.
+3. **Q4: Cher Release**: MEV, tokenomics, governance, withdrawals.
 
 **Mainnet deployment** will be performed once the last release (Cher) is fully audited and ready to be launched.
 
-This will allow both Stakers and Operators to fully validate its design and possibilities, so everybody can use divETH without the need to trust any centralized or permissioned party.
+👷 This will allow Stakers, Operators and the Diva DAO to fully finalize its design and possibilities, so everybody can use divETH without the need to trust any centralized or permissioned party.
 
-Join the Diva community to learn more about the road to mainnet including features, specs, and rewards for early contribution to the protocol. Follow Diva on [Twitter](https://twitter.com/divastaking) or access the full community in [Discord](https://discord.gg/diva) for launch announcements. 🚀
+💄 Join the Diva community to contribute and get support as an early participant!
+
+- 🐦 [Follow @divastaking on Twitter](https://twitter.com/divastaking)
+- 👾 [Join Discord](https://discord.gg/diva) to get involved.
+- 🔔 [Subscribe to the Telegram channel](https://t.me/followdiva) for announcemenets.
 
 
 
