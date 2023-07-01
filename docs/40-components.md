@@ -1,3 +1,8 @@
+---
+title: Diva components
+description: Full details about the different Diva components
+---
+
 
 # Protocol components
 
@@ -13,13 +18,13 @@ Nodes run the required infrastructure to power a Distributed Validator.
 
 For more sophisticated setups, the Diva client can also be connected to an existing Ethereum node (EL/CL).
 
-Nodes will receive and operate different key-shares, allowing them to operate Distributed Validators in coordination with other nodes.
+Nodes will receive and operate different Key Shares, allowing them to operate Distributed Validators in coordination with other nodes.
 
-The Diva client will be open source and available in several formats such as source code, Docker image, and a Dappnode package. It allows nodes to:
+The Diva client is still in developent, and will be open-source and available in several formats such as source code, Docker image, and a Dappnode package. It allows nodes to:
 
 - Register as an Operator in the Diva smart contracts.
 - Sync the Consensus and Execution clients.
-- Receive Distributed Validator key-shares while maintaining the required ETH collateral.
+- Receive Distributed Validator Key Shares while maintaining the required ETH collateral.
 - Perform validation duties for the Distributed Validators they are part of.
 
 <div style={{textAlign: 'center'}}>
@@ -38,14 +43,14 @@ The Diva Smart Contract (DSC) allows:
 
 - Stakers to deposit ETH and receive yield-generating divETH 1:1.
 - Stakers to un-stake their divETH and receive ETH 1:1 by requesting a validator withdrawal.
-- Operators to register their key-shares for new Distributed Validators.
+- Operators to register their Key Shares for new Distributed Validators.
 - Operators to trustlessly coordinate the creation of a new Ethereum validator in batches of 32 ETH.
 
 Diva SCs will be non-upgradeable, ensuring the protocol remains predictable. This is one of the features that allow the protocol to remain predictable. If an issue manifests within a smart contract, a protection mechanism is in place to minimize any prospective impact to all parties.
 
 Distributed Validators are subject to regular Ethereum Validator duties. The Diva SC handles staking reward distributions to the network participants, updating all balances daily based on a set of rules.
 
-The Diva protocol has been conceived as a public good. Therefore, all infrastructure along with the smart contracts are released under permissive open-source licenses.
+The Diva staking protocol has been conceived as a public good. Therefore, all infrastructure along with the smart contracts are released under permissive open-source licenses.
 
 
 ## Zero-Knowledge Proof Oracles

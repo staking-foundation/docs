@@ -1,3 +1,7 @@
+---
+title: Diva vs Obol and SSV
+description: Obol and SSV focus on pure DVT, while Diva is a fully integrated Liquid Staking solution powered by DVT.
+---
 
 # Diva vs Obol vs SSV
 
@@ -13,15 +17,15 @@ Diva’s liquid staking, non-custodial nature, advanced distributed validation, 
 
 ## Key Differences vs Obol
 
-1. Liquid Staking: Diva offers liquid staking with divETH and wdivETH tokens, while Obol does not.
-2. Advanced Distributed Validation: Diva uses DKG and BLS Threshold Signatures, while Obol relies on Charon middleware client.
+1. [Liquid Staking](lst): Diva offers liquid staking with divETH and wdivETH tokens, while Obol does not.
+2. Advanced [Distributed Validation](dvt): Diva uses DKG and BLS Threshold Signatures, while Obol relies on Charon middleware client.
 3. Resilience: Diva is more resilient to node failures and maintains network liveliness.
 
 
 ## Key Differences vs SSV
 
-1. Liquid Staking: Diva provides liquid staking through divETH, a token representing staked ETH and accrued rewards, while SSV does not provide liquid staking.
-2. Non-custodial management: Both protocols ensure that operators never have access to user funds or private validator keys.
+1. [Liquid Staking](lst): Diva provides liquid staking through divETH, a token representing staked ETH and accrued rewards, while SSV does not provide liquid staking.
+2. Non-custodial operations: Both protocols ensure that operators never have access to user funds or private validator keys.
 3. Resilience: Diva's validators can tolerate up to "m - n" failing nodes, making it more resilient to node unavailability and failures compared to SSV.
 4. Efficiency: Diva uses a P2P network for node discovery, reducing delays and single points of failure, while SSV relies on the IBFT algorithm for consensus.
 5. Immutable Contracts: Diva's smart contracts are mostly immutable and non-upgradable, minimizing potential attack vectors.

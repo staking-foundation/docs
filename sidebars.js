@@ -22,7 +22,9 @@ const sidebars = {
       type: 'category',
       label: 'General',
       collapsible: true,
-      items: ['introduction',
+      items: [
+      'home',
+      'intro',
       'participants',
       'features',
       'lst',
@@ -65,7 +67,7 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'DAO & Governance',
+      label: 'Diva DAO',
       collapsible: true,
       items: [
         'dao',

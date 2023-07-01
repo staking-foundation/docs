@@ -1,3 +1,7 @@
+---
+title: Diva vs Ethereum Staking
+description: Diva extends Ethereum staking to provide Liquid Staking and better conditions to Operators
+---
 
 # Diva vs Solo Staking
 
@@ -27,11 +31,16 @@ On the reward side, solo staking can also be unappealing for two reasons:
 - **Rewards are highly variable**, with large blocks rewards happening only once every few weeks or months.
 
 
-## Diva is a "layer 2" of solo stakers
+## 🌱 Diva extends Ethereum staking
 
 Diva was designed by asking "how could Ethereum staking work if we could redesign it from scratch?".
 
 Diva maintains most the decentralization advantages of solo staking on Ethereum, as every Operator needs to run their own full Ethereum node.
+
+**The Diva Smart Contract acts as a wrapper of the Ethereum deposit contract**, allowing:
+
+- Liquid Stakers to bridge their ETH to the Beacon Chain, obtaining liquid divETH.
+- Operators to run nodes to perform validation duties, locking divETH to generate additional divETH staking rewards.
 
 
 ## Design Principles
@@ -48,15 +57,15 @@ Diva maintains most the decentralization advantages of solo staking on Ethereum,
 - "Can't be evil" system
 - Economic guarantees
 
-There are many advantages to **Using Diva is like being part of a "Operator union"**, where:
+**Using Diva improves the lives of Liquid Stakers and Operators**:
 
-- Stakers can get their ETH staked by Diva without the need to run their own hardware.
+- Liquid Stakers can stake ETH through Diva without the need to run their own hardware.
 - Anyone can be an Operator from only 1 ETH and generate higher rewards than solo staking.
 - Rewards for everyone are predictable and smooth, as they are averaged for the entire network.
 
-**Diva wraps Ethereum validation into a greatly simplified client** which handles all validation duties transparently. As an Operator, you don't need to handle validator keys, withdrawals, etc, as it's all handled by the Diva client.
+**Diva extends Ethereum validation with a greatly simplified client** which handles all validation duties transparently. As an Operator, you don't need to handle validator keys, withdrawals, etc, as it's all handled by the Diva client.
 
 The Diva client works a lot like Bittorrent: it connects to other clients via its P2P network, streaming validation duties automatically the way Bittorrent streams files.
 
-Diva's DVT also means that Operators can go offline and are protected against failure without causing any damages, offering more flexibility than solo staking.
+Diva's DVT also means that Operators can go offline and are better protected against penalties, offering more flexibility and peace of mind than solo staking.
 

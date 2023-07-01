@@ -1,7 +1,12 @@
+---
+title: DIVA token Initial Distribution
+description: The DIVA DAO token is being distributed to 15,000 different addresses from Ethereum ecosystem participants
+---
+
 # Initial Distribution
 
 :::info
-The DIVA governance token is now available to claim from 15,000 Ethereum wallets. [Check your eligibility to claim!](https://claim.diva.community/).
+**The DIVA governance token is now available to be claimed** from ~15,000 Ethereum wallets. [Check your eligibility to claim!](https://claim.diva.community/).
 
 The token contract is [0xbfabde619ed5c4311811cf422562709710db587d](https://etherscan.io/token/0xbfabde619ed5c4311811cf422562709710db587d), watch out for scams!
 :::
@@ -15,7 +20,9 @@ The recipients of the DIVA Initial Distribution include:
 - **Community members** from Gnosis, Uniswap, ENS, AAVE, Maker, Aragon and other DAOs.
 - **Ethereum staking dev** and ecosystem contributors.
 
-## The purpose
+📝 [See the full eligibility criteria](https://github.com/divastaking/claim) for more details, including [JSON and CSV exports](https://github.com/divastaking/claim/tree/main/files).
+
+## The purposeg
 
 The purpose of this *initial* distribution is to involve potential Diva users in the design of the protocol as early as possible, building a system that has decentralization at its core.
 

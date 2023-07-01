@@ -79,7 +79,7 @@ Diva is intended to become a core infrastructure piece within the Ethereum ecosy
 </details>
 
 <details>
-  <summary>Will DivaLabs have control over the Diva network, such as admin rights or 
+  <summary>Will any development entity have control over the Diva network, such as admin rights or 
 freezing the contract in case something goes wrong, e.g. a hack etc.?</summary>
   <div>
 <div>
@@ -105,7 +105,8 @@ Yes, the Diva Labs team is engaging with different auditors to carry out a prope
   <summary>Will Diva Labs fix bugs in the Diva network after the open source release?</summary>
   <div>
 <div>
-Upon the code has been open sourced the Diva Labs will not remedy any errors or bugs that may arise in the Diva Protocol source code, if DivaLabs finds that such a remedial action would constitute exercise of control or sufficient influence over the Diva network. 
+
+Upon the code has been open sourced the Diva Labs will not remedy any errors or bugs that may arise in the Diva staking protocol source code, if DivaLabs finds that such a remedial action would constitute exercise of control or sufficient influence over the Diva network. 
 
 **Summary:** Diva Labs will not become a key component of the Diva network
 </div>

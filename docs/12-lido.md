@@ -1,3 +1,7 @@
+---
+title: Diva vs Lido
+description: The main difference between Diva and Lido is that Diva doesn't require any trust in Operators, thanks to trustless cryptoeconomic mechanisms.
+---
 
 # Diva vs Lido
 

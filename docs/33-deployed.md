@@ -1,3 +1,7 @@
+---
+title: Diva mainnet contracts
+description: Verify the correct Diva Smart Contracts before interacting with them!
+---
 
 # Deployed contracts
 
