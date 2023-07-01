@@ -1,3 +1,7 @@
+---
+title: Diva vs Obol and SSV
+description: Obol and SSV focus on pure DVT, while Diva is a fully integrated Liquid Staking solution powered by DVT.
+---
 
 # Diva vs Obol vs SSV
 

@@ -1,3 +1,7 @@
+---
+title: Diva vs staking with Centralized Exchanges
+description: Unlike CEXs, Diva delivers non-custodial staking where no single entity has access to your funds or validator keys
+---
 
 # Diva vs Exchanges
 

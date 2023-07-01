@@ -1,3 +1,7 @@
+---
+title: Diva vs Rocketpool
+description: The main difference between Diva and Rocketpool is that Diva utilizes DVT to achieve better performance and resilience than Rocketpool
+---
 
 # Diva vs Rocketpool
 

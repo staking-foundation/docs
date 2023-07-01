@@ -1,3 +1,8 @@
+---
+title: DIVA token Initial Distribution
+description: The DIVA DAO token is being distributed to 15,000 different addresses from Ethereum ecosystem participants
+---
+
 # Initial Distribution
 
 :::info
@@ -17,7 +22,7 @@ The recipients of the DIVA Initial Distribution include:
 
 📝 [See the full eligibility criteria](https://github.com/divastaking/claim) for more details, including [JSON and CSV exports](https://github.com/divastaking/claim/tree/main/files).
 
-## The purpose
+## The purposeg
 
 The purpose of this *initial* distribution is to involve potential Diva users in the design of the protocol as early as possible, building a system that has decentralization at its core.
 

@@ -1,6 +1,6 @@
 ---
 title: Stakers & Operators
-description: Diva connects Stakers & Operators in a network that aligns their incentives.
+description: Diva provides Liquid Staking and allows Operators to run validators to earn additional staking rewards
 ---
 
 
@@ -65,7 +65,6 @@ This 66% consensus is the key to [Diva's own DVT](dvt), making the system more r
 
 ![DVT architecture](img/dvt-2.png)
 </div>
-
 
 
 ### Diva vs Ethereum staking

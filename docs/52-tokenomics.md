@@ -1,3 +1,8 @@
+---
+title: Diva Tokenomics
+description: The following collects a few ideas for the possible future of Diva's tokenomics
+---
+
 # Tokenomics
 
 ## Design principles
@@ -16,10 +21,10 @@ DIVA is a governance token allowing token holders to participate actively in its
 
 The amount of DIVA “potential decision making power” for a participant shall correlate with their contributions to the platform:
 
-1. Developing and fostering the Diva Protocol: Contributing software, facilitating visualization tools, acting as relevant member of the community, etc.
-2. Staking ETH through the Diva Protocol
-3. Acting as an Operator at the Diva Protocol
-4. Helping to create awareness and to decentralize the Diva Protocol.
+1. Developing and fostering the Diva staking protocol: Contributing software, facilitating visualization tools, acting as relevant member of the community, etc.
+2. Staking ETH through the Diva.
+3. Acting as an Operator at the Diva staking protocol.
+4. Helping to create awareness and to decentralize the Diva staking protocol.
 
 The protocol should seek to reward good behavior to retain "good actors", while depriving "bad actors" from decision making power. This encourages participation in the protocol while making it more resilient.
 

@@ -2,7 +2,8 @@
 slug: /
 title: Intro
 description: Diva is a non-custodial Ethereum Liquid Staking protocol powered by Distributed Validator Technology (DVT).
-hide_table_of_contents: false
+image: 
+hide_table_of_contents: true
 ---
 
 # Diva's Liquid Staking
@@ -20,4 +21,6 @@ Diva is an Ethereum Liquid Staking protocol powered by Distributed Validator Tec
 
 <br/>
 
-It is a fully integrated tool that improves the lives of Stakers and Operators. Keep reading to learn more! 👉
+It is a fully integrated tool that improves the lives of Stakers and Operators. 
+
+Keep reading to learn more! 👉

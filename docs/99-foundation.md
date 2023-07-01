@@ -1,8 +1,13 @@
+---
+title: About the Staking Foundation
+description: The Staking Foundation is an independent non-profit committed to supporting Diva and efforts for its adoption and decentralization
+---
+
 # The Staking Foundation
 
 [The Staking Foundation](https://staking.foundation) is an independent Cayman Islands foundation entity.
 
-It has accepted a mandate to support the Diva protocol and the Ethereum ecosystem at large through the promotion, research and development of better staking tools.
+It has accepted a mandate to support the Diva staking protocol and the Ethereum ecosystem at large through the promotion, research and development of better staking tools.
 
 To this effect, the Diva DAO has provided an allocation of 100,000,000 DIVA tokens, corresponding to 10% of the supply, with the goal of distributing them to Diva community members.
 

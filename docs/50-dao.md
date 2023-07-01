@@ -1,3 +1,7 @@
+---
+title: Diva DAO
+description: The Diva DAO is entrusted to curate the future of the Diva staking protocol, including its launch and operations
+---
 
 # The Diva DAO
 
@@ -20,8 +24,8 @@ Delegated Diva Token holders are entrusted to govern it as a public good.
 There is a fixed total supply of 1,000,000,000 DIVA tokens. Each Delegated DIVA token is worth 1 vote on decisions such as:
 
 - Deploying the Diva Smart Contracts.
-- Curating the Diva Protocol by adjusting network parameters (if any).
-- Evangelizing for the Diva Protocol.
+- Curating Diva by adjusting network parameters (if any).
+- Evangelizing for the Diva staking protocol.
 
 The Diva DAO components are fully decentralized:
 
@@ -39,5 +43,5 @@ Participating in Diva governance can be demanding. For this reason, DIVA token h
 
 **In order to become voting DAO members, token holders must accept their role by delegating their vote to a delegate or to themselves.**
 
-The Diva DAO is entrusted with deciding on the final parameters for the launch and operation of the Diva protocol at launch.
+The Diva DAO is entrusted with deciding on the final parameters for the launch and operation of the Diva staking protocol at launch.
 

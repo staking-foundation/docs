@@ -2,7 +2,6 @@
 title: divETH & wdivETH
 description: Diva offers Liquid Staking Tokens in rebasing (divETH) and non-rebasing (wdivETH) flavors.
 hide_table_of_contents: false
-displayed_sidebar: mainSidebar
 ---
 
 # divETH & wdivETH
@@ -26,7 +25,7 @@ As Ethereum blocks are produced and staking rewards are generated, **the Liquid 
 
 **divETH is merely a receipt token allowing its holder to permissionlessly withdraw the corresponding ETH**. It is not a "stablecoin" and there is no mechanism to guarantee it will trade 1:1 towards the underlying ETH.
 
-divETH can be unstaked through the Diva protocol at any time by requesting a withdrawal and obtaining the underlying ETH after the withdrawal completes.
+divETH can be unstaked through the Diva smart contract at any time by requesting a withdrawal and obtaining the underlying ETH after the withdrawal completes.
 
 <details>
   <summary>Example of divETH staking</summary>
@@ -51,7 +50,7 @@ Some other protocols use non-rebasing models more similar to [wdivETH](#the-wdiv
 
 ## 📦 The wdivETH wrapping option
 
-In some cases, the changing balance of divETH is not ideal, and a non-rebasing static-balance token is preferable. This is the case with some Defi protocols and accounting use cases. That's why the Diva staking protocol allows Liquid Stakers to convert their divETH into wdivETH as a non-rebasing token.
+In some cases, the changing balance of divETH is not ideal, and a non-rebasing static-balance token is preferable. This is the case with some DeFi protocols and accounting use cases. That's why the Diva allows Liquid Stakers to convert their divETH into wdivETH as a non-rebasing token.
 
 The Diva Smart Contracts allow users to “wrap” divETH (dynamic balance) into wdivETH (static balance) and vice-versa.
 

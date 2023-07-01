@@ -1,6 +1,7 @@
 ---
-title: Roadmap
+title: Diva Roadmap
 slug: roadmap
+description: Diva is on its way to mainnet, expected in Q4! Testnet is currently active to Stakers and Operators
 ---
 
 # Roadmap
@@ -27,7 +28,7 @@ Other features in the roadmap are:
 
 ## ✅ Diva DAO: live
 
-The [Diva DAO](dao) is entrusted to curate the Diva protocol, and the [Initial Distribution](distribution) is currently [available to eligible participants!](https://claim.diva.community/)
+The [Diva DAO](dao) is entrusted to curate the Diva staking protocol, and the [Initial Distribution](distribution) is currently [available to eligible participants!](https://claim.diva.community/)
 
 
 

@@ -1,3 +1,8 @@
+---
+title: How to run a Diva node
+description: Follow this guide to become an Operator and start running a node. Operators lock divETH and run nodes to generate additional staking rewards.
+---
+
 # Testnet Operator Guide
 
 Diva is Ethereum’s first Liquid Staking solution powered by Distributed Validators (DVT)

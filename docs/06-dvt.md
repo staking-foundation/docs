@@ -1,5 +1,6 @@
 ---
 title: Distributed Validation
+description: Diva's unique DVT is deeply integrated with its Liquid Staking, offering massive improvements in performance and resiliency
 slug: dvt
 ---
 

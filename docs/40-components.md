@@ -1,3 +1,8 @@
+---
+title: Diva components
+description: Full details about the different Diva components
+---
+
 
 # Protocol components
 
@@ -45,7 +50,7 @@ Diva SCs will be non-upgradeable, ensuring the protocol remains predictable. Thi
 
 Distributed Validators are subject to regular Ethereum Validator duties. The Diva SC handles staking reward distributions to the network participants, updating all balances daily based on a set of rules.
 
-The Diva protocol has been conceived as a public good. Therefore, all infrastructure along with the smart contracts are released under permissive open-source licenses.
+The Diva staking protocol has been conceived as a public good. Therefore, all infrastructure along with the smart contracts are released under permissive open-source licenses.
 
 
 ## Zero-Knowledge Proof Oracles

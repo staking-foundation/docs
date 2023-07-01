@@ -1,3 +1,7 @@
+---
+title: Glossary of Diva
+description: Full details about the different Diva terms and components
+---
 
 # Glossary
 

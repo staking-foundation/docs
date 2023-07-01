@@ -1,3 +1,7 @@
+---
+title: Diva vs other staking solutions
+description: Diva is unique in its Liquid Staking and permissionless Operator set. Learn how it compares vs Ehtereum staking, Lido, Rocketpool and others.
+---
 
 # Diva comparison
 

@@ -1,4 +1,5 @@
 ---
+title: Diva Staking features
 description: Diva combines the best features from Liquid Staking, connecting them to economic guarantees and decentralization features focused on resiliency.
 ---
 
@@ -64,7 +65,7 @@ Diva allows anybody to stake ETH or operate a node without requiring any kind of
 
 Every Diva validator is a Distributed Validator, operated by a stochastically distributed sub-network of nodes.
 
-The protocol has Sybil protection mechanisms and is focused on reducing the barriers to entry for Operators, promoting diversity and true decentralization.
+Diva has built-in Sybil protection mechanisms and is focused on reducing the barriers to entry for Operators, promoting diversity and true decentralization.
 
 ### 🌳 Resilient
 
