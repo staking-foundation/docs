@@ -10,7 +10,7 @@ Diva is an Ethereum Liquid Staking protocol powered by Distributed Validator Tec
 
 It extends Ethereum's Proof of Stake providing new functionality for Stakers and Operators:
 
-- **Liquid Stakers** receive a Liquid Staking Token (divETH), which automatically accrues value from Ethereum's staking rewards without needing to run any infrastructure.
+- **Liquid Stakers** receive a Liquid Staking Token (divETH), which automatically updates balances to reflect generated Ethereum staking rewards.
 - **Operators** run a Distributed Validation (Diva) client to fulfill staking duties and earn staking rewards.
 
 Ethereum’s staking rewards are distributed among the Diva network participants according to their contributions.
@@ -39,5 +39,5 @@ While other solutions have some of these features, **Diva is the first solution 
 ### Trust-minimized Architecture
 
 - 🪨 Trustless and permissionless.
-- 🔐 "Can't be evil" cryptoeconomic systems.
+- 🔐 "Can't be evil" cryptographic systems.
 - 🛡️ [Collateral protection for Stakers](participants#operators).
