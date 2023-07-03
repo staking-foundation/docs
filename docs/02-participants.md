@@ -7,7 +7,9 @@ description: Diva provides Liquid Staking and allows Operators to run validators
 # Stakers & Operators
 
 :::tip
-Diva stakes all ETH from Stakers and Operators to generate staking rewards, which are distributed according to the contributions of each party.
+The Diva Staking Smart Contract acts as a bridging mechanism. It deposits ETH into Ethereum Beacon Chain validators while returning a divETH receipt that can be used to later withdraw those ETH plus any staking rewards it might have accrued.
+
+divETH can further be locked by Operators to run nodes and receive additional divETH rewards.
 :::
 
 
