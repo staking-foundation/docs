@@ -31,3 +31,17 @@ yarn build
 ```
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
+
+# Contribute to these docs
+
+This guide is available open-source, and is open to community contributions to keep improving it.
+
+If you'd like to contribute:
+
+1. Clone this repository
+2. Follow the Readme instructions to set it up locally.
+3. Send a Pull Request with your improvements.
+
+Contributions can include improving the writing, providing guides and new sections, or new resources!
+
+Lazy? Feel free to create an Issue to suggest improvements for others to consider.
