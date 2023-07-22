@@ -34,12 +34,12 @@ This command generates static content into the `build` directory and can be serv
 
 # Contribute to these docs
 
-This guide is available open-source, and is open to community contributions to keep improving it.
+This guide is available open-source with MIT license, and is open to community contributions to keep improving it.
 
 If you'd like to contribute:
 
 1. Clone this repository
-2. Follow the Readme instructions to set it up locally.
+2. Follow the instructions to set it up locally.
 3. Send a Pull Request with your improvements.
 
 Contributions can include improving the writing, providing guides and new sections, or new resources!
