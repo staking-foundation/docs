@@ -42,9 +42,6 @@ In an ideal world, every member would participate actively in governance. Howeve
   <summary>How to become a delegate</summary>
   <div>
     <p>
-        DAO members can participate in the Diva DAO by becoming a delegate.
-    </p>
-    <p>
         Delegates can receive vote delegations to have a bigger impact in their voting and represent like-minded community members. Note: there is no compensation for this, it is simply a community leadership role!
     </p>
     <ol>

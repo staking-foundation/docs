@@ -22,7 +22,7 @@ Before any decision is put up for voting, you can simply start an informal discu
 
 Topics can be things like better designs for Diva Staking, suggestions on how to organize the community, research & development topics, or decentralization initiatives.
 
-DAO members are encouraged to participate, following the [DAO community guidelines](https://github.com/staking-foundation/diva-dao/blob/main/Community-Guidelines.md). Forums are open to anyone, as it is important to socialize ideas and gather community feedback before moving on to action.
+Community members are encouraged to participate, following the [DAO community guidelines](https://github.com/staking-foundation/diva-dao/blob/main/Community-Guidelines.md). Forums are open to anyone, as it is important to socialize ideas and gather community feedback before moving on to action.
 
 💬 Participate on discussions or suggest new ideas on [Discord](https://discord.com/channels/1041618287500460083/1129055607148773386) or [Commonwealth](https://commonwealth.im/divastaking/discussions)!
 
@@ -40,7 +40,7 @@ However, **DAO proposals can contain on-chain instructions to be executed by the
 
 That's what the Diva DAO is for! On-chain code is executed by Ethereum in a resilient and decentralized way.
 
-**Remember, only delegated DIVA token holders can vote!** Delegated token holders are tasked with the goal of shaping the protocol and increasing its utility, resiliency, and decentralization - Ultimately, the DAO is tasked with making the Diva Staking Protocol better.
+**Remember, you can only become a DAO member by delegating your DIVA tokens!** Delegated token holders are tasked with the goal of shaping the protocol and increasing its utility, resiliency, and decentralization - Ultimately, the DAO is tasked with making the Diva Staking Protocol better.
 
 
 ### Three Types of Proposals
@@ -91,7 +91,7 @@ Any proposal shall include a copyright waver. Further, any code or material incl
 
 ## Step 5: Voting
 
-After on-chain creation, there is a **2-day waiting period** for token holders to delegate, with delegated DIVA tokens counting towards the governance quorum.
+After on-chain creation, there is a **2-day waiting period** for any DIVA token holder to delegate their tokens. Only DAO tokens (delegated DIVA tokens or D-DIVAs) are accounted towards the governance quorum.
 
 Proposals have a predetermined **3-day voting period** upon submission, allowing D-DIVA holders to vote in favor or object. If the proposal meets a valid quorum (10M D-DIVA) and voting threshold, it becomes a DAO Resolution!
 
