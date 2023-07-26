@@ -7,11 +7,19 @@ description: Diva Operators power Diva Staking. Operators lock divETH and run no
 
 A node operator on the Ethereum network plays a crucial role in maintaining the network's security and stability by running an Ethereum node. Each node stores a copy of the blockchain ledger, validates transactions, and participates in the consensus process, ensuring only legitimate transactions are added to the blockchain.
 
-**A Diva node is an augmented version of an Ethereum node** The Diva Smart contract wraps the Ethereum PoS deposit contract by providing additional functionalities, such as:
+**A Diva node is an extension of an Ethereum node:**
 
-- Separation of roles between Liquid Staker (passive) and Operator (active).
-- DVT-powered validation with improved performance and resiliency.
-- Trust-minimized management of collateral and rewards.
+- It connects to Ethereum by using existing Execution, Consensus, Validation and MEV-boost clients.
+- It coordinates with other Diva nodes via a P2P network to generate and manage key shares.
+- It fulfils validation duties in coordination with other Diva clients using [Diva'sDVT](dvt).
+
+
+**The Diva Smart contract wraps the Ethereum PoS deposit contract**, extending its functionalities to:
+
+- Allowing ETH deposits of any amount and minting liquid divETH receipts.
+- Handling the creation of validators and withdrawals of their ETH.
+- Updating divETH balances to reflect any accrued staking rewards.
+- Keeping a registry of Diva Operators and managing their collateral & rewards balances.
 
 Diva Operators are responsible for maintaining their node's hardware and software updates, monitoring their performance and security.
 
