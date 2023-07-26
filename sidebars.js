@@ -46,9 +46,9 @@ const sidebars = {
       
     {
       type: 'category',
-      label: 'Operator Guide',
+      label: 'Diva Operators',
       collapsible: true,
-      items: [ 'operators' ]
+      items: [ 'operators', 'economics', 'install' ]
 
     },
 
