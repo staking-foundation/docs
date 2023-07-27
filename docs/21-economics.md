@@ -32,6 +32,12 @@ Unlike other solutions, *anyone* can run a Diva Operator permissionlessly. Liqui
 - Cryptography: [Diva's DVT](dvt) distributes duties across the network to ensure there aren't single points of failure.
 - Collateral: Operators post divETH collateral to guarantee they fulfil their duties responsibly.
 
+## Staker economics
+
+All divETH holders receive "Staker Rewards", which aggregate all staking rewards regardless of their source, including block proposals, attestation rewards, MEV, etc.
+
+Liquid Stakers will pay 10% of their Staking Rewards to Operators as compensation for their services as "Operator Rewards".
+
 ## Operator economics
 
 Diva Operators post divETH collateral as a guarantee. The more divETH they post, the more key shares they can receive.
