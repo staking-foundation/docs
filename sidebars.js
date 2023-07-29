@@ -76,7 +76,7 @@ const sidebars = {
       type: 'category',
       label: 'Reference',
       collapsible: true,
-      items: ['components','glossary'],
+      items: ['staking-rewards','components','glossary'],
     },
     {
       type: 'category',
