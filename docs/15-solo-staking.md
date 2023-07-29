@@ -39,7 +39,7 @@ Diva maintains most the decentralization advantages of solo staking on Ethereum,
 
 **The Diva Smart Contract acts as a wrapper of the Ethereum deposit contract**, allowing:
 
-- Liquid Stakers to bridge their ETH to the Beacon Chain, obtaining liquid divETH.
+- Liquid Stakers to deposit their ETH to the Beacon Chain, obtaining liquid divETH.
 - Operators to run nodes to perform validation duties, locking divETH to generate additional divETH staking rewards.
 
 

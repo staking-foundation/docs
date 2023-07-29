@@ -54,7 +54,7 @@ The more divETH an Operator locks, the more Key Shares they may receive, increas
 
 Unlike other solutions, Operators are completely non-custodial. They never have access to the funds or private key of the validators.
 
-The Diva Smart Contract acts as a bridge, sending ETH deposits to the Ethereum Beacon Chain where they are used to set up validators.
+The Diva Smart Contract acts as a bridge, depositing ETH into the Ethereum Beacon Chain (or "Consensus Layer") where they are used to set up validators.
 
 Each 32Ξ Ethereum validator is operated by 16 Diva Key Shares, which are distributed to different Operators who have posted enough collateral.
 

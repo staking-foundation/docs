@@ -78,4 +78,4 @@ The purpose of wdivETH is to facilitate the integration with the wider Ethereum 
 
 While the **divETH balance will dynamically update** in the token holder’s wallet, the **wdivETH balance will remain static** until it is unwrapped into a divETH receipt token, or further redeemed for its underlying ETH.
 
-These two alternatives provide versatile ways for Liquid Stakers to conveniently bridge their ETH into Ethereum's Beacon Chain to generate staking rewards.
+These two alternatives provide versatile ways for Liquid Stakers to conveniently deposit their ETH into Ethereum's Beacon Chain to generate staking rewards.

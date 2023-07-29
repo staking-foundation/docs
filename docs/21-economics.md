@@ -10,7 +10,7 @@ What makes Diva unique is that all ETH deposits are staked and operated by permi
 This happens in several steps, as illustrated below:
 
 1. Liquid Stakers deposit ETH to diva's Smart Contract and receive [liquid divETH](lst), which accrues Staking Rewards.
-2. ETH deposits are bridged to the Ethereum Beacon Chain in increments of 32 ETH to create Ethereum validators.
+2. ETH deposits are deposited (or "bridged") to the Ethereum Beacon Chain in increments of 32 ETH to create Ethereum validators.
 3. Each 32 ETH validator is operated by 16 key shares, which together form a [distributed validator key](dvt).
 4. Operators can **lock divETH collateral** to **run a diva node** and **operate key shares** to generate additional Operator Rewards.
 
