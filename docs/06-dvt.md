@@ -4,26 +4,26 @@ description: Diva's unique DVT is deeply integrated with its Liquid Staking, off
 slug: dvt
 ---
 
-# Distributed Validation Technology
+# Distributed Validation
 
-Diva uses Distributed Validation Technology (DVT) to operate Ethereum validators in a fully distributed manner.
+Diva uses Distributed Validation Technology (DVT) to operate [Ethereum validators](glossary#validator) in a fully distributed manner.
 
 ![DVT splitting keys](img/dvt-1.png)
 
-Diva's Smart Contract extends Ethereum, wrapping the Beacon Chain Deposit Contract to provide new functionalities:
+Diva's Smart Contract extends Ethereum, wrapping the Consensus Layer Deposit Contract to provide new functionalities:
 
-- Liquid Stakers deposit ETH to receive divETH.
+- Liquid Stakers deposit ETH to receive divETH to generate [Staking Rewards](staking-rewards).
 - Liquid Stakers don't need to run nodes. Operators run nodes.
 - Operators use **DVT Key Shares** instead of Ethereum validator keys.
 - Each validator is run by 16 DVT Key Shares.
-- Operators must **lock 1 divETH per Key Share** instead of Ethereum's 32Ξ per validator.
-- Operators generate staking divETH rewards proportionally to the Key Shares they operate.
+- Operators must **lock [1 divETH collateral](glossary#collateral) per [Key Share](glossary#key-share)** instead of Ethereum's 32Ξ per validator.
+- Operators generate additional [divETH Operator Rewards](economics) for the Key Shares they operate.
 
 
 
 ### Key Share Creation & Distribution
 
-The Diva Smart Contract receives ETH from Liquid Stakers. Every time there's 32Ξ available, it bridges them to the Ethereum Beacon Chain to form a new validator, which is operated by 16 unique Key Shares to generate staking rewards.
+The Diva Smart Contract receives ETH deposits from Liquid Stakers. Every time there's 32Ξ available, it deposits them to the Ethereum Consensus Layer to form a new [validator](glossary#validator), which is operated by 16 unique [Key Shares](glossary#key-share) to generate [Staking Rewards](staking-rewards).
 
 Key Shares are created using Distributed Key Generation (DKG). This allows the Operator peer-to-peer network to split validator keys into Key Shares operated by separate nodes using “Boneh–Lynn–Shacham” BLS threshold signatures.
 
@@ -39,11 +39,11 @@ Operators receive Key Shares to new validators in a stochastic but fair process 
 
 ### Running Validators using Key Shares
 
-The Beacon Chain requires validators to fulfill validation duties every few minutes, which requires signing validation duties.
+The Ethereum Consensus Layer requires [validators](glossary#validator) to fulfill validation duties every few minutes, which requires signing validation duties.
 
 Diva Operators connect via a P2P network, performing signatures independently without the need to interact with the Diva Smart Contract.
 
-Whenever a validator is required to sign, Operators holding its different Key Shares coordinate through the P2P network to sign the attestation duties.
+Whenever a validator is required to sign, Operators holding its different [Key Shares](glossary#key-share) coordinate through the P2P network to sign the attestation duties.
 
 Once 11 out of 16 Key Shares (2/3rds) have signed, the validation duty is fulfilled by sending the message to the network.
 
@@ -63,9 +63,9 @@ The main differences are:
 
 1. **Diva's DVT is deeply integrated with its [Liquid Staking](lst)**, while SSV and Obol provide modular middlewares to distribute signatures.
 2. Diva provides an **incentives and penalties system for Operators**, while Obol and SSV leave that up to the system integrators using them.
-3. Diva is a **single integrated system** extending Ethereum, while Obol and SSV are lego blocks intended to be integrated in staking systems.
-4. Diva is **trustless** as there are no trusted committees, multisigs.
-5. Diva provides **collateral guarantees from Operators**, where neither Obol or SSV provide economic systems to protect stakers.
+3. Diva is one **fully integrated system** extending Ethereum, while Obol and SSV are lego blocks intended to be integrated in staking systems.
+4. Diva is **trustless** as there are no trusted committees, multisigs, while others rely on external parties to handle some functionalities.
+5. Diva provides **[collateral guarantees from Operators](glossary#collateral)**, where neither Obol or SSV provide economic systems to protect stakers.
 6. Diva provides **mechanisms to eject bad actors** automatically.
 7. Diva uses a rotational nondeterministic consensus with **2x lower latency** than classic DVT, which requires 2 round-trips.
 8. Diva is **fully permissionless** and doesn't use whitelists or any reputational factors in its design.
@@ -82,7 +82,7 @@ This has very real benefits:
 3. **Lower risk of slashing**, as any malicious action would require 2/3rd of Key Shares to collude, and this would be punished by confiscating their collateral.
 4. **Lower risk of MEV stealing**
 5. **Better economic conditions** for both Liquid Stakers as well as Operators.
-6. **Optimized for low latency**, improving staking rewards.
+6. **Optimized for low latency**, improving [Staking Rewards](staking-rewards).
 6. **Fully trustless**: Stake through Diva without needing to trust any of its participants.
 7. **Permissionless**: Run nodes for Diva without requesting permission from anyone.
 
@@ -90,7 +90,7 @@ This has very real benefits:
 
 The benefit of Diva's DVT becomes clear here. 
 
-Consider a set of nodes with 5% downtime each. Absolutely terrible performance.
+Consider a set of nodes with 5% downtime each – which would be unacceptabe by today's standards.
 
 However, when incorporated into a Diva committee, the resulting downtime would be *less than 0.01%*! This is a huge improvement compared to the typical single-node operator, showcasing the resilience and reliability of the DVT system.
 

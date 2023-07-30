@@ -45,7 +45,7 @@ The community is working towards the following major releases:
 
 **Mainnet deployment** will be performed once the last release (Cher) is fully audited and ready to be launched.
 
-👷 This will allow Stakers, Operators and the Diva DAO to fully finalize its design and possibilities, so everybody can use divETH without the need to trust any centralized or permissioned party.
+👷 This will allow Liquid Stakers, Operators and the Diva DAO to fully finalize its design and possibilities, so everybody can use divETH without the need to trust any centralized or permissioned party.
 
 💄 Join the Diva community to contribute and get support as an early participant!
 

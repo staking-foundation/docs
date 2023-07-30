@@ -7,7 +7,10 @@ description: The main difference between Diva and Rocketpool is that Diva utiliz
 
 Both Diva and Rocketpool are community-driven Liquid Staking solution run by permissionless node operators.
 
-The main difference is in who performs the validation duties.
+The main difference is in who performs the validation duties:
+
+- Rocketpool runs on Proof of Stake, with Operators custodying full keys.
+- Diva runs Distributed Proof of Stake, with keys being operated by network consensus.
 
 ## Rocketpool is operated by individual Operators
 
@@ -37,14 +40,14 @@ Diva uses a consensus of 2/3rds of 16 Operators to run every single validator, m
 
 **Diva's unique strength comes into play here**: if a set of Operators with 5% downtime use Diva's DVT, they can perform at 99.99% uptime (0.01% downtime), thanks the DVT improvements.
 
-Diva's DVT system provides novel risk mitigation mechanisms, thanks to its fault tolerance and consensus mechanisms preventing single Operators from causing damages.
+[Diva's DVT system](dvt) provides novel risk mitigation mechanisms, thanks to its fault tolerance and consensus mechanisms preventing single Operators from causing damages.
 
-With Diva, Operators require as little as 1 ETH collateral, allowing for higher diversity and uptime, which means better staking rewards.
+With Diva, Operators require as little as 1 divETH [collateral](glossary#collateral), allowing for higher diversity and uptime, which means better [Staking Rewards](staking-rewards).
 
 **Diva's DVT turns a set of 16 nodes with 95% uptime into a Distributed Validator with 99.99% uptime**
 
 ![DVT architecture](img/dvt-uptime-improvement.png)
 
-**The same nodes that today run Rocketpool could perform with 99.999% combined uptime**
+**The same nodes that today run Rocketpool could perform with 99.99% combined uptime**
 
 ![Diva vs Rocketpool uptime](img/diva-vs-rp-uptime.png)

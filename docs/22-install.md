@@ -9,7 +9,7 @@ Diva is currently in Testnet ([check the 🛤️ Roadmap ](roadmap)), and the ex
 
 ## Operator setup
 
-Diva Operators will require to post at least 1 Goerli ETH (testnet) as collateral to receive their first key share. If you need some Goerli ETH, [you can ask for it in the community Discord](https://discord.gg/diva).
+Diva Operators will require to post at least 1 Goerli ETH (testnet) as [collateral](glossary#collateral) to receive their first key share. If you need some Goerli ETH, [you can ask for it in the community Discord](https://discord.gg/diva).
 
 There are two ways to run a Diva node:
 
@@ -29,9 +29,11 @@ There are two ways to run a Diva node:
 
 ## Installing Diva Operator client
 
-👉 Follow the installation instructions on Github!
+👉 **The installations instructions will be coming in a few days!!** Functionality is now ready, and devs are reportedly working out the last known issues.
 
-The Github Docker package comes prepare for a full Diva node (option #1).
+👉 **[Sign up for Telegram announcements](https://t.me/followdiva)** to not miss it!
+
+The Github Docker package will come prepared to automatically set up a full Diva node (option #1).
 
 If you would like to configure it to connect to your own node, you can edit the Docker configuration files.
 

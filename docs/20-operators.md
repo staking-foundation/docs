@@ -16,10 +16,11 @@ A node operator on the Ethereum network plays a crucial role in maintaining the 
 
 **The Diva Smart contract wraps the Ethereum PoS deposit contract**, extending its functionalities to:
 
-- Allowing ETH deposits of any amount and minting liquid divETH receipts.
-- Handling the creation of validators and withdrawals of their ETH.
-- Updating divETH balances to reflect any accrued staking rewards.
-- Keeping a registry of Diva Operators and managing their collateral & rewards balances.
+- Allowing ETH deposits of any amount and minting [liquid divETH](lst).
+- Handling the creation of [Ethereum validators](glossary#validator) and withdrawals of their ETH.
+- Updating divETH balances to reflect any accrued [Staking Rewards](staking-rewards).
+- Keeping a registry of Diva Operators and validators.
+- Managing [Operator Collateral](glossary#collateral) & [Operator Rewards](economics) balances.
 
 Diva Operators are responsible for maintaining their node's hardware and software updates, monitoring their performance and security.
 

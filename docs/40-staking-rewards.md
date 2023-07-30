@@ -7,7 +7,7 @@ description: Understand how Diva generates and distributes Ethereum Staking rewa
 
 ### How Diva generates rewards
 
-Diva Staking stakes all ETH deposits into the Ethereum Consensus Layer to generate additional ETH rewards.
+Diva Staking stakes all ETH deposits into the [Ethereum Consensus Layer](glossary#consensus-layer), creating [validators](glossary#validator) to generate ETH rewards.
 
 **All rewards are aggregated, independently of their sources**. This includes consensus rewards (attestations, block proposals and sync committes) and execution rewards (priority fees and MEV).
 
@@ -24,7 +24,7 @@ Diva's Total Rewards are split daily into:
 - Penalties may be collected from Operators if they fail their duties.
 - Important: Diva Staking doesn't charge any kind of protocol fee!
 
-If support for re-staking is introduced, it will come as an additional reward distributed between Staker Rewards and Operator Rewards.
+If support for re-staking is introduced, it will come as an additional reward distributed between Staking Rewards and Operator Rewards.
 
 ## Ethereum rewards
 
@@ -32,8 +32,7 @@ Diva is simply a tool to enhance Ethereum staking, so understanding how the unde
 
 ### Consensus rewards are predictable
 
-The rewards of the consensus layer are determined by the Ethereum protocol
-specifications. They depend on the number of active validators, with rewards going down as more ETH is staked.
+The rewards of the [Consensus Layer](glossary#consensus-layer) are determined by the Ethereum protocol specifications. They depend on the number of active [validators](glossary#validator), with rewards going down as more ETH is staked.
 
 There are three kind of consensus rewards:
 
@@ -64,10 +63,10 @@ Diva will be integrating MEV support to improve the overall Staking Rewards.
 
 The smoothing effect of Diva's aggregation of rewards reduces variance and "noise" in the expected rewards, making them smooth and predictable.
 
-1. Liquid Stakers & Operators can expect smooth aggregated rewards.
+1. Liquid Stakers & Operators can expect smoother aggregated rewards.
 2. If more ETH is staked overall, staking reward rates might decline.
 3. If the Ethereum network becomes more active, staking rewards might increase.
 
-Overall it is possible that factors 2 & 3 balance each other out to provide Ethereum Staking Rewards in the range of 5% APR over the ETH deposits.
+Overall, it is possible that factors 2 & 3 balance each other out to provide Ethereum Staking Rewards in the range of 5% APR over the ETH deposits.
 ‍
 ‍

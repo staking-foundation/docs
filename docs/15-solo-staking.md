@@ -13,7 +13,7 @@ Solo staking is the original implementation of Ethereum's Proof of Stake, the wa
 
 As a primitive, it is the most "bare metal" and pure way of staking, and all other staking systems are built on top of it.
 
-It requires you to stake 32 ETH per validator, being quite rigid about the amounts for technical reasons.
+It requires you to stake [32 ETH per validator](glossary#validator), being quite rigid about the amounts for technical reasons.
 
 In order to solo stake, you need to set up your own machine, but thanks to it, it is the most decentralized and resilient option as it has the lowest number of dependencies.
 
@@ -39,8 +39,8 @@ Diva maintains most the decentralization advantages of solo staking on Ethereum,
 
 **The Diva Smart Contract acts as a wrapper of the Ethereum deposit contract**, allowing:
 
-- Liquid Stakers to deposit their ETH to the Beacon Chain, obtaining liquid divETH.
-- Operators to run nodes to perform validation duties, locking divETH to generate additional divETH staking rewards.
+- Liquid Stakers to deposit their ETH into [Ethereum validators](glossary#validator), obtaining [liquid divETH](lst) which accrues [Staking Rewards](staking-rewards).
+- Operators to run nodes to perform validation duties, locking [divETH collateral](glossary#collateral) to generate base Staking Rewards plus additional [Operator Rewards](economics).
 
 
 ## Design Principles
@@ -50,12 +50,12 @@ Diva maintains most the decentralization advantages of solo staking on Ethereum,
 - [Reduce missed attestations 500x](dvt#key-features)
 
 **Incentives and penalties**
-- Socialized smooth rewards
+- [Socialized smooth rewards](staking-rewards)
 - Quick ejection to bad actors
 
 **Trust-minimized crypto security**
 - "Can't be evil" system
-- Economic guarantees
+- [Collateral guarantees](glossary#collateral)
 
 **Using Diva improves the lives of Liquid Stakers and Operators**:
 
@@ -63,7 +63,7 @@ Diva maintains most the decentralization advantages of solo staking on Ethereum,
 - Anyone can be an Operator from only 1 ETH and generate higher rewards than solo staking.
 - Rewards for everyone are predictable and smooth, as they are averaged for the entire network.
 
-**Diva extends Ethereum validation with a greatly simplified client** which handles all validation duties transparently. As an Operator, you don't need to handle validator keys, withdrawals, etc, as it's all handled by the Diva client.
+**Diva extends Ethereum validation with a [greatly simplified client](operators)** which handles all validation duties transparently. As an Operator, you don't need to handle validator keys, withdrawals, etc, as it's all handled by the Diva client.
 
 The Diva client works a lot like Bittorrent: it connects to other clients via its P2P network, streaming validation duties automatically the way Bittorrent streams files.
 
