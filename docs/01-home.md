@@ -20,6 +20,6 @@ Diva Staking is an Ethereum Liquid Staking protocol powered by Distributed Valid
 
 <br/>
 
-It is a fully integrated tool that improves the lives of Stakers and Operators. 
+It is a fully integrated tool that improves the lives of Liquid Stakers and Operators. 
 
 Keep reading to learn more! 👉

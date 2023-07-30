@@ -25,7 +25,7 @@ Diva is an agnostic software tool allowing Stakers and Operators to perform thei
 
 This offers a much higher degree of transparency and fully decentralized risk management systems:
 
-- Economic collateralization for Operators.
+- [Economic collateralization](glossary#collateral) for Operators.
 - Attack and censorship protection by decentralizing its operations.
 - Risk minimization by being non-custodial with funds and keys.
 
