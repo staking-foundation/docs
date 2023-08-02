@@ -70,7 +70,7 @@ The temperature check is done through dedicated threads the [Discord](https://di
 - Short and concise description of the proposal
 - Rationale: why the proposal is necessary and what benefit will bring to the community
 - Tentative classification as DCP, DIP and DUP
-- A community pool to indicate the flag the level of support the proposal may have
+- A community poll to indicate the flag the level of support the proposal may have
 
 
 ## Step 4: Submit DAO Proposal

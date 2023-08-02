@@ -9,7 +9,7 @@ description: Diva is on its way to mainnet, expected in Q4! Testnet is currently
 :::info
 Diva is still under active development! Follow this page for updates 😊
 
-**Next up: Operator Testnet coming early July 2023**
+**Next up: Operator Testnet coming early August 2023**
 :::
 
 ## ✅ Staking testnet: live
@@ -39,7 +39,7 @@ Diva's goal is that *anyone* can run a node to operate the network and generate 
 
 The community is working towards the following major releases:
 
-1. **July: Amy Release**: Core validation functionality.
+1. **August: Amy Release**: Core validation functionality.
 2. **Q3: Britney Release**: Improved consensus protocol, ZKP reward calculations.
 3. **Q4: Cher Release**: MEV, tokenomics, governance, withdrawals.
 
