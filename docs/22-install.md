@@ -5,7 +5,7 @@ description: Follow this guide to become an Operator and start running a Diva no
 
 # Installing Diva Operator testnet
 
-Diva is currently in Testnet ([check the 🛤️ Roadmap ](roadmap)), and the exact requirements are being still explored.
+Diva is currently in Testnet ([check the 🛤️ Roadmap ](roadmap)), and the exact requirements are still being explored.
 
 ## Operator setup
 
@@ -13,7 +13,7 @@ Diva Operators will require to post at least 1 Goerli ETH (testnet) as [collater
 
 There are two ways to run a Diva node:
 
-1. **A full Diva node**. This requires a server with the [requirements to run a full Ethereum node](https://ethereum.org/en/run-a-node/) (including EL/CL clients):
+1. **A full Diva node**. This requires a server with the [specifications to run a full Ethereum node](https://ethereum.org/en/run-a-node/) (including EL/CL clients):
   - 📦 A machine supporting Docker.
   - 🤖 CPU: 4 cores minimum, 8 cores recommended. *(ARM hasn't been tested yet)*
   - 🧠 RAM: 8 GB minimum, 16 GB recommended. *(We recommend higher amounts than the Ethereum Foundation's minimums)*
@@ -53,6 +53,6 @@ The current version supports:
 
 ## Get involved!
 
-So far, Diva Operator testnetis relatively new and has only been tested in Intel, Geth and Teku.
+So far, Diva Operator testnet is relatively new and has only been tested in Intel, Geth and Teku.
 
-Get involved us by reporting bugs, suggesting improvements, and helping us test more client combinations!
+Get involved by reporting bugs, suggesting improvements, and helping us test more client combinations!

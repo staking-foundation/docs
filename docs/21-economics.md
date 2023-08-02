@@ -5,7 +5,7 @@ description: Diva Operators earn both Staking Rewards as well as Operator Reward
 
 # Diva Operator economics
 
-What makes Diva unique is that all ETH deposits are staked and operated by permissiones & trustless Operators.
+What makes Diva unique is that all ETH deposits are staked and operated by permissionless & trustless Operators.
 
 This happens in several steps, as illustrated below:
 

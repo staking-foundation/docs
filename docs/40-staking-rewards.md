@@ -24,7 +24,7 @@ Diva's Total Rewards are split daily into:
 - Penalties may be collected from Operators if they fail their duties.
 - Important: Diva Staking doesn't charge any kind of protocol fee!
 
-If support for re-staking is introduced, it will come as an additional reward distributed between Staking Rewards and Operator Rewards.
+If other sources of rewards like re-staking are introduced, it will come as an additional reward distributed between Staking Rewards and Operator Rewards.
 
 ## Ethereum rewards
 
@@ -67,6 +67,4 @@ The smoothing effect of Diva's aggregation of rewards reduces variance and "nois
 2. If more ETH is staked overall, staking reward rates might decline.
 3. If the Ethereum network becomes more active, staking rewards might increase.
 
-Overall, it is possible that factors 2 & 3 balance each other out to provide Ethereum Staking Rewards in the range of 5% APR over the ETH deposits.
-‍
 ‍
