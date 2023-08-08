@@ -11,7 +11,7 @@ Diva Staking's DAO governance offers space for both on-chain and off-chain discu
 
 - 🗣️ Starting or participating in forum discussions on [Discord](https://discord.com/channels/1041618287500460083/1129055607148773386) or [Commonwealth](https://commonwealth.im/divastaking/discussions).
 - ⛓️ [Submitting or voting on DAO proposals](https://www.tally.xyz/gov/diva) for on-chain decisions.
-- 🖥️ Being an active participant as a [Liquid Staker](https://stake.diva.community) or [Operator during testnet](https://docs.staking.foundation/operator).
+- 🖥️ Being an active participant as a [Liquid Staker](https://stake.diva.community) or [Operator during testnet](https://docs.staking.foundation/operators).
 
 All participants in the DAO are strongly encouraged to follow the [Diva DAO community guidelines](https://github.com/staking-foundation/diva-dao/blob/main/Community-Guidelines.md), which are maintained by the community.
 
