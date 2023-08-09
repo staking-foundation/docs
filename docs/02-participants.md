@@ -7,20 +7,20 @@ description: Diva provides Liquid Staking and allows Operators to run validators
 # Stakers & Operators
 
 :::tip
-The Diva Staking Smart Contract acts as a bridging mechanism. It deposits ETH into Ethereum [Consensus Layer validators](glossary#validator) while returning a [divETH receipt](lst) that can be used to later withdraw those ETH plus any staking rewards it might have accrued.
+The Diva Staking Smart Contract acts as a bridging mechanism. It deposits ETH into Ethereum [Consensus Layer validators](glossary#validator) while returning a [divETH receipt](lst) that can be used to later withdraw those ETH plus any staking rewards it might have generated.
 
 :::
 
 
 ## Liquid Stakers (or "Stakers")
 
-**Liquid Stakers deposit ETH to obtain divETH** which automatically accrues [Ethereum staking rewards](staking-rewards) (if any).
+**Liquid Stakers deposit ETH to obtain divETH** which automatically generates [Ethereum staking rewards](staking-rewards) (if any).
 
 Anyone can become a Liquid Staker with no minimum ETH requirement. Stakers depositing ETH to the Diva Smart Contract will instantly receive a transferable receipt token called divETH representing their staked ETH + any [staking rewards](staking-rewards) it generates.
 
 Diva's staking is "liquid" because Stakers receive liquid divETH, meaning it is immediately transferable or tradable, as opposed to being locked.
 
-Wallets holding divETH will see their balances update daily to reflect accrued staking rewards (or penalties, if any). This is accomplished via a [rebasing mechanism](lst).
+Wallets holding divETH will see their balances update daily to reflect its Staking Rewards (or penalties, if any). This is accomplished via a [rebasing mechanism](lst).
 
 The divETH token can:
 

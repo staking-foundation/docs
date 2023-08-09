@@ -39,7 +39,7 @@ Diva maintains most the decentralization advantages of solo staking on Ethereum,
 
 **The Diva Smart Contract acts as a wrapper of the Ethereum deposit contract**, allowing:
 
-- Liquid Stakers to deposit their ETH into [Ethereum validators](glossary#validator), obtaining [liquid divETH](lst) which accrues [Staking Rewards](staking-rewards).
+- Liquid Stakers to deposit their ETH into [Ethereum validators](glossary#validator), obtaining [liquid divETH](lst) which generates [Staking Rewards](staking-rewards).
 - Operators to run nodes to perform validation duties, locking [divETH collateral](glossary#collateral) to generate base Staking Rewards plus additional [Operator Rewards](economics).
 
 
