@@ -1,19 +1,17 @@
 ---
-title: DIVA token Initial Distribution
+title: Token Distribution
 description: The DIVA DAO token is being distributed to 15,000 different addresses from Ethereum ecosystem participants
 ---
 
-# Initial Distribution
+# DIVA Token Distribution
 
-:::info
-**The DIVA governance token is now available to be claimed** from ~15,000 Ethereum wallets. [Check your eligibility to claim!](https://claim.diva.community/).
+Approximately **15,000 addresses from Ethereum community members** were offered the chance to become initial Diva DAO participants.
+
+The [token claim process ended on Aug 2023](https://dune.com/kevinzzz/diva-airdrop-claim), and it's no longer available. There is no "airdrop" or "public sale".
 
 The token contract is [0xbfabde619ed5c4311811cf422562709710db587d](https://etherscan.io/token/0xbfabde619ed5c4311811cf422562709710db587d), watch out for scams!
-:::
 
-Approximately **15,000 addresses from Ethereum community members** have been offered the chance to become initial Diva DAO participants.
-
-The recipients of the DIVA Initial Distribution include:
+The recipients of the DIVA Initial Distribution included:
 
 - **Diva OG contributors**, including early supporters, researchers, developers, advisors, and community members.
 - **Ethereum Stakers** from EthStaker, Rocketpool, SSV, Lido, Dappnode, etc.
@@ -24,20 +22,20 @@ The recipients of the DIVA Initial Distribution include:
 
 ## The purpose
 
-The purpose of this *initial* distribution is to involve potential Diva users in the design of the protocol as early as possible, building a system that has decentralization at its core.
+The purpose of this *initial* distribution was to involve potential Diva users in the design of the protocol as early as possible, building a system that has decentralization at its core.
 
 Delegated token holders are tasked with the goal of shaping the protocol and increasing its utility, resiliency, and decentralization.
 
 ## Supply distribution
 
-The DIVA token has a fixed supply of 1,000,000,000 DIVA.
+The DIVA token has a fixed supply of [1,000,000,000 DIVA](https://etherscan.io/token/0xbfabde619ed5c4311811cf422562709710db587d).
 
-The ultimate goal is to distribute the entirety of the supply to community members, with a suggested target of delivering:
+The ultimate goal is to distribute the entirety of the supply to community members. The current distribution is approximately:
 
-- 10% Initial Distribution as detailed above.
-- 10% Staking Foundation for research, development and promotion.
-- 40% DAO reserves.
-- 40% for Early Supporters of the project.
+- [7.3% Initial Distribution](https://dune.com/kevinzzz/diva-airdrop-claim) was claimed, as detailed above.
+- 11.5% [Staking Foundation](foundation) for research, development and promotion.
+- [36.6% DAO reserves](https://etherscan.io/token/0xbfabde619ed5c4311811cf422562709710db587d?a=0x4ebb20995b6264b4b1e25f4473a4636cdb6a9790).
+- 44.6% for Early Supporters of the project.
 
 The goal is to maximize decentralization, assigning governance power to active network participants.
 

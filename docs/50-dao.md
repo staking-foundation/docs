@@ -32,7 +32,6 @@ There is a fixed total supply of 1,000,000,000 DIVA tokens. Each Delegated DIVA 
 The Diva DAO components are fully decentralized:
 
 - The DIVA contract is [0xbfabde619ed5c4311811cf422562709710db587d](https://etherscan.io/token/0xbfabde619ed5c4311811cf422562709710db587d).
-- There is an active [DIVA Token Claim](https://claim.diva.community/) website.
 - [Governance proposals](https://www.tally.xyz/gov/diva) are on Tally.
 - [Discussion forum](https://commonwealth.im/divastaking/discussions) for community conversations on Commonwealth.
 
