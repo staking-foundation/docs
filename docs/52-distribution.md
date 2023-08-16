@@ -32,10 +32,10 @@ The DIVA token has a fixed supply of [1,000,000,000 DIVA](https://etherscan.io/t
 
 The ultimate goal is to distribute the entirety of the supply to community members. The current distribution is approximately:
 
-- [7.3% Initial Distribution](https://dune.com/kevinzzz/diva-airdrop-claim) was claimed, as detailed above.
-- 11.5% [Staking Foundation](foundation) for research, development and promotion.
-- [36.6% DAO reserves](https://etherscan.io/token/0xbfabde619ed5c4311811cf422562709710db587d?a=0x4ebb20995b6264b4b1e25f4473a4636cdb6a9790).
-- 44.6% for Early Supporters of the project.
+- [73M Initial Distribution](https://dune.com/kevinzzz/diva-airdrop-claim) was claimed, as detailed above.
+- 115M [Staking Foundation](foundation) for research, development and promotion.
+- [366M DAO reserves](https://etherscan.io/token/0xbfabde619ed5c4311811cf422562709710db587d?a=0x4ebb20995b6264b4b1e25f4473a4636cdb6a9790).
+- 446M for Early Supporters of the project.
 
 The goal is to maximize decentralization, assigning governance power to active network participants.
 
