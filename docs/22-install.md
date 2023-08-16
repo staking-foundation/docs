@@ -7,19 +7,36 @@ description: Follow this guide to become an Operator and start running a Diva no
 
 Diva is currently in Testnet ([check the 🛤️ Roadmap ](roadmap)), and the exact requirements are still being explored.
 
+:::info
+Ready to install? **[Jump to the the Diva Installation Guide](https://docs.shamirlabs.org/)** maintained by Shamir Labs.
+
+Or keep reading to learn more :)
+:::
+
+
 ## Operator setup
+
+In the current version, no collateral is required! Key shares are sent automatically to live operators.
+
+But this will change in future versions.
 
 Diva Operators will require to post at least 1 Goerli ETH (testnet) as [collateral](glossary#collateral) to receive their first key share. If you need some Goerli ETH, [you can ask for it in the community Discord](https://discord.gg/diva).
 
 There are two ways to run a Diva node:
 
-1. **A full Diva node**. This requires a server with the [specifications to run a full Ethereum node](https://ethereum.org/en/run-a-node/) (including EL/CL clients):
-  - 📦 A machine supporting Docker.
+1. **An all-in-one Diva node**, which automatically installs the Ethereum client dependencies (EL/CL/VC clients).
+
+This requires a virtual or physical machine with the [specifications to run a full Ethereum node](https://ethereum.org/en/run-a-node/):
+
+  - 📦 An operating system supporting Docker, ideally Linux
   - 🤖 CPU: 4 cores minimum, 8 cores recommended. *(ARM hasn't been tested yet)*
   - 🧠 RAM: 8 GB minimum, 16 GB recommended. *(We recommend higher amounts than the Ethereum Foundation's minimums)*
   - 🍱 Hard drive: 2 TB SSD drive.
   - Recommended: Wired internet connection
-2. **Connecting Diva to an existing Ethereum node**. In this case the requirements are much lower, as the Ethereum node does all the heavy lifting. It is recommended to use a dedicated Ethereum node that's isolated from other services to avoid accidental failures.
+
+2. **Using the Dappnode package** which is under development.
+
+3. **Connecting Diva to an existing Ethereum node**. In this case the requirements are much lower, as the Ethereum node does all the heavy lifting. It is recommended to use a dedicated Ethereum node that's isolated from other services to avoid accidental failures.
 
 <div style={{textAlign: 'center'}}>
 
@@ -29,13 +46,10 @@ There are two ways to run a Diva node:
 
 ## Installing Diva Operator client
 
-👉 **The installations instructions will be coming in a few days!!** Functionality is now ready, and devs are reportedly working out the last known issues.
+The first Diva client implementation is being developed by Shamir Labs.
 
-👉 **[Sign up for Telegram announcements](https://t.me/followdiva)** to not miss it!
-
-The Github Docker package will come prepared to automatically set up a full Diva node (option #1).
-
-If you would like to configure it to connect to your own node, you can edit the Docker configuration files.
+- 👉 **[Read the Diva Installation Guide](https://docs.shamirlabs.org/)** which provides the latest up-to-date details!
+- 👉 **[Join the Discord](https://discord.gg/diva)** for live support from the community!
 
 
 ## Currently supported features

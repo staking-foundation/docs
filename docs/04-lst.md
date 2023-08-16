@@ -19,9 +19,9 @@ It's designed to be compatible with Lido's liquid staking tokens to facilitate i
 
 At its core, divETH is a receipt token. When a Liquid Staker deposits 1 ETH, 1 divETH is minted and returned to the Liquid Staker.
 
-As Ethereum blocks are produced and [Staking Rewards](staking-rewards) are generated, **the Liquid Staker's divETH balance grows to reflect the underlying ETH balance**. The Liquid Staker's divETH balance will automatically update daily to reflect the deposited ETH balance plus any accrued Staking Rewards.
+As Ethereum blocks are produced and [Staking Rewards](staking-rewards) are generated, **the Liquid Staker's divETH balance grows to reflect the underlying ETH balance**. The Liquid Staker's divETH balance will automatically update daily to reflect the deposited ETH balance plus any of its Staking Rewards.
 
-⛩️ The Diva Smart Contract acts as a bridging mechanism. It deposits ETH into [Ethereum Consensus Layer validators](glossary#validator) while returning a divETH receipt that can be used to later withdraw those ETH plus any staking rewards it might have accrued.
+⛩️ The Diva Smart Contract acts as a "bridging" mechanism. It deposits ETH into [Ethereum Consensus Layer validators](glossary#validator) while returning a divETH receipt that can be used to later withdraw those ETH plus any staking rewards it might have produced.
 
 **divETH is merely a receipt token allowing its holder to permissionlessly withdraw the corresponding ETH**. It is not a "stablecoin" and there is no pegging mechanism to guarantee it will trade 1:1 towards the underlying ETH.
 
@@ -33,7 +33,7 @@ divETH can be unstaked through the Diva smart contract at any time by requesting
     <ul>
         <li>A Liquid Staker deposits 1 ETH into the Diva Smart Contract and obtains 1 divETH in their wallet.</li>
         <li>1 year later, the <a href="/staking-rewards">Staking Rewards</a> have been 5% and the Liquid Staker sees 1.05 divETH in their wallet.</li>
-        <li>2 years later, it accrues 5% more, so those 1.05 divETH further become 1.1025 divETH.</li>
+        <li>2 years later, it returns 5% more, so those 1.05 divETH further become 1.1025 divETH.</li>
         <li>The Liquid Staker decides to withdraw (un-stake) the 1.1025 divETH with the Diva Smart Contract and obtains 1.1025 ETH in return.</li>
     </ul>
   </div>

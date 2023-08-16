@@ -19,7 +19,7 @@ Diva's Liquid Staking is design to work just like popular staking protocols:
 
 Diva staking rewards are expected to be similar to major protocols, as the source of its [Staking Rewards](staking-rewards) is the Ethereum's Consensus Layer itself.
 
-However, Diva Operators can expect higher rewards by combining Staking Rewards on their divETH plus [additional Operator Rewards](economics) for powering the network.
+However, Diva Operators combine Staking Rewards on their divETH plus [additional Operator Rewards](economics) for powering the network.
 
 ## Diva's unique advantage
 

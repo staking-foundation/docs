@@ -17,10 +17,10 @@ const sidebars = {
   mainSidebar: [
     {
       type: 'category',
-      label: 'General',
+      label: 'Diva Staking',
       collapsible: true,
+      link: { type: 'doc', id: 'home' },
       items: [
-      'home',
       'intro',
       'participants',
       'features',
@@ -34,8 +34,8 @@ const sidebars = {
       type: 'category',
       label: 'Comparisons',
       collapsible: true,
+      link: { type: 'doc', id: 'comparison' },
       items: [
-      'comparison',
       'lido',
       'rocketpool',
       'exchanges',
@@ -47,8 +47,9 @@ const sidebars = {
     {
       type: 'category',
       label: 'Diva Operators',
+      link: { type: 'doc', id: 'operators' },
       collapsible: true,
-      items: [ 'operators', 'economics', 'install' ]
+      items: [ 'economics', 'install' ]
 
     },
 
@@ -56,8 +57,8 @@ const sidebars = {
       type: 'category',
       label: 'Diva DAO',
       collapsible: true,
+      link: { type: 'doc', id: 'dao' },
       items: [
-        'dao',
         'delegates',
         'proposals',
         'distribution',
@@ -82,7 +83,8 @@ const sidebars = {
       type: 'category',
       label: 'About these docs',
       collapsible: true,
-      items: ['foundation', 'contributing'],
+      link: { type: 'doc', id: 'foundation' },
+      items: ['contributing'],
     },
   ],
   

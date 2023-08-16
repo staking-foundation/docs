@@ -9,49 +9,55 @@ description: Diva is on its way to mainnet, expected in Q4! Testnet is currently
 :::info
 Diva is still under active development! Follow this page for updates 😊
 
-**Next up: Operator Testnet coming early August 2023**
+**Diva Mainnet is expected by the end of this year!**
+
+🔔 [Sign up for Telegram announcements](https://t.me/followdiva)
 :::
 
-## ✅ Staking testnet: live
+## Staking testnet: live
 
-The [Diva Staking Goerli testnet](https://stake.diva.community) is already live! It allows you to:
+The [Diva Staking Goerli testnet](https://stake.diva.community) is live! It allows you to:
 
 - ✅ Stake and withdraw your ETH.
 - ✅ Wrap and unwrap your divETH into wdivETH.
+- 🔜 Rewards Reporting
 
 There is also a [Dune Analytics dashboard for Diva testnet](https://dune.com/anchor/diva-goerli-network-dashboard) to visualize network data.
 
-Other features in the roadmap are:
 
-- 🔢 Rewards reporting UI.
-- 🔌 DeFi integrations like stablecoins, lending, layer 2s, etc.
+## 🛣️  Operator testnet: in process
 
-## ✅ Diva DAO: live
+Diva's goal is that *anyone* can run a node to operate the network and generate [Staking Rewards](staking-rewards) + [Operator Rewards](economics).
 
-The [Diva DAO](dao) is entrusted to curate the Diva staking protocol, and the [Initial Distribution](distribution) is currently [available to eligible participants!](https://claim.diva.community/)
+Diva Operator Testnet is live and open to anyone, currently supporting:
+
+- ✅ Create and operate validators using Diva's native DVT
+- 🔜 ZKP Reward Oracles
+- 🔜 Collateral & Operator Rewards
+- 🔜 MEV support
+- 🔜 Governance and Tokenomics
+- 🔜 Withdrawals and Exits
+
+This will allow Liquid Stakers, Operators and the Diva DAO to fully finalize its design and possibilities, so everybody can use divETH without the need to trust any centralized or permissioned party.
+
+**Mainnet deployment** ETA is Q4. Diva mainnet will launch once the last functionalities are fully tested and audited.
+
+- 🛠️ [Get started with Diva Operator tesntet](operators).
+- 👾 [Join Discord](https://discord.gg/diva) to get support.
 
 
+## Diva DAO: launched
+
+The [Diva DAO](dao) is entrusted to curate the Diva staking protocol:
+
+- 🏘️ [Diva DAO dashboard](https://dune.com/kevinzzz/diva-dao), now counting over 4,500 token holders!
+- 🗳️ [Vote on Tally](https://www.tally.xyz/gov/diva), several proposals are live.
+- 🚫 DIVA is currently non-transferrable. There is no "airdrop", "sale" or "fundraise"!
 
 
-## 🛣️  Operator testnet
+## Join the community!
 
-Diva's goal is that *anyone* can run a node to operate the network and generate staking rewards.
-
-The community is working towards the following major releases:
-
-1. **August: Amy Release**: Core validation functionality.
-2. **Q3: Britney Release**: Improved consensus protocol, ZKP reward calculations.
-3. **Q4: Cher Release**: MEV, tokenomics, governance, withdrawals.
-
-**Mainnet deployment** will be performed once the last release (Cher) is fully audited and ready to be launched.
-
-👷 This will allow Liquid Stakers, Operators and the Diva DAO to fully finalize its design and possibilities, so everybody can use divETH without the need to trust any centralized or permissioned party.
-
-💄 Join the Diva community to contribute and get support as an early participant!
 
 - 🐦 [Follow @divastaking on Twitter](https://twitter.com/divastaking)
-- 👾 [Join Discord](https://discord.gg/diva) to get involved.
-- 🔔 [Subscribe to the Telegram channel](https://t.me/followdiva) for announcemenets.
-
-
-
+- 👾 [Join Discord](https://discord.gg/diva) to get involved
+- 🔔 [Subscribe to the Telegram announcements](https://t.me/followdiva)

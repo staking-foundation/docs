@@ -24,7 +24,7 @@ Diva’s liquid staking, non-custodial nature, advanced distributed validation, 
 
 ## Key Differences vs SSV
 
-1. [Liquid Staking](lst): Diva provides liquid staking through divETH, a token representing staked ETH and accrued rewards, while SSV does not provide liquid staking.
+1. [Liquid Staking](lst): Diva provides liquid staking through divETH, a token representing staked ETH and its staking rewards, while SSV does not provide liquid staking.
 2. Non-custodial operations: Both protocols ensure that operators never have access to user funds or private validator keys.
 3. Resilience: Diva's validators can tolerate up to "m - n" failing nodes, making it more resilient to node unavailability and failures compared to SSV.
 4. Efficiency: Diva uses a P2P network for node discovery, reducing delays and single points of failure, while SSV relies on the IBFT algorithm for consensus.

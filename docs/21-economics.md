@@ -7,12 +7,14 @@ description: Diva Operators earn both Staking Rewards as well as Operator Reward
 
 What makes Diva unique is that all ETH deposits are staked and operated by permissionless & trustless Operators.
 
+**In a nutshell**: Stakers deposit ETH to obtain divETH. Operators lock divETH and run a node to generate additional divETH Operator Rewards. Validation is fully handled by the Diva client with no action from the user.
+
 This happens in several steps, as illustrated below:
 
-1. Liquid Stakers deposit ETH to diva's Smart Contract and receive [liquid divETH](lst), which accrues [Staking Rewards](staking-rewards).
+1. Liquid Stakers deposit ETH to Diva's Smart Contract and receive [liquid divETH](lst), which generates [Staking Rewards](staking-rewards).
 2. ETH deposits are deposited (or *bridged*) to the Ethereum Consensus Layer in increments of 32 ETH to create [Ethereum validators](glossary#validator).
 3. Each validator is operated by 16 [Key Shares](glossary#key-share), which together act as a [validator key](dvt).
-4. Operators can **lock [divETH collateral](glossary#collateral)** to **run a diva node** and **operate Key Shares** to generate additional Operator Rewards.
+4. Operators can **lock [divETH collateral](glossary#collateral)** to **run a Diva node** and **operate Key Shares** to generate additional Operator Rewards.
 
 Diva's distribution of Key Shares means there are 16x more Operators participating in Ethereum's attestations and block production, contributing to the network's decentralization. Anyone can participate from only 1 ETH!
 
@@ -30,7 +32,7 @@ Staking provided by [centralized exchanges](exchanges) or protocols like [Lido](
 Unlike other solutions, *anyone* can run a Diva Operator permissionlessly. Liquid Stakers are protected by:
 
 - Cryptography: [Diva's DVT](dvt) distributes duties across the network to ensure there aren't single points of failure.
-- Collateral: Operators post [divETH collateral](glossary#collateral) to guarantee they fulfil their duties responsibly.
+- Collateral: Operators post [divETH collateral](glossary#collateral) to guarantee they fulfill their duties responsibly.
 
 ## Staker economics
 
@@ -46,7 +48,7 @@ At this moment, receiving **1 Key Share requires locking 1 divETH**. Operators p
 
 Operators receive two potential income streams:
 
-- [Staking Rewards](staking-rewards): divETH collateral accrues rewards as it would for a Liquid Staker *even while waiting for key shares*.
+- [Staking Rewards](staking-rewards): divETH collateral generates rewards as it would for a Liquid Staker *even while waiting for key shares*.
 - Operator Rewards: when correctly operating key shares, Operators generate additional divETH.
 
 This bears some similarities with "re-staking", as it provides divETH holders a way to further engage with Diva to generate additional rewards that can be significantly higher than Ethereum staking alone.
