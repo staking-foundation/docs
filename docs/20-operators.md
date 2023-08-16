@@ -18,7 +18,7 @@ A node operator on the Ethereum network plays a crucial role in maintaining the 
 
 - Allowing ETH deposits of any amount and minting [liquid divETH](lst).
 - Handling the creation of [Ethereum validators](glossary#validator) and withdrawals of their ETH.
-- Updating divETH balances to reflect any accrued [Staking Rewards](staking-rewards).
+- Updating divETH balances to reflect any generated [Staking Rewards](staking-rewards).
 - Keeping a registry of Diva Operators and validators.
 - Managing [Operator Collateral](glossary#collateral) & [Operator Rewards](economics) balances.
 
