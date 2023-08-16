@@ -7,6 +7,8 @@ description: Diva Operators earn both Staking Rewards as well as Operator Reward
 
 What makes Diva unique is that all ETH deposits are staked and operated by permissionless & trustless Operators.
 
+**In a nutshell**: Stakers deposit ETH to obtain divETH. Operators lock divETH and run a node to generate additional divETH Operator Rewards. Validation is fully handled by the Diva client with no action from the user.
+
 This happens in several steps, as illustrated below:
 
 1. Liquid Stakers deposit ETH to Diva's Smart Contract and receive [liquid divETH](lst), which generates [Staking Rewards](staking-rewards).

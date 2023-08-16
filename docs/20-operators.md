@@ -3,6 +3,10 @@ title: Running a Diva Operator
 description: Diva Operators power Diva Staking. Operators lock divETH and run nodes to generate operator rewards in addition to their staking rewards.
 ---
 
+:::info
+Diva Operator testnet is now live! Keep reading to set up your first node.
+:::
+
 # Running a Diva Operator node
 
 A node operator on the Ethereum network plays a crucial role in maintaining the network's security and stability. Each node stores a copy of the blockchain ledger, validates transactions, and participates in the consensus process, ensuring only legitimate transactions are added to the blockchain.
