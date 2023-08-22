@@ -93,7 +93,7 @@ Any proposal shall include a copyright waver. Further, any code or material incl
 
 After on-chain creation, there is a **2-day waiting period** for any DIVA token holder to delegate their tokens. Only DAO tokens (delegated DIVA tokens or D-DIVAs) are accounted towards the governance quorum.
 
-Proposals have a predetermined **3-day voting period** upon submission, allowing D-DIVA holders to vote in favor or object. If the proposal meets a valid quorum (10M D-DIVA) and voting threshold, it becomes a DAO Resolution!
+Proposals have a predetermined **5-day voting period** upon submission, allowing D-DIVA holders to vote in favor or object. If the proposal meets a valid quorum (10M D-DIVA) and voting threshold, it becomes a DAO Resolution!
 
 
 ## Step 6: Execution
