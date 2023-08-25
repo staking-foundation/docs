@@ -15,6 +15,11 @@ Diva Staking's DAO governance offers space for both on-chain and off-chain discu
 
 All participants in the DAO are strongly encouraged to follow the [Diva DAO community guidelines](https://github.com/staking-foundation/diva-dao/blob/main/Community-Guidelines.md), which are maintained by the community.
 
+<div style={{textAlign: 'center'}}>
+
+![Liquid Staking](img/dao-proposals.png)
+</div>
+
 
 ## Step 1: Community Discussions
 
