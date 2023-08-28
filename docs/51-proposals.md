@@ -105,7 +105,7 @@ Proposals have a predetermined **5-day voting period** upon submission, allowing
 
 After meeting the threshold and quorums, an on-chain transaction sets the approved DAO Resolution in a queue for execution, starting a Cooldown Period. Once the Cooldown period ends, anyone can execute the transaction to implement a DAO Resolution.
 
-The cooldown period 9 days for DCP and DIP proposals, and 14 days for DUP, as they have a higher impact for the protocol.
+The cooldown period 9 days for DCP and DIP proposals, and 14 days for DUP, as they have a higher impact for the protocol. This allows malicious proposals to be cancelled before execution.
 
 DAO Resolutions can be challenged to prevent security issues like governance attacks or fraudulent code implementation. A Cancellation Proposal must be submitted by a community participant with at least 1M D-tokens delegated, and has a short 2 hour cooldown period.
 
