@@ -110,6 +110,8 @@ The Cooldown periods are:
 - 9 days for DCP and DIP proposals
 - 14 days for DUP, as they have a higher impact for the protocol.
 
+### Cancelling proposals
+
 DAO Resolutions can be challenged to prevent security issues like governance attacks or fraudulent code implementation. 
 For this, a **Cancellation Proposal** must be submitted by a community participant with at least 1M D-tokens delegated, and has a much shorter Cooldown period of 2 hours.
 
