@@ -22,7 +22,7 @@ But this will change in future versions.
 
 Diva Operators will require to post at least 1 Goerli ETH (testnet) as [collateral](glossary#collateral) to receive their first key share. If you need some Goerli ETH, [you can ask for it in the community Discord](https://discord.gg/diva).
 
-There are two ways to run a Diva node:
+There are three ways to run a Diva node:
 
 1. **An all-in-one Diva node**, which automatically installs the Ethereum client dependencies (EL/CL/VC clients).
 
