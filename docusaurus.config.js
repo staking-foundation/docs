@@ -106,7 +106,10 @@ const config = {
           src: 'img/diva.svg',
         },
         items: [
-          { href: 'https://stake.diva.community', label: 'Try Diva testnet', position: 'right' },
+          { href: 'https://staking.foundation', label: 'Homepage', position: 'right' },
+          { href: 'https://divascan.io', label: 'Divascan', position: 'right' },
+          { href: 'https://docs.shamirlabs.org', label: 'Install & Tech docs', position: 'right' },
+          { href: 'https://stake.diva.community', label: 'Diva Staking testnet', position: 'right' },
         ],
       },
       footer: {
