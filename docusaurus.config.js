@@ -160,6 +160,10 @@ const config = {
                 label: 'DAO Forum',
                 href: 'https://commonwealth.im/divastaking/discussions',
               },
+              {
+                label: 'Divascan Explorer',
+                href: 'https://divascan.io',
+              },
             ],
           },
         ],
