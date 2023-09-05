@@ -19,7 +19,8 @@ description: Quick reference of all Diva resources and links
 - 💬 [Commonwealth Discussion Forum](https://commonwealth.im/divastaking/discussion)
 - 🗳️ [On-chain Voting on Tally](https://tally.xyz/gov/diva)
 - 🔢 [DIVA Token Smart Contract](https://etherscan.io/token/0xbfabde619ed5c4311811cf422562709710db587d): 0xbfabde619ed5c4311811cf422562709710db587d
-- 📗 [Diva DAO archives](https://github.com/staking-foundation/diva-dao) by the Staking Foundation
+- 📗 [Diva DAO archives](https://github.com/staking-foundation/diva-dao) maintained by the Staking Foundation
+- 🏘️ [Community Guidelines](https://github.com/staking-foundation/diva-dao/blob/main/Community-Guidelines.md)
 - 📣 [Telegram Governance Announcements](https://t.me/divagovernance)
 
 ## Diva Testnet
