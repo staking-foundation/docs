@@ -73,6 +73,7 @@ const sidebars = {
       items:  [ 'analytics', 'security','audits','deployed' ]
       ,
     },*/
+    'resources',
     {
       type: 'category',
       label: 'Reference',
