@@ -22,6 +22,7 @@ description: Quick reference of all Diva resources and links
 - 📗 [Diva DAO archives](https://github.com/staking-foundation/diva-dao) maintained by the Staking Foundation
 - 🏘️ [Community Guidelines](https://github.com/staking-foundation/diva-dao/blob/main/Community-Guidelines.md)
 - 📣 [Telegram Governance Announcements](https://t.me/divagovernance)
+- 🎟️ [ThePass DAO page](https://thepass.to/dao/DivaStaking/DAOPage)
 
 ## Diva Testnet
 
