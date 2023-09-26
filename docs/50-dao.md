@@ -23,7 +23,9 @@ The Diva DAO represents its users via the Delegated DIVA token holders, who can 
 
 Delegated Diva Token holders are entrusted to govern it as a public good.
 
-There is a fixed total supply of 1,000,000,000 DIVA tokens. Each Delegated DIVA token is worth 1 vote on decisions such as:
+There is a fixed total supply of 1,000,000,000 DIVA tokens. DIVA tokens which aren't effectively delegated are not taking into account for governance purposes.
+
+Each Delegated DIVA token is worth 1 vote on decisions such as:
 
 - Deploying the Diva Smart Contracts.
 - Curating Diva by adjusting network parameters (if any).
