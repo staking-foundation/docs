@@ -65,6 +65,17 @@ const sidebars = {
       ]
 
     },
+    {
+      type: 'category',
+      label: 'Early Stakers iniative',
+      collapsible: true,
+      link: { type: 'doc', id: 'early_stakers' },
+      items: [
+        'early_stakers/tos',
+        'early_stakers/phases'
+      ]
+
+    },
     /*
     {
       type: 'category',
