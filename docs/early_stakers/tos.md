@@ -1,8 +1,8 @@
 ---
-title: Early Staker Initiative
+title: Terms & Conditions
 description: ...
 ---
 
-# Early Staker Initiative
+# Early Stakers initiative T&C
 
 ...
