@@ -101,9 +101,6 @@ The Cooldown periods are:
 DAO Resolutions can be challenged to prevent security issues like governance attacks or fraudulent code implementation. 
 For this, a **Cancellation Proposal** must be submitted by a community participant with at least 1M D-tokens delegated, and has a much shorter Cooldown period of 2 hours.
 
-The Cooldown period is:
-- 2 hours for Cancellation Proposals.
-
-That means that a Cancellation Proposal can be executed in as little as 7 days and 2 hours (2 days waiting period + 5 day voting period + 2 hour cancellation cooldown period).
+The Cooldown period is *only 2 hours* for Cancellation Proposals. That means that a Cancellation Proposal can be executed in as little as 7 days and 2 hours (2 days waiting period + 5 day voting period + 2 hour cancellation cooldown period).
 
 More details about voting can be found in the [DAO community guidelines](https://github.com/staking-foundation/diva-dao/blob/main/Community-Guidelines.md). Some DAO parameters can be modified via DAO proposals.
