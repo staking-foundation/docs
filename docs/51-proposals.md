@@ -25,7 +25,7 @@ All participants in the DAO are strongly encouraged to follow the [Diva DAO comm
 
 Before any decision is put up for voting, you can simply start an informal discussion about any thoughts/idea/questions you may have.
 
-Topics can be things like better designs for Diva Staking, suggestions on how to organize the community, research & development topics, or decentralization initiatives.
+Proposals can include topics regarding Diva Staking, suggestions on how to organize the community, research & development, or decentralization initiatives.
 
 Community members are encouraged to participate, following the [DAO community guidelines](https://github.com/staking-foundation/diva-dao/blob/main/Community-Guidelines.md). Forums are open to anyone, as it is important to socialize ideas and gather community feedback before moving on to action.
 
@@ -45,58 +45,44 @@ However, **DAO proposals can contain on-chain instructions to be executed by the
 
 That's what the Diva DAO is for! On-chain code is executed by Ethereum in a resilient and decentralized way.
 
-**Remember, you can only become a DAO member by delegating your DIVA tokens!** Delegated token holders are tasked with the goal of shaping the protocol and increasing its utility, resiliency, and decentralization - Ultimately, the DAO is tasked with making the Diva Staking Protocol better.
+There are three types of Proposals depending on their impact:
 
-
-### Three Types of Proposals
-
-1. **Diva Curation Proposal (DCP)**
+1. **Low Impact**
     - Intended to distribute governance power among communities.
     - Requires +50% favorable votes to be enacted.
-2. **Diva Improvement Proposal (DIP)**
+2. **Medium Impact**
     - Aiming to adapt or modify a configurable feature.
     - Requires +66% favorable votes to be enacted.
-3. **Diva Update Proposal (DUP)**
+3. **High Impact**
     - Complex proposals aiming to update the Diva Protocol core infrastructure.
     - Requires +75% favorable votes to be enacted.
 
 
-## Step 3: Temperature check 
+## Step 3: Request For Comments (RFC) / Temperature Check
 
 In order for a proposal to be formally considered by the community, an off-chain process referred to as ‘temperature check’ must be followed. The goal is to evaluate proposal interest and community support before voting.
 
 The temperature check is done through dedicated threads the [Discord](https://discord.com/channels/1041618287500460083/1129055607148773386) or [Commonwealth](https://commonwealth.im/divastaking/discussions) community forums.
 
-### Suggested “temperature check” format
-
-**Title:** “NDP + [brief description]”
-
-**Brief description:** 
-- Short and concise description of the proposal
-- Rationale: why the proposal is necessary and what benefit will bring to the community
-- Tentative classification as DCP, DIP and DUP
-- A community poll to indicate the flag the level of support the proposal may have
+👉 [**Use this DIP template to format your proposal**](https://github.com/staking-foundation/diva-dao/blob/main/DIP-xx%20Template.md) following the [Diva Staking DAO Community Guidelines](https://github.com/staking-foundation/diva-dao/blob/main/Community-Guidelines.md).
 
 
 ## Step 4: Submit DAO Proposal
 
-Proposals require at least 1M D-DIVA delegated and an on-chain transaction, submitted on [Tally](https://tally.xyz/gov/diva).
+Proposals are formally posted via an on-chain transaction on [Tally](https://tally.xyz/gov/diva).
 
-The proposal shall include the following structure:
+They can only be submitted by DAO members with at least 1M D-DIVA delegated.
 
-- Short name of the proposal
-- Definition as DCP, DIP or DUP
-- Content:
-  - DCP Proposals shall include a short description of the proposed action to be taken
-  - DIP Proposals shall include a risk assessment of the proposed implementation of such proposal and the executable code (Tally provides a list of executable functions which can be implemented)
-  - DUP Proposals; this shall include a thorough description of the technical features aimed to be implemented, executable code and test cases.
 
-Any proposal shall include a copyright waver. Further, any code or material included in any proposal shall be open sourced and released to the public domain without any restriction whatsoever.
+
+**Remember, you can only become a DAO member by delegating your DIVA tokens!** Delegated token holders are tasked with the goal of shaping the protocol and increasing its utility, resiliency, and decentralization - Ultimately, the DAO is tasked with making the Diva Staking Protocol better.
+
+The proposal shall include all the fields required by the  [Diva Staking DAO Community Guidelines](https://github.com/staking-foundation/diva-dao/blob/main/Community-Guidelines.md), which are included in the [**suggested DIP template**](https://github.com/staking-foundation/diva-dao/blob/main/DIP-xx%20Template.md) 
 
 
 ## Step 5: Voting
 
-After on-chain creation, there is a **2-day waiting period** for any DIVA token holder to delegate their tokens. Only DAO tokens (delegated DIVA tokens or D-DIVAs) are accounted towards the governance quorum.
+After on-chain creation, there is a **2-day waiting period** for any DIVA token holder to delegate their tokens. Only DAO tokens (delegated DIVA tokens or D-DIVAs) are accounted for governance purposes, including the quorum calculations.
 
 Proposals have a predetermined **5-day voting period** upon submission, allowing D-DIVA holders to vote in favor or object. If the proposal meets a valid quorum (10M D-DIVA) and voting threshold, it becomes a DAO Resolution!
 
