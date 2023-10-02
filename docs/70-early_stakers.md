@@ -8,7 +8,7 @@ description: Early Stakers can now deposit ETH or stETH into vaults to get DIVA 
 
 <div style={{textAlign: 'center'}}>
 
-![Two choices available](img/2choices.png)
+![Two choices available](img/2choices-2.png)
 </div>
 
 ## 📥 [Deposit st(ETH)](https://diva.enzyme.finance/)
