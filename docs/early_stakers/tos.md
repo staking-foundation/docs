@@ -15,4 +15,6 @@ description: Key terms & conditions for the Early Stakers Initiative
 -   **TVL Cap:** DIVA tokens allocated for the first 100,000 (st)ETH deposits; Additional deposits are waitlisted until earlier deposits are withdrawn, if ever.
 -   **Redemption/Withdrawal:** Funds can be withdrawn at any time (except for the 24-hour lock-up). Redemptions that take place before the launch of the protocol lose their accrued incentives.
 
+👉 **Visit the [Diva Early Stakers website](https://diva.enzyme.finance) to get started**
+
 For further details on Terms & Conditions, see the full [proposal](https://www.tally.xyz/gov/diva/proposal/45468458207916765916984557235161596151150976178275597160417224501662414206717) on Tally.
