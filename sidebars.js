@@ -67,7 +67,7 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'Early Stakers iniative',
+      label: 'Early Stakers Iniative',
       collapsible: true,
       link: { type: 'doc', id: 'early_stakers' },
       items: [
