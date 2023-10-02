@@ -57,7 +57,7 @@ Please note that DIVA is currently non-transferable and not trading, which means
 
 [DIP-03](https://www.tally.xyz/gov/eip155:1:0xFb6B7C11a55C57767643F1FF65c34C8693a11A70/proposal/52481024395238134144299582623582875841236980209822828761178984408970724801644) commits to enabling DIVA transferability at latest by the end of the Early Stakers initiative, paving the way to trading and transferability.
 
-The program is made possible with Enzyme’s on-chain asset management infrastructure and non-custodial smart contract architecture. Stakers retain full [self-custody](https://www.notion.so/1afa2c50d69e49ac89419a503bdd020e?pvs=21) of their funds at all times.
+The program is made possible with Enzyme’s on-chain asset management infrastructure and non-custodial smart contract architecture. Stakers retain full self-custody of their funds at all times.
 
 :::info Good to know
 This is currently the only way to earn DIVA tokens, as they're otherwise not transferable
