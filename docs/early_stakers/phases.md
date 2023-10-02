@@ -9,6 +9,11 @@ This initiative is composed of three phases, beginning in September 2023 to the 
 Here is the timeline for the three phases:
 
 <div style={{textAlign: 'center'}}>
-![## The three phases of the initiative](img/3phases-2.png)
 
+![The three phases of the initiative](../img/3phases-2.png)
 </div>
+
+:::info Ready to start?
+👉 **Visit the [Diva Early Stakers website](https://diva.enzyme.finance)**
+
+:::
