@@ -10,7 +10,7 @@ Here is the timeline for the three phases:
 
 <div style={{textAlign: 'center'}}>
 
-![The three phases of the initiative](../img/3phases-2.png)
+![The three phases of the initiative](../img/early_stakers/phases.png)
 </div>
 
 :::info Ready to start?

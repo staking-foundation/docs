@@ -22,7 +22,7 @@ TVL commitments are important, because they attract Liquid Stakers, [Operators](
 
 <div style={{textAlign: 'center'}}>
 
-![Two choices available](img/2choices-2.png)
+![Two choices available](img/early_stakers/vault-choices.png)
 </div>
 
 ETH deposits are simply be kept in "hold" mode until Diva launches. stETH are also kept untouched until launch, but earn ETH staking rewards as you wait.
