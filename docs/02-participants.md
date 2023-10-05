@@ -16,9 +16,9 @@ The Diva Staking Smart Contract acts as a bridging mechanism. It deposits ETH in
 
 **Liquid Stakers deposit ETH to obtain divETH** which automatically generates [ETH Staking Rewards](staking-rewards) (if any).
 
-Anyone can become a Liquid Staker with no minimum ETH requirement. Stakers depositing ETH to the Diva Smart Contract will instantly receive a transferable receipt token called divETH representing their staked ETH + any [staking rewards](staking-rewards) it generates.
+Anyone can become a Liquid Staker with no minimum ETH requirement. Stakers depositing ETH to the Diva Smart Contract can instantly receive a transferable receipt token called divETH representing their staked ETH + any [staking rewards](staking-rewards) it generates.
 
-Diva's staking is "liquid" because Stakers receive liquid divETH, meaning it is immediately transferable or tradable, as opposed to being locked.
+Diva's staking is "liquid" because Stakers receive liquid divETH *if they want to*, meaning it is immediately transferable or tradable, as opposed to being locked.
 
 Wallets holding divETH will see their balances update daily to reflect its Staking Rewards (or penalties, if any). This is accomplished via a [rebasing mechanism](lst).
 
@@ -37,18 +37,16 @@ It is a standard ERC20 which enables composability with most DeFi apps. If neede
 
 ## Operators
 
-**Operators running Diva nodes can lock some divETH as [collateral](glossary#collateral)** to secure Ethereum and generate additional divETH [Operator Rewards](economics).
+**Operators running Diva nodes can lock ETHs or divETHs as [collateral](glossary#collateral).** Operators performing their validation duties correctly will receive [divETHs or ETHs as Operator Rewards, in addition to ETHs or divETH's own Staking Rewards](economics).
 
-An Operator performing their validation duties correctly will receive [divETH as Operator Rewards, in addition to divETH's own Staking Rewards](economics).
+To incentivize good behavior, an Operator misbehaving or missing their validation duties might suffer penalties on their locked ETH or divETH.
 
-To incentivize good behavior, an Operator misbehaving or missing their validation duties might suffer penalties on their locked divETH.
-
-Operators can only receive [Key Shares](glossary#key-share) once they provide enough [divETH collateral](glossary#collateral) to the Diva Smart Contracts. Should an Operator causes any losses, this collateral can be transferred to Stakers to compensate them:
+Operators can only receive [Key Shares](glossary#key-share) once they provide enough [ETH or divETH collateral](glossary#collateral) to the Diva Smart Contracts. Should an Operator causes any losses, this collateral can be transferred to Stakers to compensate them:
 
 - Liquid Stakers receive [Staking Rewards](staking-rewards) protected by Operator collateral.
-- Operators receive the base [Staking Rewards](staking-rewards) for their divETH collateral + [Operator Rewards](economics).
+- Operators receive the base [Staking Rewards](staking-rewards) for their ETH or divETH collateral + [Operator Rewards](economics).
 
-The more divETH an Operator locks, the more Key Shares they may receive, increasing their ability to generate rewards.
+The more ETH or divETH an Operator locks, the more Key Shares they may receive, increasing their ability to generate rewards.
 
 ### Non-custodial validation
 
@@ -75,7 +73,7 @@ Diva acts as an extension of Ethereum staking, providing additional functionalit
 - On Ethereum, stakers lock 32Ξ to create a validator, and must run a node to operate it.
 - With Diva,
   - Liquid Stakers can deposit **any amount of ETH** and **receive liquid divETH** and generate [Staking Rewards](staking-rewards). No node running required!
-  - Operators can further engage by **locking divETH** and **[operating a node](operators)** to generate additional [Operator Rewards](economics).
+  - Operators can further engage by **locking ETH or divETH** and **[operating a node](operators)** to generate additional [Operator Rewards](economics).
 
 Running a Diva node is [generally preferable to running solo validator](solo-staking) on Ethereum with 32Ξ, and requires only 1Ξ.
 
