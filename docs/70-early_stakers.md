@@ -6,7 +6,7 @@ description: Early Stakers can now deposit ETH or stETH prior to Diva's launch t
 
 Diva is still under development, but you can already support its launch.
 
-**You can now deposit ETH or stETH into [Pre-Launch Vaults](https://diva.enzyme.finance/#vaults) prior to to become eligible for DIVA tokens**.
+**You can now deposit ETH or stETH into [Pre-Launch Vaults](https://diva.enzyme.finance/#vaults) prior to becoming eligible for DIVA tokens**.
 
 :::info Good to know
 This is currently the only way to earn DIVA tokens, as they're otherwise not transferable
