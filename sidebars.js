@@ -65,25 +65,7 @@ const sidebars = {
       ]
 
     },
-    {
-      type: 'category',
-      label: 'Early Stakers Initiative',
-      collapsible: true,
-      link: { type: 'doc', id: 'early_stakers' },
-      items: [
-        'early_stakers/tos',
-        'early_stakers/phases'
-      ]
-
-    },
-    /*
-    {
-      type: 'category',
-      label: 'Coming soon...',
-      collapsible: true,
-      items:  [ 'analytics', 'security','audits','deployed' ]
-      ,
-    },*/
+    'early_stakers',
     'resources',
     {
       type: 'category',
