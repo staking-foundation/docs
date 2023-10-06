@@ -65,14 +65,7 @@ const sidebars = {
       ]
 
     },
-    /*
-    {
-      type: 'category',
-      label: 'Coming soon...',
-      collapsible: true,
-      items:  [ 'analytics', 'security','audits','deployed' ]
-      ,
-    },*/
+    'early_stakers',
     'resources',
     {
       type: 'category',
