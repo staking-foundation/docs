@@ -26,6 +26,12 @@ The purpose of this *initial* distribution was to involve potential Diva users i
 
 Delegated token holders are tasked with the goal of shaping the protocol and increasing its utility, resiliency, and decentralization.
 
+You can read more on [Diva’s Unconventional Approach to Decentralized Governance](https://medium.com/@divastaking/diva-staking-a-unique-approach-to-decentralized-governance-and-empowering-curation-cdd1d7ad47a9) approach here.
+
+:::info Watch the video
+👉 [Watch Raúl's talk on Diva's Decentralized Governance design](https://www.youtube.com/live/gPAOIdsVmW4?si=XKViT2mj2ElrGsm8&t=14127) (20 min)
+:::
+
 ## Supply distribution
 
 The DIVA token has a fixed supply of [1,000,000,000 DIVA](https://etherscan.io/token/0xbfabde619ed5c4311811cf422562709710db587d).
@@ -56,3 +62,11 @@ Ideally, the token will maintain its non-transferable status unless its transfer
 Due to legal uncertainities surrounding staking operations in the US and Canada, US and Canadian nationals are excluded from the Early Distribution.
 
 Several other sanctioned countries have been excluded as well.
+
+## Learn more
+
+This video includes a full explanation of Diva's decentralized governance in 20 min:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gPAOIdsVmW4?si=XKViT2mj2ElrGsm8&amp;start=14127" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Read more on [Diva’s Unconventional Approach to Decentralized Governance approach](https://medium.com/@divastaking/diva-staking-a-unique-approach-to-decentralized-governance-and-empowering-curation-cdd1d7ad47a9).
