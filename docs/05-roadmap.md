@@ -1,7 +1,7 @@
 ---
 title: Roadmap
 slug: roadmap
-description: Diva is on its way to mainnet, expected in Q4! Testnet is currently active to Stakers and Operators
+description: Diva is on its way to mainnet, expected in Q1! Testnet is currently active to Stakers and Operators
 ---
 
 # Diva Roadmap
@@ -9,7 +9,7 @@ description: Diva is on its way to mainnet, expected in Q4! Testnet is currently
 :::info
 Diva is still under active development! Follow this page for updates 😊
 
-**Diva Mainnet is expected by the end of this year!**
+**Diva Mainnet is expected by Q1!**
 
 🔔 [Sign up for Telegram announcements](https://t.me/followdiva)
 :::
@@ -40,7 +40,7 @@ Diva Operator Testnet is live and open to anyone, currently supporting:
 
 This will allow Liquid Stakers, Operators and the Diva DAO to fully finalize its design and possibilities, so everybody can use divETH without the need to trust any centralized or permissioned party.
 
-**Mainnet deployment** ETA is Q4. Diva mainnet will launch once the last functionalities are fully tested and audited.
+**Mainnet deployment** ETA is Q1. Diva mainnet will launch once the last functionalities are fully tested and audited.
 
 - 🛠️ [Get started with Diva Operator tesntet](operators).
 - 👾 [Join Discord](https://discord.gg/diva) to get support.
