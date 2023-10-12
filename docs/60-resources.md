@@ -23,7 +23,7 @@ description: Quick reference of all Diva resources and links
 - 📣 [Telegram Governance Announcements](https://t.me/divagovernance)
 - 🎟️ [ThePass DAO page](https://thepass.to/dao/DivaStaking/DAOPage)
 - 📺 [Youtube talk on Diva's DAO design](https://www.youtube.com/live/gPAOIdsVmW4?si=XKViT2mj2ElrGsm8&t=14127)
-- 🚀 [DIVA voting from a Rocketpool node](https://majestyle.medium.com/diva-voting-from-rocketpool-node-7124118b45e0)
+- 🚀 [DIVA voting from a Rocket Pool node](https://majestyle.medium.com/diva-voting-from-rocketpool-node-7124118b45e0)
 
 ## Diva Early Staker initiative
 
