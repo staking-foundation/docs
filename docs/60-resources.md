@@ -22,6 +22,13 @@ description: Quick reference of all Diva resources and links
 - 🏘️ [Community Guidelines](https://github.com/staking-foundation/diva-dao/blob/main/Community-Guidelines.md)
 - 📣 [Telegram Governance Announcements](https://t.me/divagovernance)
 - 🎟️ [ThePass DAO page](https://thepass.to/dao/DivaStaking/DAOPage)
+- 📺 [Youtube talk on Diva's DAO design](https://www.youtube.com/live/gPAOIdsVmW4?si=XKViT2mj2ElrGsm8&t=14127)
+
+## Diva Early Staker initiative
+
+- 🌱 [Diva Early Staker vaults](https://diva.enzyme.finance)
+- 📊 [Divascan TVL dashboard](https://divascan.io/enzyme)
+- 📊 [Dune Analytics dashboard](https://dune.com/kevinzzz/diva-early-staker)
 
 ## Diva Testnet
 
@@ -30,6 +37,7 @@ description: Quick reference of all Diva resources and links
 - 📣 [Follow the Testnet Discord Announcements](https://discord.com/channels/1041618287500460083/1139972545144160256)
 - 🔍 [Divascan Explorer](https://divascan.io/), full network stats for nodes, validators, etc
 - 📊 [Diva Testnet Dashboard](https://dune.com/kevinzzz/diva-testnet-operation-status) by @kevinzzz
+- 📺 [Youtube talk on Diva's DVT design](https://www.youtube.com/live/jtYCkV1LjiU?si=r7EgTIi9Pu4ab3p1&t=4745)
 
 ## Diva governance token
 

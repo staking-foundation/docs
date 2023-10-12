@@ -8,6 +8,10 @@ slug: dvt
 
 Diva uses Distributed Validation Technology (DVT) to operate [Ethereum validators](glossary#validator) in a fully distributed manner.
 
+:::info Want the full details?
+👉 [Watch Prada's deep-diva about Diva's DVT](https://www.youtube.com/live/jtYCkV1LjiU?si=r7EgTIi9Pu4ab3p1&t=4745) at Dappcon 2023 (20 min)
+:::
+
 ![DVT splitting keys](img/dvt-1.png)
 
 Diva's Smart Contract extends Ethereum, wrapping the Consensus Layer Deposit Contract to provide new functionalities:
@@ -99,3 +103,11 @@ However, when incorporated into a Diva committee, the resulting downtime would b
 ![DVT architecture](img/dvt-uptime-improvement.png)
 
 Thanks to its fault tolerance, consensus mechanisms, and integrated incentive systems, Diva's DVT system offers a robust and reliable option for trustless staking.
+
+## Learn more
+
+The explanation above is very high level. Watch this 20 min walk for a deeper dive:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jtYCkV1LjiU?si=r7EgTIi9Pu4ab3p1&amp;start=4745" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+👉 [Read the Ethereum Foundation's explainet on DVT](https://ethereum.org/en/staking/dvt/), describing the general mechanics and advantages of DVT.
