@@ -54,12 +54,11 @@ It aims to accelerate the launch and adoption of Diva Staking by helping to:
 
 This ultimately helps balance and decentralize the Ethereum staking ecosystem by promoting diversity to its LST landscape and embracing the future of [DVT](dvt) technology.
 
-
 ## DIVA transferability
 
 Please note that DIVA is currently non-transferable and not trading, which means that a token price cannot be established.
 
-[DIP-03](https://www.tally.xyz/gov/eip155:1:0xFb6B7C11a55C57767643F1FF65c34C8693a11A70/proposal/52481024395238134144299582623582875841236980209822828761178984408970724801644) commits to enabling DIVA transferability at latest by the end of the Early Stakers initiative, paving the way to trading and transferability.
+DIVA token will only become transferable if approved by the Diva Staking DAO. You can check the latest [proposal](https://www.tally.xyz/gov/eip155:1:0xFb6B7C11a55C57767643F1FF65c34C8693a11A70/proposal/52481024395238134144299582623582875841236980209822828761178984408970724801644) on Tally.
 
 ### Enzyme protocol and its vault infrastructure
 
