@@ -9,7 +9,8 @@ description: Quick reference of all Diva resources and links
 
 - 🐦 [Twitter](https://twitter.com/divastaking) maintained by TSF
 - 👾 [Discord](https://discord.gg/diva)
-- 📰 [Medium](https://divastaking.medium.com)
+- 📰 [Medium](https://divastaking.medium.com) with news and staking education
+- 📺 [Youtube](https://youtube.com/@DivaStaking) with community calls and conference talks
 - 📣 [Telegram Announcements](https://t.me/followdiva)
 
 ## Diva Staking DAO
@@ -42,5 +43,6 @@ description: Quick reference of all Diva resources and links
 
 ## Diva governance token
 
-- 🦎 [CoinGecko](https://www.coingecko.com/en/coins/diva-staking)
+- 🦙 [DefiLlama](https://defillama.com/protocol/diva) to view TVL
+- 🦎 [CoinGecko](https://www.coingecko.com/en/coins/diva-staking) for DIVA
 - 🔢 [DIVA Token Smart Contract](https://etherscan.io/token/0xbfabde619ed5c4311811cf422562709710db587d): 0xbfabde619ed5c4311811cf422562709710db587d

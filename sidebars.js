@@ -66,19 +66,22 @@ const sidebars = {
 
     },
     'early_stakers',
-    'resources',
+    {
+      type: 'category',
+      label: 'Links & resources',
+      collapsible: true,
+      link: { type: 'doc', id: 'resources' },
+      items: [
+        'about',
+        'foundation',
+        'contributing'
+      ],
+    },
     {
       type: 'category',
       label: 'Reference',
       collapsible: true,
       items: ['staking-rewards','components','glossary'],
-    },
-    {
-      type: 'category',
-      label: 'About these docs',
-      collapsible: true,
-      link: { type: 'doc', id: 'foundation' },
-      items: ['contributing'],
     },
   ],
   
