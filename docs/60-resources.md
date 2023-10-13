@@ -10,6 +10,7 @@ description: Quick reference of all Diva resources and links
 - 🐦 [Twitter](https://twitter.com/divastaking) maintained by TSF
 - 👾 [Discord](https://discord.gg/diva)
 - 📰 [Medium](https://divastaking.medium.com)
+- 📰 [Youtube](https://youtube.com/@DivaStaking)
 - 📣 [Telegram Announcements](https://t.me/followdiva)
 
 ## Diva Staking DAO
