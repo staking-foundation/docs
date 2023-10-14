@@ -15,7 +15,7 @@ const config = {
   url: 'https://docs.staking.foundation',
   baseUrl: '/',
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenMarkdownLinks: 'throw',
   favicon: 'img/diva.png',
 
   // GitHub pages deployment config.
@@ -90,14 +90,7 @@ const config = {
       metadata: [
         { name: 'og:image', content: 'https://diva.community/metalogo.png' },
         { name: 'twitter:image', content: 'https://diva.community/metalogo.png' },
-        {name: 'og:title', content: 'Ethereum Liquid Staking powered by Distributed Validators'},
-        {name: 'og:description', content: 'Diva is an Ethereum Liquid Staking protocol powered by Distributed Validators.'},
-        {name: 'description', content: 'Diva is an Ethereum Liquid Staking protocol powered by Distributed Validators'},
-        {name: 'twitter:card', content: 'summary_large_image'},
-        {name: 'twitter:url', content: 'https://docs.staking.foundation/'},
-        {name: 'og:url', content: 'https://docs.staking.foundation/'},
-        {name: 'twitter:title', content: 'Ethereum Liquid Staking powered by Distributed Validators'},
-        {name: 'twitter:description', content: 'https://docs.staking.foundation/'}
+        { name: 'twitter:card', content: 'summary_large_image'},
       ],
       navbar: {
         title: 'diva',
