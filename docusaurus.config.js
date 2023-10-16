@@ -119,6 +119,10 @@ const config = {
             title: 'Diva',
             items: [
               {
+                label: 'Diva Website',
+                href: 'https://diva.community',
+              },
+              {
                 label: 'The Staking Foundation',
                 href: 'https://staking.foundation',
               },
@@ -150,6 +154,10 @@ const config = {
               {
                 label: 'Medium',
                 href: 'https://divastaking.medium.com',
+              },
+              {
+                label: 'Youtube',
+                href: 'https://youtube.com/@DivaStaking',
               },
               {
                 label: 'Github',

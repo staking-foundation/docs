@@ -29,7 +29,7 @@ Delegated token holders are tasked with the goal of shaping the protocol and inc
 You can read more on [Diva’s Unconventional Approach to Decentralized Governance](https://medium.com/@divastaking/diva-staking-a-unique-approach-to-decentralized-governance-and-empowering-curation-cdd1d7ad47a9) approach here.
 
 :::info Watch the video
-👉 [Watch Raúl's talk on Diva's Decentralized Governance design](https://www.youtube.com/live/gPAOIdsVmW4?si=XKViT2mj2ElrGsm8&t=14127) (20 min)
+👉 [Watch Raúl's talk on Diva's Decentralized Governance design](https://www.youtube.com/watch?v=LJJY_l4VsoQ&ab_channel=DivaStaking) (20 min)
 :::
 
 ## Supply distribution
@@ -67,6 +67,6 @@ Several other sanctioned countries have been excluded as well.
 
 This video includes a full explanation of Diva's decentralized governance in 20 min:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gPAOIdsVmW4?si=XKViT2mj2ElrGsm8&amp;start=14127" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LJJY_l4VsoQ?si=apdQhcuoID8e2pHO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Read more on [Diva’s Unconventional Approach to Decentralized Governance approach](https://medium.com/@divastaking/diva-staking-a-unique-approach-to-decentralized-governance-and-empowering-curation-cdd1d7ad47a9).

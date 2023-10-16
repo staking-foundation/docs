@@ -58,7 +58,7 @@ This ultimately helps balance and decentralize the Ethereum staking ecosystem by
 
 Please note that DIVA is currently non-transferable and not trading, which means that a token price cannot be established.
 
-DIVA token will only become transferable if approved by the Diva Staking DAO. You can check the latest [proposal](https://www.tally.xyz/gov/diva/proposal/52481024395238134144299582623582875841236980209822828761178984408970724801644) on Tally.
+DIVA token will only become transferable if approved by the Diva Staking DAO. You can check the latest [DAO proposal concerning transferability](https://www.tally.xyz/gov/diva/proposal/52481024395238134144299582623582875841236980209822828761178984408970724801644) on Tally.
 
 ### Enzyme protocol and its vault infrastructure
 
