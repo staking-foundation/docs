@@ -9,7 +9,7 @@ Diva Staking is still under development, but you can already support its launch.
 **You can now deposit ETH or stETH into [Pre-Launch Vaults](https://diva.enzyme.finance/#vaults) to become eligible for DIVA tokens**.
 
 :::info Good to know
-This is currently the only way to earn DIVA tokens, as they're otherwise not transferable
+DIVA tokens are **currently** [non-transferable](https://www.tally.xyz/gov/diva/proposal/52481024395238134144299582623582875841236980209822828761178984408970724801644). Join the initiative for potential DIVA allocations.
 
 :::
 
@@ -58,7 +58,7 @@ This ultimately helps balance and decentralize the Ethereum staking ecosystem by
 
 Please note that DIVA is currently non-transferable and not trading, which means that a token price cannot be established.
 
-DIVA token will only become transferable if approved by the Diva Staking DAO. You can check the latest [proposal](https://www.tally.xyz/gov/eip155:1:0xFb6B7C11a55C57767643F1FF65c34C8693a11A70/proposal/52481024395238134144299582623582875841236980209822828761178984408970724801644) on Tally.
+DIVA token will only become transferable if approved by the Diva Staking DAO. You can check the latest [DAO proposal concerning transferability](https://www.tally.xyz/gov/diva/proposal/52481024395238134144299582623582875841236980209822828761178984408970724801644) on Tally.
 
 ### Enzyme protocol and its vault infrastructure
 
