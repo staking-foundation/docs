@@ -29,20 +29,21 @@ description: Quick reference of all Diva resources and links
 ## Diva Early Staker initiative
 
 - 🌱 [Diva Early Staker vaults](https://diva.enzyme.finance)
-- 📊 [Divascan TVL dashboard](https://divascan.io/enzyme)
+- 💠 [Divascan TVL dashboard](https://divascan.io/enzyme)
 - 📊 [Dune Analytics dashboard](https://dune.com/kevinzzz/diva-early-staker)
 
 ## Diva Testnet
 
-- 💠 [Diva Staker Testnet](https://stake.diva.community): Stake, wrap & unstake your ETH
+- 🖥️ [Diva Staker Testnet](https://stake.diva.community): Stake, wrap & unstake your ETH
 - 👷🏼‍♀️ [Diva Operator Installation Instructions](https://docs.shamirlabs.org/) by Shamir Labs
 - 📣 [Follow the Testnet Discord Announcements](https://discord.com/channels/1041618287500460083/1139972545144160256)
-- 🔍 [Divascan Explorer](https://divascan.io/), full network stats for nodes, validators, etc
+- 💠 [Divascan Explorer](https://divascan.io/), full network stats for nodes, validators, etc
 - 📊 [Diva Testnet Dashboard](https://dune.com/kevinzzz/diva-testnet-operation-status) by @kevinzzz
 - 📺 [Youtube talk on Diva's DVT design](https://www.youtube.com/watch?v=IHgMk15g2D4&ab_channel=DivaStaking)
 
-## Diva governance token
+## DIVA Staking DAO token
 
 - 🦙 [DefiLlama](https://defillama.com/protocol/diva) to view TVL
 - 🦎 [CoinGecko](https://www.coingecko.com/en/coins/diva-staking) for DIVA
 - 🔢 [DIVA Token Smart Contract](https://etherscan.io/token/0xbfabde619ed5c4311811cf422562709710db587d): 0xbfabde619ed5c4311811cf422562709710db587d
+- 🐙 [Diva Staking DAO Governor source code](https://github.com/staking-foundation/diva-governor)

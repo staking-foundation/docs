@@ -34,6 +34,7 @@ Each Delegated DIVA token is worth 1 vote on decisions such as:
 The Diva DAO components are fully decentralized:
 
 - The DIVA contract is [0xbfabde619ed5c4311811cf422562709710db587d](https://etherscan.io/token/0xbfabde619ed5c4311811cf422562709710db587d).
+- The [Diva Staking DAO Governor source code & docs](https://github.com/staking-foundation/diva-governor) are on Github.
 - [Governance proposals](https://www.tally.xyz/gov/diva) are on Tally.
 - [Discussion forum](https://commonwealth.im/divastaking/discussions) for community conversations on Commonwealth.
 
