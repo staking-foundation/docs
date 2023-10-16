@@ -16,7 +16,7 @@ description: Quick reference of all Diva resources and links
 ## Diva Staking DAO
 
 - 📊 [Initial Distribution Dashboard](https://dune.com/kevinzzz/diva-airdrop-claim) by @kevinzzz
-- 📊 [Diva DAO Dashboard](https://dune.com/kevinzzz/diva-dao) by @kevinzzz
+- 📊 [Diva DAO Dashboard](https://dune.com/kevinzzz/diva-governance-stats) by @kevinzzz
 - 💬 [Commonwealth Discussion Forum](https://commonwealth.im/divastaking/discussion)
 - 🗳️ [On-chain Voting on Tally](https://tally.xyz/gov/diva)
 - 📗 [Diva DAO archives](https://github.com/staking-foundation/diva-dao) maintained by the Staking Foundation
@@ -30,7 +30,7 @@ description: Quick reference of all Diva resources and links
 
 - 🌱 [Diva Early Staker vaults](https://diva.enzyme.finance)
 - 💠 [Divascan TVL dashboard](https://divascan.io/enzyme)
-- 📊 [Dune Analytics dashboard](https://dune.com/kevinzzz/diva-early-staker)
+- 📊 [Dune Analytics dashboard](https://dune.com/kevinzzz/111958-diva-early-staker)
 
 ## Diva Testnet
 
