@@ -9,7 +9,7 @@ Diva Staking is still under development, but you can already support its launch.
 **You can now deposit ETH or stETH into [Pre-Launch Vaults](https://diva.enzyme.finance/#vaults) to become eligible for DIVA tokens**.
 
 :::info Good to know
-DIVA tokens are **currently** non-transferable. Join the initiative for potential DIVA allocations.
+DIVA tokens are **currently** [non-transferable](https://www.tally.xyz/gov/diva/proposal/52481024395238134144299582623582875841236980209822828761178984408970724801644). Join the initiative for potential DIVA allocations.
 
 :::
 
