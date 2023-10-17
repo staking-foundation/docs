@@ -17,10 +17,10 @@ They have committed to staking **21,504 ETH to be used as Diva collateral**. Thi
 
 These Operators expect to improve their staking operations by using [Diva's DVT](dvt) and earning [additional Operator rewards](economics).
 
-The Foundation has accepted their commitments and has offered DIVA grants from their own endowment to incentivize them to fulfill their commitments with an acceptable performance for mainnet.
+The Foundation, following its mandate to distribute DIVA to network participants, has accepted their commitments and has offered DIVA grants from their own endowment to incentivize them to run fully collateralized nodes with verifiable performance for mainnet.
 
-The Foundation believes this initiative might be to the interest of the entire Diva Staking community, and proposes to generalize it so all validators can participate.
-
+- Current commitments have been incentivized with DIVA allocations from the Foundation's treasury.
+- The Foundation suggests extending this initiative to the entire Diva community with DAO funds so all validators can participate.
 
 ## Proposed initiative
 
@@ -75,14 +75,16 @@ The proposed initiatives are non-custodial, allowing participants to withdraw th
 
 ## Signaling mechanism
 
-Operators would signal their commitments on-chain by posting
+The Foundation proposes reusing the Operator signaling mechanism already in place for TSF commitments so far.
 
-- an Ethereum 0 ETH transaction
-- from the depositing address which made the validator 32ETH deposits
-- to the address: [0x93f3d5BB7901a00c88703cf78fA27bb6647774E9](https://etherscan.io/address/0x93f3d5BB7901a00c88703cf78fA27bb6647774E9)
-- with a data field containing JSON like `{ keys: [ pubkey1, pubkey2, ... ] }`
+- Sending an on-chain Ethereum 0 ETH transaction
+- From the depositing address which made the validator 32ETH deposits
+- To the address: [0x93f3d5BB7901a00c88703cf78fA27bb6647774E9](https://etherscan.io/address/0x93f3d5BB7901a00c88703cf78fA27bb6647774E9)
+- With a HEX encoded data field containing JSON like `{ keys: [ pubkey1, pubkey2, ... ] }`
 
-This allows queries and dashboards to verify it display commitments, like in this [sample Dune query](https://dune.com/queries/3102029).
+This allows queries and dashboards to verify and display commitments, like in this [sample Dune query](https://dune.com/queries/3102029).
+
+Here's [an example transaction](https://etherscan.io/tx/0xe90ce03b8c10dcf57f27c50159fa3c1187d2bcf7950002e31668b798ce9fe127).
 
 ## Incentives & Rewards
 
