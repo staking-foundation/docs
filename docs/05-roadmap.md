@@ -50,7 +50,7 @@ This will allow Liquid Stakers, Operators and the Diva DAO to fully finalize its
 
 The [Diva DAO](dao) is entrusted to curate the Diva staking protocol:
 
-- 🏘️ [Diva DAO dashboard](https://dune.com/kevinzzz/diva-governance-stats), now counting over 4,500 token holders!
+- 🏘️ [Diva DAO dashboard](https://dune.com/kevinzzz/diva-dao), now counting over 4,500 token holders!
 - 🗳️ [Vote on Tally](https://www.tally.xyz/gov/diva), several proposals are live.
 - 🚫 DIVA is currently non-transferrable. There is no "airdrop", "sale" or "fundraise"!
 
