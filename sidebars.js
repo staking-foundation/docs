@@ -49,8 +49,7 @@ const sidebars = {
       label: 'Diva Operators',
       link: { type: 'doc', id: 'operators' },
       collapsible: true,
-      items: [ 'economics', 'install' ]
-
+      items: [ 'economics', 'install', 'validator_migrations' ]
     },
 
     {
@@ -66,7 +65,6 @@ const sidebars = {
 
     },
     'early_stakers',
-    'validator_migrations',
     {
       type: 'category',
       label: 'Links & resources',
