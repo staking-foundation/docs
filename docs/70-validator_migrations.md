@@ -49,6 +49,7 @@ This initiative aims to accelerate the launch and adoption of Diva Staking by he
 -   Gain confidence that the protocol and DIVA are widely adopted
 -   Distribute voting power to participants according to their commitments
 -   Plan node operator capacity and DeFi integrations ahead of launch
+-   Decentralize the network by inviting as many Operators as possible
 
 This ultimately helps balance and decentralize the Ethereum staking ecosystem by promoting diversity to its LST landscape and embracing the future of [DVT](dvt) technology.
 
