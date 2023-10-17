@@ -19,8 +19,10 @@ These Operators expect to improve their staking operations by using [Diva's DVT]
 
 The Foundation, following its mandate to distribute DIVA to network participants, has accepted their commitments and has offered DIVA grants from their own endowment to incentivize them to run fully collateralized nodes with verifiable performance for mainnet.
 
-- Current commitments have been incentivized with DIVA allocations from the Foundation's treasury.
-- The Foundation suggests extending this initiative to the entire Diva community with DAO funds so all validators can participate.
+- Current commitments are fully allocated with DIVA from the Foundation's treasury.
+- The Foundation suggests extending this initiative to the entire Diva community so all validators can participate.
+
+It is suggested that these commitments obtain their own DIVA allocations from the DAO, without interfering in any way with the [Early Stakers](early_stakers) allocations or tranche calculations.
 
 ## Proposed initiative
 
