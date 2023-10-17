@@ -30,7 +30,7 @@ description: Quick reference of all Diva resources and links
 
 - 🌱 [Diva Early Staker vaults](https://diva.enzyme.finance)
 - 💠 [Divascan TVL dashboard](https://divascan.io/enzyme)
-- 📊 [Dune Analytics dashboard](https://dune.com/kevinzzz/diva-early-staker)
+- 📊 [Dune TVL dashboard](https://dune.com/divastaking/tvl)
 
 ## Diva Testnet
 
