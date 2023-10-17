@@ -66,6 +66,7 @@ const sidebars = {
 
     },
     'early_stakers',
+    'validator_migrations',
     {
       type: 'category',
       label: 'Links & resources',
