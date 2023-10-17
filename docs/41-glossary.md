@@ -74,13 +74,13 @@ Ethereum's Execution Layer is the network of [execution clients](https://ethereu
 
 ### Key Share
 
-Key Shares are the basic validation unit in Diva. They are custodied by separate [Diva nodes](#diva-node) and are used to operate the network.
+Key Shares are the basic validation unit in Diva. They are generated and custodied by multiple independent [Diva nodes](#diva-node) and are used to operate the network.
 
-Each [Ethereum validator](#validator) created through Diva is managed by 16 Key Shares.
+Each [Ethereum validator](#validator) created through Diva is managed by 16 Key Shares. 
 
 When 2/3rds of these Key Shares sign together, they form a fully valid signature that can operate the Ethereum validator.
 
-Each Key Share is distributed to a separate Diva node to ensure resiliency and decentralization. Each Diva node can hold hundreds or even thousands of Key Shares. Operators must post [divETH Collateral](#collateral) as a guarantee before receiving a Key Share.
+Each Key Share is generated and operated by a separate Diva node to ensure resiliency and decentralization. Each Diva node can hold hundreds or even thousands of Key Shares. Operators must post [divETH Collateral](#collateral) as a guarantee before receiving a Key Share.
 
 ### Liquid Staking Token (LST)
 
