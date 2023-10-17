@@ -5,16 +5,32 @@ description: Node operators running 32Ξ Ethereum nodes can commit to migrate to
 
 # Validator Migrations Initiative
 
-Diva Staking is still under development, but you can already support its launch.
+Diva Staking is still under development, and there's already an [Early Staker initiative](early_stakers) to allow people to commit ETH for its launch.
 
-This initiative is aimed at Ethereum node operators running one or more 32Ξ Ethereum validators on mainnet. If you'd like to join with any amount of ETH, check the [Early Staker initiative](early_stakers) instead.
+However, there is still no equivalent initiative for Operators. This page presents a proposal made by [The Staking Foundation](foundation), currently under discussion.
 
-**You can now commit to an Ethereum Validator Migration** to support tha launch of Diva.
+## Context for this initiative
 
-This initiative is currently [under community discussion](https://discord.com/channels/1041618287500460083/1163123300789125222), but a standard has already been proposed by The Staking Foundation to allow Operators to signal commitments. There are currently no approved reward mechanisms.
+Several large ETH holders approached The Staking Foundation, committing to run Diva nodes and deposit ETH collateral.
+
+They have committed to staking **21,504 ETH to be used as Diva collateral**. This will contribute by providing both ETH TVL as well as Operator capacity in the network.
+
+These Operators expect to improve their staking operations by using [Diva's DVT](dvt) and earning [additional Operator rewards](economics).
+
+The Foundation has accepted their commitments and has offered DIVA grants from their own endowment to incentivize them to fulfill their commitments with an acceptable performance for mainnet.
+
+The Foundation believes this initiative might be to the interest of the entire Diva Staking community, and proposes to generalize it so all validators can participate.
 
 
 ## Proposed initiative
+
+This initiative is aimed at Ethereum node operators running one or more 32Ξ Ethereum validators on mainnet If you'd like to join with any amount of ETH, check the [Early Staker initiative](early_stakers) instead, or suggest ways to allow operators to join with amounts smaller than 32Ξ.
+
+**Proposal: Allow Ethereum mainnet operators to commit to an Ethereum Validator Migration** to support tha launch of Diva.
+
+This is a draft [for community discussion](https://discord.com/channels/1041618287500460083/1163123300789125222). The format is made to align with the signaling mechanism The Staking Foundation has requested from existing commitments.
+
+If this proposal goes forward, incentive structures should be discussed.
 
 - **What**: A mechanism for Operators to commit ETH to be used in Diva as operator collateral
 - **Why**: This benefits Diva by providing active nodes and staking capacity for Liquid Stakers.
@@ -50,10 +66,11 @@ The design of this initiative is fully non-custodial and provides Operators APR 
 
 1. [Diva Early Staker Vaults](early_stakers) allow depositing any amount of (st)ETH.
 2. **This initiative** allows anyone to migrate their 32Ξ validators to Diva.
+3. New initiatives can be discussed to allow future operators to commit amounts of 1Ξ or more.
 
 TVL commitments are important, because they attract Liquid Stakers, [Operators](participants#operators) and facilitate integrations.
 
-Both initiatives are non-custodial, allowing participants to withdraw their funds anytime.
+The proposed initiatives are non-custodial, allowing participants to withdraw their funds anytime.
 
 ## Signaling mechanism
 
