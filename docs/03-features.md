@@ -105,7 +105,7 @@ Diva Staking uses cryptography to ensure correctness of operations wherever poss
 
 Diva is being designed to minimize the trust required from any party, providing:
 
-- A strong cryptographic model to protects staking operations.
+- A strong cryptographic model to protect staking operations.
 - ETH collateral as protection towards potential losses.
 - Zero-knowledge mathematical proofs for reports and calculations.
 

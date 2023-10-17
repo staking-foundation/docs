@@ -110,4 +110,4 @@ The explanation above is very high level. Watch this 20 min walk for a deeper di
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IHgMk15g2D4?si=0nWrjKLDsAKQ8CkR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-👉 [Read the Ethereum Foundation's explainet on DVT](https://ethereum.org/en/staking/dvt/), describing the general mechanics and advantages of DVT.
+👉 [Read the Ethereum Foundation's explainer on DVT](https://ethereum.org/en/staking/dvt/), describing the general mechanics and advantages of DVT.

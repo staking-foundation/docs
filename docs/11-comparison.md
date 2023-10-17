@@ -12,7 +12,7 @@ description: Diva is unique in its Liquid Staking and permissionless Operator se
 
 ## Designed for compatibility
 
-Diva's Liquid Staking is design to work just like popular staking protocols:
+Diva's Liquid Staking is designed to work just like popular staking protocols:
 
 - [Anyone can stake with Diva](participants) with no minimum ETH requirement.
 - [divETH and wdivETH](lst) allow for easy integration in Defi.
