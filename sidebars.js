@@ -36,11 +36,12 @@ const sidebars = {
       collapsible: true,
       link: { type: 'doc', id: 'comparison' },
       items: [
+      'solo-staking',
       'lido',
       'rocketpool',
       'exchanges',
-      'solo-staking',
-      'obol-ssv'
+      'obol-ssv',
+      'trilemma'
       ],
     },
       
