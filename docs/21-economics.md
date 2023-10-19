@@ -40,6 +40,8 @@ All divETH holders receive [Staking Rewards](staking-rewards), which aggregate &
 
 10% of the Total Rewards are paid to to Operators as compensation for their services as Operator Rewards.
 
+There is no "DAO fee" in Diva.
+
 ## Operator economics
 
 Diva Operators post [divETH collateral](glossary#collateral) as a guarantee. The more divETH they post, the more [Key Shares](glossary#key-share) they can receive.

@@ -43,6 +43,23 @@ Diva maintains most the decentralization advantages of solo staking on Ethereum,
 - Operators to run nodes to perform validation duties, locking [divETH collateral](glossary#collateral) to generate base Staking Rewards plus additional [Operator Rewards](economics).
 
 
+|     | Ethereum  staking | Diva Staking
+| --- | ---               | ---
+| Collateral | 32Ξ per validator | 1 (div)ETH or less per key share
+| Mapping | 1 key per validator | 16 distributed key shares per validator
+| Keys to sign | 1 (100%) | 11/16 (66%)
+| APR | Staking rewards | Staking + Operator rewards
+| Liquid staking | No | Yes
+| Key generation | Simple | Multi-party computation distributed key generation (MPC DKG)
+| Offline penalties | Up to 16Ξ loss (1-2Ξ per year) | No loss if <33% of nodes are offline
+| Downtime (mean) | 0.4% (all validators) | ~0.01% thanks to DVT redundancy
+| Slashing risks | Any 1 node can slash | Requires an attack or bug of >66% of nodes
+| MEV stealing | Possible | >66% of nodes needed to steal
+| Infrastructure | Execution Client + Consensus Client | Diva Client connecting to an Ethereum node | Rocketpool Client connecting to an Ethereum node |
+| Keys | Manual key generation | Automatic key management
+| Client config | More “bare metal” | Easy Docker package, web UI
+
+
 ## Design Principles
 
 **Validator Design**
