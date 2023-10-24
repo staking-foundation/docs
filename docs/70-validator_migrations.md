@@ -65,7 +65,7 @@ Operators could become eligible to receive DIVA incentives by completing all tes
 The design of this initiative is fully non-custodial (using existing Ethereum validators) and it provids Operators with ways to participate in DAO governance once they fulfill their commitments.
 
 
-## How this fits into Diva Staking related iniaitives
+## How this fits into Diva Staking related initiatives
 
 1. [Diva Early Staker Vaults](early_stakers) allow depositing any amount of (st)ETH.
 2. **This initiative** allows anyone to migrate their 32Ξ validators to Diva.
