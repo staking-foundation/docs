@@ -34,6 +34,9 @@ It is a standard ERC20 which enables composability with most DeFi apps. If neede
 ![stake](img/stakers-and-operators.png)
 </div>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OBgAyhqck38?si=_bSB87ow9Uc8KYCA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 
 ## Operators
 
