@@ -17,18 +17,18 @@ They have committed to staking **21,504 ETH to be used as Diva collateral**. Thi
 
 These Operators expect to improve their staking operations by using [Diva's DVT](dvt) and earning [additional Operator rewards](economics).
 
-The Foundation, following its mandate to distribute DIVA to network participants, has accepted their commitments and has offered DIVA grants from their own endowment to incentivize them to run fully collateralized nodes with verifiable performance for mainnet.
+The Foundation, following its mandate to distribute DIVA to network participants, has accepted their commitments and has offered DIVA grants from their own endowment to ensure there are network participants running fully collateralized nodes with verifiable performance for mainnet.
 
 - Current commitments are fully allocated with DIVA from the Foundation's treasury.
 - The Foundation suggests extending this initiative to the entire Diva community so all validators can participate.
 
-It is suggested that these commitments obtain their own DIVA allocations from the DAO, without interfering in any way with the [Early Stakers](early_stakers) allocations or tranche calculations.
+If the program extension is approved by the community, the Foundation proposes that further commitments obtain their own DIVA allocations from the DAO, without interfering in any way with the [Early Stakers](early_stakers) allocations or tranche calculations.
 
 ## Proposed initiative
 
 This initiative is aimed at Ethereum node operators running one or more 32Ξ Ethereum validators on mainnet If you'd like to join with any amount of ETH, check the [Early Staker initiative](early_stakers) instead, or suggest ways to allow operators to join with amounts smaller than 32Ξ.
 
-**Proposal: Allow Ethereum mainnet operators to commit to an Ethereum Validator Migration** to support tha launch of Diva.
+**Proposal: Allow Ethereum mainnet operators to commit to an Ethereum Validator Migration** to support the launch of Diva.
 
 This is a draft [for community discussion](https://discord.com/channels/1041618287500460083/1163123300789125222). The format is made to align with the signaling mechanism The Staking Foundation has requested from existing commitments.
 
@@ -62,7 +62,7 @@ This Validator Migration initiative could match that with a TVL from Operators o
 
 Operators could become eligible to receive DIVA incentives by completing all tests above demonstrating excellent performance in both Ethereum mainnet and Diva tesntet (pre-launch) and for a period of time in Diva mainnet (post-launch)
 
-The design of this initiative is fully non-custodial and provides Operators APR while they wait for launch, which is also used as proof of their performance.
+The design of this initiative is fully non-custodial (using existing Ethereum validators) and it provids Operators with ways to participate in DAO governance once they fulfill their commitments.
 
 
 ## How this fits into Diva Staking related iniaitives
