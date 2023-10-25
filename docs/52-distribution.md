@@ -55,11 +55,11 @@ To counteract this, DIVA tokens are introduced as non-transferable, eliminating 
 
 The decision regarding future transferability of the token will rest with DIVA's Delegated token holders, ensuring decisions are made in the best interest of the community.
 
-Ideally, the token will maintain its non-transferable status unless its transferability becomes necessary for operational functionality and the advancement of decentralization.
+DIVA is likely to maintain its non-transferable status unless its transferability becomes necessary for operational functionality and the advancement of decentralization.
 
 ## Distribution Restrictions
 
-Due to legal uncertainities surrounding staking operations in the US and Canada, US and Canadian nationals are excluded from the Early Distribution.
+Due to legal uncertainities surrounding staking operations in the US and Canada, US and Canadian nationals were excluded from the Early Distribution.
 
 Several other sanctioned countries have been excluded as well.
 
