@@ -13,7 +13,7 @@ To this effect, the Diva DAO has provided an allocation of 100,000,000 DIVA toke
 
 ## A real-world entity
 
-As an established "real-world entity", the Foundation can subscribe commitments with third parties on a limited liability basis, allowing it to interface with service providers and ecosystem participants in accordance to its mandate.
+The Foundation can subscribe commitments with third parties on a limited liability basis, allowing it to interface with service providers and ecosystem participants in accordance to its mandate.
 
 However, the Staking Foundation holds no intellectual property rights or any direct control over Diva's operations.
 
