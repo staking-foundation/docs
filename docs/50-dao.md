@@ -31,6 +31,8 @@ Each Delegated DIVA token is worth 1 vote on decisions such as:
 - Curating Diva by adjusting network parameters (if any).
 - Evangelizing for the Diva staking protocol.
 
+DIVA is currently [non-transferrable](distribution#non-transferability). If you're looking to earn potential DIVA tokens, check the [Early Stakers initiative](early_stakers).
+
 The Diva DAO components are fully decentralized:
 
 - The DIVA contract is [0xbfabde619ed5c4311811cf422562709710db587d](https://etherscan.io/token/0xbfabde619ed5c4311811cf422562709710db587d).

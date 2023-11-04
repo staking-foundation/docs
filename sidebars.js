@@ -73,6 +73,7 @@ const sidebars = {
       link: { type: 'doc', id: 'resources' },
       items: [
         'about',
+        'shamir',
         'foundation',
         'contributing'
       ],
