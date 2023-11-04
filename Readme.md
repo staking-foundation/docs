@@ -45,3 +45,4 @@ If you'd like to contribute:
 Contributions can include improving the writing, providing guides and new sections, or new resources!
 
 Lazy? Feel free to create an Issue to suggest improvements for others to consider.
+
