@@ -93,8 +93,8 @@ After meeting the threshold and quorums, an on-chain transaction sets the approv
 Once the Cooldown period ends, anyone can execute the transaction to implement a DAO Resolution.
 
 The Cooldown periods are:
-- 9 days for DCP and DIP proposals
-- 14 days for DUP, as they have a higher impact for the protocol.
+- 9 days for normal proposals
+- 14 days for critical proposals affecting protocol security
 
 ### Cancelling proposals
 
