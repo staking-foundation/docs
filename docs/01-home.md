@@ -1,6 +1,6 @@
 ---
 slug: /
-title: Diva does Liquid Staking powered by Distributed Validator
+title: Diva Staking powered by Distributed Validators
 description: Diva is an Ethereum Liquid Staking protocol powered by Distributed Validator Technology (DVT)
 hide_table_of_contents: true
 ---
