@@ -88,8 +88,8 @@ const config = {
     },
 
       metadata: [
-        { name: 'og:image', content: 'https://docs.divastaking.com/img/metalogo.png' },
-        { name: 'twitter:image', content: 'https://docs.divastaking.com/img/metalogo.png' },
+        { name: 'og:image', content: 'https://docs.divastaking.com/img/social.png' },
+        { name: 'twitter:image', content: 'https://docs.divastaking.com/img/social.png' },
         { name: 'og:title', content: 'Diva Staking' },
         { name: 'og:description', content: 'Diva is an Ethereum Liquid Staking protocol powered by Distributed Validators' },
         { name: 'description', content: 'Diva is an Ethereum Liquid Staking protocol powered by Distributed Validators' },
