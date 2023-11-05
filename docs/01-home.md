@@ -1,25 +1,45 @@
 ---
-slug: /
-title: Intro
+title: Liquid Staking
 description: Diva is a non-custodial Ethereum Liquid Staking protocol powered by Distributed Validator Technology (DVT).
 hide_table_of_contents: true
 ---
 
 # Diva's Liquid Staking
 
-:::important
-This is an independent guide to Diva Staking, maintained by the [Staking Foundation](foundation).
-:::
+Diva is an Ethereum Liquid Staking protocol powered by Distributed Validator Technology (DVT).
 
-Diva Staking is an Ethereum Liquid Staking protocol powered by Distributed Validator Technology (DVT).
+It extends Ethereum's Proof of Stake providing new functionality for Stakers and Operators:
 
-<div style={{textAlign: 'center', border: '1px solid #ccc'}}>
+- **Liquid Stakers** receive divETH, a [Liquid Staking Token](lst) which generates Ethereum [Staking Rewards](staking-rewards).
+- **Operators** run a [**Di**stributed **Va**lidation node](operators) to fulfill staking duties and earn additional [Operator Rewards](economics).
 
-[![stake](img/dropbox-deck.png)](https://www.dropbox.com/s/gxuww7hq3ztwslm/Diva%20Deck.pdf?dl=0)
-</div>
+Ethereum’s staking rewards are distributed among the Diva network participants according to their contributions.
 
-<br/>
+divETH is a receipt token and its balance updates daily to reflect the deposited ETH balance plus its Ethereum staking rewards.
 
-It is a fully integrated tool that improves the lives of Liquid Stakers and Operators. 
+While other solutions have some of these features, **Diva is the first solution that fully integrates Liquid Staking with [Distributed Validation](dvt)**, offering both Liquid Stakers and Operators the most efficient functionality.
 
-Keep reading to learn more! 👉
+## Diva Rewrites the Rules
+
+### Liquid Staking
+
+- 🌱 No minimum ETH to stake.
+- 👏 No requirement to run a node.
+- 💧 [Liquid Staking Tokens](lst) without lockups.
+
+### More Resilient Operations
+
+- 🌳 Resilient: Nodes are fully disposable.
+- ❤️‍🔥 Self-healing: Ability to regenerate lost keys.
+- 💠 Redundancy: ~500x better uptime thanks to [DVT fallbacks](dvt).
+
+### Incentives and Penalties
+
+- 📈 Smooth [Staking Rewards](staking-rewards).
+- ⛔️ Quick ejection of bad actors.
+
+### Trust-minimized Architecture
+
+- 🪨 [Trustless and permissionless](features).
+- 🔐 "Can't be evil" cryptographic systems.
+- 🛡️ [Collateral protection for Stakers](participants#operators).

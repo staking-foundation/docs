@@ -21,7 +21,7 @@ const sidebars = {
       collapsible: true,
       link: { type: 'doc', id: 'home' },
       items: [
-      'intro',
+      /*'deck',*/
       'participants',
       'features',
       'lst',

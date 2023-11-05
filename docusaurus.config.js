@@ -88,16 +88,16 @@ const config = {
     },
 
       metadata: [
-        { name: 'og:image', content: 'https://diva.community/metalogo.png' },
-        { name: 'twitter:image', content: 'https://diva.community/metalogo.png' },
+        { name: 'og:image', content: 'img/metalogo.png' },
+        { name: 'twitter:image', content: 'img/metalogo.png' },
         {name: 'og:title', content: 'Ethereum Liquid Staking powered by Distributed Validators'},
         {name: 'og:description', content: 'Diva is an Ethereum Liquid Staking protocol powered by Distributed Validators.'},
         {name: 'description', content: 'Diva is an Ethereum Liquid Staking protocol powered by Distributed Validators'},
         {name: 'twitter:card', content: 'summary_large_image'},
-        {name: 'twitter:url', content: 'https://docs.staking.foundation/'},
-        {name: 'og:url', content: 'https://docs.staking.foundation/'},
+        {name: 'twitter:url', content: 'https://docs.divastaking.com/'},
+        {name: 'og:url', content: 'https://docs.divastaking.com/'},
         {name: 'twitter:title', content: 'Ethereum Liquid Staking powered by Distributed Validators'},
-        {name: 'twitter:description', content: 'https://docs.staking.foundation/'}
+        {name: 'twitter:description', content: 'https://docs.divastaking.com/'}
       ],
       navbar: {
         title: 'diva',
@@ -106,7 +106,7 @@ const config = {
           src: 'img/diva.svg',
         },
         items: [
-          { href: 'https://staking.foundation', label: 'Homepage', position: 'right' },
+          { href: 'https://divastaking.com', label: 'Diva Staking', position: 'right' },
           { href: 'https://divascan.io', label: 'Divascan', position: 'right' },
           { href: 'https://docs.shamirlabs.org', label: 'Install & Tech docs', position: 'right' },
           { href: 'https://stake.diva.community', label: 'Diva Staking testnet', position: 'right' },
@@ -120,7 +120,7 @@ const config = {
             items: [
               {
                 label: 'Diva Website',
-                href: 'https://diva.community',
+                href: 'https://divastaking.com',
               },
               {
                 label: 'The Staking Foundation',
