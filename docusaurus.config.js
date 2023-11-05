@@ -10,9 +10,9 @@ const katex = require('rehype-katex');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Diva Staking docs – by the Staking Foundation',
-  tagline: 'Diva delivers Ethereum Liquid Staking powered by Distributed Validation. Launching soon.',
-  url: 'https://docs.staking.foundation',
+  title: 'Diva Staking',
+  tagline: 'Ethereum Liquid Staking powered by Distributed Validation',
+  url: 'https://docs.divastaking.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -88,22 +88,22 @@ const config = {
     },
 
       metadata: [
-        { name: 'og:image', content: 'img/metalogo.png' },
-        { name: 'twitter:image', content: 'img/metalogo.png' },
-        {name: 'og:title', content: 'Ethereum Liquid Staking with Distributed Validators'},
-        {name: 'og:description', content: 'Diva is an Ethereum Liquid Staking protocol powered by Distributed Validators.'},
-        {name: 'description', content: 'Diva is an Ethereum Liquid Staking protocol powered by Distributed Validators'},
-        {name: 'twitter:card', content: 'summary_large_image'},
-        {name: 'twitter:url', content: 'https://docs.divastaking.com/'},
-        {name: 'og:url', content: 'https://docs.divastaking.com/'},
-        {name: 'twitter:title', content: 'Ethereum Liquid Staking powered by Distributed Validators'},
-        {name: 'twitter:description', content: 'https://docs.divastaking.com/'}
+        { name: 'og:image', content: '/img/metalogo.png' },
+        { name: 'twitter:image', content: '/img/metalogo.png' },
+        { name: 'og:title', content: 'Diva Staking' },
+        { name: 'og:description', content: 'Diva is an Ethereum Liquid Staking protocol powered by Distributed Validators' },
+        { name: 'description', content: 'Diva is an Ethereum Liquid Staking protocol powered by Distributed Validators' },
+        { name: 'twitter:card', content: 'summary_large_image' },
+        { name: 'twitter:url', content: 'https://docs.divastaking.com/' },
+        { name: 'og:url', content: 'https://docs.divastaking.com/' },
+        { name: 'twitter:title', content: 'Ethereum Liquid Staking powered by Distributed Validators' },
+        { name: 'twitter:description', content: 'https://docs.divastaking.com/' }
       ],
       navbar: {
         title: 'diva',
         logo: {
           alt: '💄',
-          src: 'img/diva.svg',
+          src: '/img/diva.svg',
         },
         items: [
           { href: 'https://divastaking.com', label: 'Diva Staking', position: 'right' },
