@@ -90,7 +90,7 @@ const config = {
       metadata: [
         { name: 'og:image', content: 'img/metalogo.png' },
         { name: 'twitter:image', content: 'img/metalogo.png' },
-        {name: 'og:title', content: 'Ethereum Liquid Staking powered by Distributed Validators'},
+        {name: 'og:title', content: 'Ethereum Liquid Staking with Distributed Validators'},
         {name: 'og:description', content: 'Diva is an Ethereum Liquid Staking protocol powered by Distributed Validators.'},
         {name: 'description', content: 'Diva is an Ethereum Liquid Staking protocol powered by Distributed Validators'},
         {name: 'twitter:card', content: 'summary_large_image'},
