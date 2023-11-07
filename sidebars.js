@@ -82,7 +82,7 @@ const sidebars = {
       type: 'category',
       label: 'Reference',
       collapsible: true,
-      items: ['staking-rewards','components','glossary'],
+      items: ['smart-contracts','staking-rewards','components','glossary'],
     },
   ],
   
