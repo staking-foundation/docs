@@ -42,7 +42,7 @@ The more (st)ETH you deposit, the more DIVA tokens you will get. You can find th
 
 If you deposit stETH, you will get both Ethereum staking rewards and DIVA tokens when they start accruing. For example, depositing 10 stETH (into the first tranche) and staying in the vault for the maximum duration will result in 4,575 DIVA rewards plus the full staking rewards (stETH before Diva launch and then divETH).
 
-## Help Diva Staking launch successfully
+### Help Diva Staking launch successfully
 
 This is an independently run initiative approved by the [Diva Staking DAO](dao) in [DIP-02](https://www.tally.xyz/gov/diva/proposal/45468458207916765916984557235161596151150976178275597160417224501662414206717).
 
@@ -54,13 +54,13 @@ It aims to accelerate the launch and adoption of Diva Staking by helping to:
 
 This ultimately helps balance and decentralize the Ethereum staking ecosystem by promoting diversity to its LST landscape and embracing the future of [DVT](dvt) technology.
 
-## DIVA transferability
+### DIVA transferability
 
 Please note that DIVA is currently non-transferable and not trading, which means that a token price cannot be established.
 
 DIVA token will only become transferable if approved by the Diva Staking DAO. You can check the latest [DAO proposal concerning transferability](https://www.tally.xyz/gov/diva/proposal/52481024395238134144299582623582875841236980209822828761178984408970724801644) on Tally.
 
-### Enzyme protocol and its vault infrastructure
+## Enzyme protocol infrastructure
 
 The program is made possible with Enzyme’s on-chain asset management infrastructure and non-custodial smart contract architecture. Stakers retain full self-custody of their funds at all times.
 
@@ -69,12 +69,12 @@ For the full Terms & Conditions, see [proposal](https://www.tally.xyz/gov/diva/p
 👉 **Visit the Diva Early Stakers website to get started** [https://diva.enzyme.finance](https://diva.enzyme.finance)
 
 
-### Smart Contracts used by Enzyme
+### Smart Contracts
 
 <details><summary>View all Enzyme Smart Contracts</summary>
 <p>
 
-### Specific vault contracts
+Some contracts are vault-specific:
 
 | Component | Diva Early Stakers stETH Vault | Diva Early Stakers ETH Vault |
 | --------- | ------------------------------ | ---------------------------- |
@@ -82,7 +82,7 @@ For the full Terms & Conditions, see [proposal](https://www.tally.xyz/gov/diva/p
 | Vault Proxy | 0x1ce8aafb51e79f6bdc0ef2ebd6fd34b00620f6db | 0x16770d642e882e1769ce4ac8612b8bc0601506fc | 
 | Comptroller Proxy | 0x648B8d2340842a7040680915c4dAb89382eeEDA9 | 0xC769Dac189494223a948426647e2615cf7412307 | 
 
-### Contracts shared for both Vaults
+Other contracts are shared for both vaults:
 
 | Component | Address |
 | --------- | ------- |
