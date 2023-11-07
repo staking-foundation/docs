@@ -45,5 +45,6 @@ description: Quick reference of all Diva resources and links
 
 - 🦙 [DefiLlama](https://defillama.com/protocol/diva) to view TVL
 - 🦎 [CoinGecko](https://www.coingecko.com/en/coins/diva-staking) for DIVA
+- 🔢 [Diva Staking DAO](https://etherscan.io/token/0x4eBB20995B6264b4b1E25f4473a4636CDB6a9790): 0x4eBB20995B6264b4b1E25f4473a4636CDB6a9790
 - 🔢 [DIVA Token Smart Contract](https://etherscan.io/token/0xbfabde619ed5c4311811cf422562709710db587d): 0xbfabde619ed5c4311811cf422562709710db587d
 - 🐙 [Diva Staking DAO Governor source code](https://github.com/staking-foundation/diva-governor)
