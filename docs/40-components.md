@@ -61,6 +61,6 @@ The Ethereum blockchain is running on two separate chains: the Execution Layer (
 
 At this time, the two-layer separation renders it technically impossible for the Diva SC (EL) to access the state of a validator (CL). The Diva SC has no direct way to check how one of its validators has been performing without receiving information from the consensus layer.
 
-The proposed EIP-4788 will solve this problem by making it possible to communicate with both layers.
+Shamir is developing a Zero-Knowledge Proof oracles to safely access the information it needs from the Consensus Layer. This solution will work with EIP-4788 which is coming with the Dencun Ethereum fork.
 
-However, until EIP-4788 is available, Diva’s SC will use zero-knowledge proof (ZKP) oracles as the best available solution to obtain necessary data. These oracles offer extremely strong guarantees of data validity without requiring trust in a multisig or committee of traditional oracles.
+These oracles offer extremely strong guarantees of data validity without requiring trust in a multisig or committee of traditional oracles.

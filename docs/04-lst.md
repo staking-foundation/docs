@@ -10,7 +10,7 @@ hide_table_of_contents: false
 
 Diva's Liquid Staking Token is available in a rebasing (divETH) and non-rebasing version (wdivETH), to fit all use cases.
 
-It's designed to be compatible with Lido's liquid staking tokens to facilitate integrations with apps that already support stETH or wstETH.
+It's designed in similarity to Lido's liquid staking tokens to facilitate integrations with apps that already support stETH or wstETH.
 :::
 
 
