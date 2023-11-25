@@ -10,12 +10,15 @@ description: Diva is unique in its Liquid Staking and permissionless Operator se
 ![Diva balances convenience and decentralization](img/comparison_table.png)
 </div>
 
-## Designed for compatibility
+## Three ways to engage with Diva
 
-Diva's Liquid Staking is designed to work just like popular staking protocols:
+Unlike other solutions, Diva gives users three ways to engage, so anybody can either use or power the network staking capabilities.
 
 - [Anyone can stake with Diva](participants) with no minimum ETH requirement.
 - [divETH and wdivETH](lst) allow for easy integration in Defi.
+- [Anyone can run a Diva node](operators) to earn [higher rewards on their ETH](economics).
+
+![Three ways to engage with Diva Staking](img/diveth-use-cases.png)
 
 Diva staking rewards are expected to be similar to major protocols, as the source of its [Staking Rewards](staking-rewards) is the Ethereum's Consensus Layer itself.
 
@@ -30,3 +33,4 @@ Diva uses [its own DVT](dvt) to provide better uptime and risk management with n
 - A permissionless Operator network that anyone can join, favoring diversity.
 
 ![Diva balances convenience and decentralization](img/diva-venn.png)
+

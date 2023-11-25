@@ -1,7 +1,7 @@
 ---
 title: Roadmap
 slug: roadmap
-description: Diva is on its way to mainnet, expected in Q1! Testnet is currently active to Stakers and Operators
+description: Diva is on its way to mainnet! Testnet is currently active to Stakers and Operators
 ---
 
 # Diva Roadmap
@@ -9,7 +9,7 @@ description: Diva is on its way to mainnet, expected in Q1! Testnet is currently
 :::info
 Diva is still under active development! Follow this page for updates 😊
 
-**Diva Mainnet is expected by Q1!**
+**Diva Mainnet is expected by Q1-Q2,** after the Dencun fork and once the code is complete and fully audited.
 
 🔔 [Sign up for Telegram announcements](https://t.me/followdiva)
 :::
@@ -29,7 +29,7 @@ There is also a [Dune Analytics dashboard for Diva testnet](https://dune.com/anc
 
 Diva's goal is that *anyone* can run a node to operate the network and generate [Staking Rewards](staking-rewards) + [Operator Rewards](economics).
 
-Diva Operator Testnet is live and open to anyone, currently supporting:
+Diva Operator Testnet is live and open to anyone, with 5 major areas being developed in parallel:
 
 - ✅ Create and operate validators using Diva's native DVT
 - 🔜 ZKP Reward Oracles
@@ -38,9 +38,9 @@ Diva Operator Testnet is live and open to anyone, currently supporting:
 - 🔜 Governance and Tokenomics
 - 🔜 Withdrawals and Exits
 
-This will allow Liquid Stakers, Operators and the Diva DAO to fully finalize its design and possibilities, so everybody can use divETH without the need to trust any centralized or permissioned party.
+This will allow Liquid Stakers, Operators and the Diva DAO members to provide input on its design and possibilities, so everybody can use divETH without the need to trust any centralized or permissioned party.
 
-**Mainnet deployment** ETA is Q1. Diva mainnet will launch once the last functionalities are fully tested and audited.
+Diva Mainnet will launch once the last functionalities are fully tested and audited by several top firms. 
 
 - 🛠️ [Get started with Diva Operator tesntet](operators).
 - 👾 [Join Discord](https://discord.gg/diva) to get support.

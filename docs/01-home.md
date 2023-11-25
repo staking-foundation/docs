@@ -20,6 +20,12 @@ divETH is a receipt token and its balance updates daily to reflect the deposited
 
 While other solutions have some of these features, **Diva is the first solution that fully integrates Liquid Staking with [Distributed Validation](dvt)**, offering both Liquid Stakers and Operators the most efficient functionality.
 
+<div style={{textAlign: 'center'}}>
+
+![Three ways to engage with Diva Staking](img/diveth-use-cases.png)
+</div>
+
+
 ## Diva Rewrites the Rules
 
 ### Liquid Staking

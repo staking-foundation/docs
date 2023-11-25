@@ -17,7 +17,7 @@ It requires you to stake [32 ETH per validator](glossary#validator), being quite
 
 In order to solo stake, you need to set up your own machine, but thanks to it, it is the most decentralized and resilient option as it has the lowest number of dependencies.
 
-Ethereum is lucky to have a vibrant community of solo stakers, estimated to be between 5-25% of the network.
+Ethereum is lucky to have a vibrant community of solo stakers, [estimated to be around 6% of the network](https://blog.rated.network/blog/solo-stakers).
 
 In an ideal world, more stakers would run their own machines, but because of the way the Ethereum protocol is designed, the requirements can be prohibitive for most:
 

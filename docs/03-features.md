@@ -9,6 +9,13 @@ description: Diva combines the best features from Liquid Staking, connecting the
 Diva is aiming to become **the most decentralized & resilient staking solution**, offering the best features to both Stakers and Operators.
 :::
 
+There are three ways to engage with Diva Staking:
+
+<div style={{textAlign: 'center'}}>
+
+![Three ways to engage with Diva Staking](img/diveth-use-cases.png)
+</div>
+
 
 ## 💧 Liquid Staking
 
