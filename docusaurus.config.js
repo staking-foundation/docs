@@ -112,6 +112,12 @@ const config = {
           { href: 'https://stake.diva.community', label: 'Diva Staking testnet', position: 'right' },
         ],
       },
+      algolia: {
+        appId: 'D50UKQDBPT',
+        apiKey: '7d452293c908f841debd91d8af109ecb',
+        indexName: 'divastaking',
+        contextualSearch: true
+      },
       footer: {
         style: 'dark',
         links: [
