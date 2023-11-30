@@ -18,7 +18,7 @@ Lido is operated by a whitelisted set of ~30 Node Operators, which are permissio
 
 <div style={{textAlign: 'center'}}>
 
-![stake](img/Lido-comp.png)
+![full-width](img/Lido-comp.png)
 </div>
 
 Each of these Node Operators is handling approximately 1% of all staked ETH, representing hundreds of millions of dollars of responsibility per Operator, without posting any ETH collateral guarantees.

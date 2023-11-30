@@ -30,4 +30,13 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-img[alt=liquid-stake] { width: 50%; }
+article img {
+  width: 100%;
+  max-width: 800px;
+}
+
+img[alt="Liquid Staking"] { height: 50%; width: 50%; }
+img[alt="Distributed Validators"] { height: 40%; width: 40%; }
+img[alt="DVT splitting keys"] { height: 50%; width: 50%; }
+img[alt="half-size"] { height: 50%; width: 50%; }
+img[alt="full-width"] { max-width: 100%; }

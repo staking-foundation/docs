@@ -7,7 +7,7 @@ description: Diva is unique in its Liquid Staking and permissionless Operator se
 
 <div style={{textAlign: 'center'}}>
 
-![Diva balances convenience and decentralization](img/comparison_table.png)
+![full-width](img/comparison_table.png)
 </div>
 
 ## Three ways to engage with Diva
@@ -32,5 +32,5 @@ Diva uses [its own DVT](dvt) to provide better uptime and risk management with n
 - Protection against single nodes failing or acting maliciously.
 - A permissionless Operator network that anyone can join, favoring diversity.
 
-![Diva balances convenience and decentralization](img/diva-venn.png)
+![half-size](img/diva-venn.png)
 

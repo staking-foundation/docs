@@ -40,7 +40,7 @@ This requires a virtual or physical machine with the [specifications to run a fu
 
 <div style={{textAlign: 'center'}}>
 
-![How to run a Diva node](img/how-to-run-node.png)
+![half-size](img/how-to-run-node.png)
 </div>
 
 

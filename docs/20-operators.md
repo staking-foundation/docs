@@ -33,6 +33,6 @@ Operators are essential to the effective functioning of both the Ethereum and Di
 
 <div style={{textAlign: 'center'}}>
 
-![Diva node architecture](img/how-to-run-node.png)
+![half-size](img/how-to-run-node.png)
 </div>
 
