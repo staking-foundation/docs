@@ -20,7 +20,7 @@ The Node Operator receiving the matching ETH owns the validator and is trusted t
 
 <div style={{textAlign: 'center'}}>
 
-![stake](img/RP-comp.png)
+![full-width](img/RP-comp.png)
 
 </div>
 
@@ -46,8 +46,8 @@ With Diva, Operators require as little as 1 divETH [collateral](glossary#collate
 
 **Diva's DVT turns a set of 16 nodes with 95% uptime into a Distributed Validator with 99.99% uptime**
 
-![DVT architecture](img/dvt-uptime-improvement.png)
+![full-width](img/dvt-uptime-improvement.png)
 
 **The same nodes that today run Rocketpool could perform with 99.99% combined uptime**
 
-![Diva vs Rocketpool uptime](img/diva-vs-rp-uptime.png)
+![full-width](img/diva-vs-rp-uptime.png)

@@ -20,7 +20,7 @@ Diva's distribution of Key Shares means there are 16x more Operators participati
 
 <div style={{textAlign: 'center'}}>
 
-![DVT architecture](img/architecture.jpg)
+![DVT architecture](img/architecture.png)
 </div>
 
 ## Diva's trust-minimized security model

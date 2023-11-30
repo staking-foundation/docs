@@ -39,6 +39,6 @@ While both SSV and Diva offer unique validating solutions, Diva emerges as a sup
 ## Diva = Liquid Staking + DVT + Economic model
 <div style={{textAlign: 'center'}}>
 
-![Diva balances convenience and decentralization](img/diva-venn.png)
+![half-size](img/diva-venn.png)
 </div>
 

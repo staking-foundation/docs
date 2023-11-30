@@ -17,7 +17,7 @@ All participants in the DAO are strongly encouraged to follow the [Diva DAO comm
 
 <div style={{textAlign: 'center'}}>
 
-![Liquid Staking](img/dao-proposals.png)
+![full-width](img/dao-proposals.png)
 </div>
 
 
