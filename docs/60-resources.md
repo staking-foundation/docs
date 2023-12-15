@@ -25,6 +25,7 @@ description: Quick reference of all Diva resources and links
 - 🎟️ [ThePass DAO page](https://thepass.to/dao/DivaStaking/DAOPage)
 - 📺 [Youtube talk on Diva's DAO design](https://www.youtube.com/watch?v=LJJY_l4VsoQ&ab_channel=DivaStaking)
 - 🚀 [DIVA voting from a Rocket Pool node](https://majestyle.medium.com/diva-voting-from-rocketpool-node-7124118b45e0)
+- 🗳️ [Vote on Diva proposals from your Rocket Pool node](https://proposalclip.xyz/) by @metrothreetimes
 
 ## Diva Early Staker initiative
 
