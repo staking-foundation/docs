@@ -36,7 +36,7 @@ Unlike other solutions, *anyone* can run a Diva Operator permissionlessly. Liqui
 
 ## Staker economics
 
-All divETH holders receive [Staking Rewards](staking-rewards), which aggregate & smooth all staking rewards regardless of their source, including block proposals, attestation rewards, MEV, etc.
+All divETH holders receive [Staking Rewards](staking-rewards), which aggregate & smooth all staking rewards regardless of their source, including block proposals, attestation rewards, MEV, sync committee rewards etc.
 
 10% of the Total Rewards are paid to to Operators as compensation for their services as Operator Rewards.
 
