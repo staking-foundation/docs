@@ -13,13 +13,6 @@ This is an independent guide to Diva Staking, maintained by the [Staking Foundat
 
 Diva Staking is an Ethereum Liquid Staking protocol powered by Distributed Validator Technology (DVT).
 
-<div style={{textAlign: 'center', border: '1px solid #ccc'}}>
-
-[![stake](img/dropbox-deck.png)](https://www.dropbox.com/s/gxuww7hq3ztwslm/Diva%20Deck.pdf?dl=0)
-</div>
-
-<br/>
-
 It is a fully integrated tool that improves the lives of Liquid Stakers and Operators. 
 
 Keep reading to learn more! 👉
