@@ -30,8 +30,6 @@ This initiative is aimed at Ethereum node operators running one or more 32Ξ Eth
 
 **Proposal: Allow Ethereum mainnet operators to commit to an Ethereum Validator Migration** to support the launch of Diva.
 
-This is a draft [for community discussion](https://discord.com/channels/1041618287500460083/1163123300789125222). The format is made to align with the signaling mechanism The Staking Foundation has requested from existing commitments.
-
 If this proposal goes forward, incentive structures should be discussed.
 
 - **What**: A mechanism for Operators to commit ETH to be used in Diva as operator collateral

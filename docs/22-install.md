@@ -20,7 +20,7 @@ In the current version, no collateral is required! Key shares are sent automatic
 
 But this will change in future versions.
 
-Diva Operators will require to post at least 1 Goerli ETH (testnet) as [collateral](glossary#collateral) to receive their first key share. If you need some Goerli ETH, [you can ask for it in the community Discord](https://discord.gg/diva).
+Diva Operators will require to post at least 1 Holesky ETH (testnet) as [collateral](glossary#collateral) to receive their first key share.
 
 There are three ways to run a Diva node:
 
@@ -49,7 +49,6 @@ This requires a virtual or physical machine with the [specifications to run a fu
 The first Diva client implementation is being developed by Shamir Labs.
 
 - 👉 **[Read the Diva Installation Guide](https://docs.shamirlabs.org/)** which provides the latest up-to-date details!
-- 👉 **[Join the Discord](https://discord.gg/diva)** for live support from the community!
 
 
 ## Currently supported features

@@ -21,7 +21,7 @@ The core idea of Diva is to power Liquid Staking by Distributed Validation, usin
 
 [**Raúl Calvo**](https://www.linkedin.com/in/raulcalvosanchez/) is a DeFi & blockchain specialized lawyer advising Diva on decentralization design. He is responsible for the unique design of the [Diva Staking DAO](dao), with guest posts like [Diva's Unconvential Approach to Decentralized Governance](https://medium.com/@divastaking/diva-staking-a-unique-approach-to-decentralized-governance-and-empowering-curation-cdd1d7ad47a9).
 
-[**Pablo**](https://www.linkedin.com/in/micho/) is a serial entrepreneur, now leading [The Staking Foundation](foundation), engaging the community & ecosystem to educate about the unique advantages of Diva Staking. You'll find him often in the [community Discord](https://discord.gg/diva)!
+[**Pablo**](https://www.linkedin.com/in/micho/) is a serial entrepreneur, now leading [The Staking Foundation](foundation), engaging the community & ecosystem to educate about the unique advantages of Diva Staking. You'll find him often in the community Discord.
 
 Unlike in many other DAOs, none of the co-founders participate in governance, paving the way to a fully community-led ecosystem.
 

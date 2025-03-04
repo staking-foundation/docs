@@ -150,10 +150,6 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Discord',
-                href: 'https://discord.gg/diva',
-              },
-              {
                 label: 'Twitter',
                 href: 'https://twitter.com/divastaking',
               },

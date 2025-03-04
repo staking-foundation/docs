@@ -8,7 +8,6 @@ description: Quick reference of all Diva resources and links
 ## Diva community
 
 - 🐦 [Twitter](https://twitter.com/divastaking) maintained by TSF
-- 👾 [Discord](https://discord.gg/diva)
 - 📰 [Medium](https://divastaking.medium.com) with news and staking education
 - 📺 [Youtube](https://youtube.com/@DivaStaking) with community calls and conference talks
 - 📣 [Telegram Announcements](https://t.me/followdiva)
@@ -37,7 +36,6 @@ description: Quick reference of all Diva resources and links
 
 - 🖥️ [Diva Staker Testnet](https://stake.diva.community): Stake, wrap & unstake your ETH
 - 👷🏼‍♀️ [Diva Operator Installation Instructions](https://docs.shamirlabs.org/) by Shamir Labs
-- 📣 [Follow the Testnet Discord Announcements](https://discord.com/channels/1041618287500460083/1139972545144160256)
 - 💠 [Divascan Explorer](https://divascan.io/), full network stats for nodes, validators, etc
 - 📊 [Diva Testnet Dashboard](https://dune.com/kevinzzz/diva-testnet-operation-status) by @kevinzzz
 - 📺 [Youtube talk on Diva's DVT design](https://www.youtube.com/watch?v=IHgMk15g2D4&ab_channel=DivaStaking)

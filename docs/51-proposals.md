@@ -9,7 +9,7 @@ Diva Staking's DAO governance offers space for both on-chain and off-chain discu
 
 **Here's how you can contribute now to shaping the Diva Staking Protocol:**
 
-- 🗣️ Starting or participating in forum discussions on [Discord](https://discord.com/channels/1041618287500460083/1129055607148773386) or [Commonwealth](https://commonwealth.im/divastaking/discussions).
+- 🗣️ Starting or participating in forum discussions on Discord.
 - ⛓️ [Submitting or voting on DAO proposals](https://www.tally.xyz/gov/diva) for on-chain decisions.
 - 🖥️ Being an active participant as a [Liquid Staker](https://stake.diva.community) or [Operator during testnet](operators).
 
@@ -29,7 +29,7 @@ Proposals can include topics regarding Diva Staking, suggestions on how to organ
 
 Community members are encouraged to participate, following the [DAO community guidelines](https://github.com/staking-foundation/diva-dao/blob/main/Community-Guidelines.md). Forums are open to anyone, as it is important to socialize ideas and gather community feedback before moving on to action.
 
-💬 Participate on discussions or suggest new ideas on [Discord](https://discord.com/channels/1041618287500460083/1129055607148773386) or [Commonwealth](https://commonwealth.im/divastaking/discussions)!
+💬 Participate on discussions or suggest new ideas on Discord or Commonwealth.
 
 ## Step 2: Proposal Drafting
 
@@ -62,7 +62,7 @@ There are three types of Proposals depending on their impact:
 
 In order for a proposal to be formally considered by the community, an off-chain process referred to as ‘temperature check’ must be followed. The goal is to evaluate proposal interest and community support before voting.
 
-The temperature check is done through dedicated threads the [Discord](https://discord.com/channels/1041618287500460083/1129055607148773386) or [Commonwealth](https://commonwealth.im/divastaking/discussions) community forums.
+The temperature check is done through dedicated threads the Discord or [Commonwealth](https://commonwealth.im/divastaking/discussions) community forums.
 
 👉 [**Use this DIP template to format your proposal**](https://github.com/staking-foundation/diva-dao/blob/main/DIP-xx%20Template.md) following the [Diva Staking DAO Community Guidelines](https://github.com/staking-foundation/diva-dao/blob/main/Community-Guidelines.md).
 

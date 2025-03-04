@@ -43,7 +43,6 @@ This will allow Liquid Stakers, Operators and the Diva DAO members to provide in
 Diva Mainnet will launch once the last functionalities are fully tested and audited by several top firms. 
 
 - 🛠️ [Get started with Diva Operator tesntet](operators).
-- 👾 [Join Discord](https://discord.gg/diva) to get support.
 
 
 ## Diva DAO: launched
@@ -59,5 +58,4 @@ The [Diva DAO](dao) is entrusted to curate the Diva staking protocol:
 
 
 - 🐦 [Follow @divastaking on Twitter](https://twitter.com/divastaking)
-- 👾 [Join Discord](https://discord.gg/diva) to get involved
 - 🔔 [Subscribe to the Telegram announcements](https://t.me/followdiva)
